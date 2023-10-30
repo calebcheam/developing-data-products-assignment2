@@ -1,0 +1,4693 @@
+person 1,person 2,jaccard similarity
+A S Madhukumar,Alexei Sourin,0.25
+A S Madhukumar,Anupam Chattopadhyay,0.18181818181818177
+A S Madhukumar,Anwitaman Datta,0.1428571428571429
+A S Madhukumar,Arvind Easwaran,0.1428571428571429
+A S Madhukumar,Bo An,0.0
+A S Madhukumar,Cham Tat Jen,0.5
+A S Madhukumar,Chee Wei Tan,0.0
+A S Madhukumar,Chen Change Loy,0.16666666666666663
+A S Madhukumar,Chia Liang Tien,0.6666666666666667
+A S Madhukumar,Chng Eng Siong,0.0
+A S Madhukumar,Cong Gao,0.11111111111111116
+A S Madhukumar,Deepu Rajan,0.6666666666666667
+A S Madhukumar,Dmitrii Ustiugov,0.0
+A S Madhukumar,Douglas Leslie Maskell,0.2222222222222222
+A S Madhukumar,Dusit Niyato,0.5
+A S Madhukumar,Erik Cambria,0.09999999999999998
+A S Madhukumar,Goh Wooi Boon,0.4285714285714286
+A S Madhukumar,Guan Cuntai,0.0
+A S Madhukumar,He Ying,0.16666666666666663
+A S Madhukumar,Huang Shell Ying,0.2222222222222222
+A S Madhukumar,Hui Siu Cheung,0.5714285714285714
+A S Madhukumar,Jagath Chandana Rajapakse,0.0
+A S Madhukumar,Kwoh Chee Keong,0.09999999999999998
+A S Madhukumar,Lam Kwok Yan,0.2222222222222222
+A S Madhukumar,Lam Siew Kei,0.25
+A S Madhukumar,Lee Bu Sung,0.5714285714285714
+A S Madhukumar,Li Boyang,0.16666666666666663
+A S Madhukumar,Li Mo,0.4285714285714286
+A S Madhukumar,Li Yi,0.16666666666666663
+A S Madhukumar,Lin Guosheng,0.16666666666666663
+A S Madhukumar,Lin Shang-Wei,0.1428571428571429
+A S Madhukumar,Liu Weichen,0.125
+A S Madhukumar,Liu Yang,0.1428571428571429
+A S Madhukumar,Liu Ziwei,0.16666666666666663
+A S Madhukumar,Loke Yuan Ren,0.33333333333333337
+A S Madhukumar,Long Cheng,0.0
+A S Madhukumar,Lu Shijian,0.0
+A S Madhukumar,Luo Jun,0.11111111111111116
+A S Madhukumar,Luo Siqiang,0.16666666666666663
+A S Madhukumar,Luu Anh Tuan,0.16666666666666663
+A S Madhukumar,Miao Chun Yan,0.5714285714285714
+A S Madhukumar,Mohamed M. Sabry,0.18181818181818177
+A S Madhukumar,Oh Hong Lye,0.16666666666666663
+A S Madhukumar,Ong Chin Ann,0.1428571428571429
+A S Madhukumar,Owen Noel Newton Fernando,0.33333333333333337
+A S Madhukumar,Pan Xingang,0.0
+A S Madhukumar,Qian Kemao,0.375
+A S Madhukumar,Seah Hock Soon,0.0
+A S Madhukumar,Shen Zhiqi,0.0
+A S Madhukumar,Siyuan Liu,0.0
+A S Madhukumar,Smitha K G,0.2222222222222222
+A S Madhukumar,Sourav Saha Bhowmick,0.09999999999999998
+A S Madhukumar,Sun Aixin,0.0
+A S Madhukumar,Tan Rui,0.5714285714285714
+A S Madhukumar,Vidya Sudarshan,0.0
+A S Madhukumar,Wai Kin Adams Kong,0.1428571428571429
+A S Madhukumar,Wang Wenya,0.0
+A S Madhukumar,Wee Keong NG,0.5
+A S Madhukumar,Wei Yang Bryan Lim,0.0
+A S Madhukumar,Wei Ying,0.0
+A S Madhukumar,Wen Yonggang,0.5
+A S Madhukumar,Wentong Cai,0.1428571428571429
+A S Madhukumar,Yeo Chai Kiat,1.0
+A S Madhukumar,Yu Han,0.0
+A S Madhukumar,Zhang Hanwang,0.375
+A S Madhukumar,Zhang Jie,0.0
+A S Madhukumar,Zhang Tianwei,0.16666666666666663
+A S Madhukumar,Zheng Jianmin,0.19999999999999996
+Alexei Sourin,A S Madhukumar,0.25
+Alexei Sourin,Anupam Chattopadhyay,0.09999999999999998
+Alexei Sourin,Anwitaman Datta,0.19999999999999996
+Alexei Sourin,Arvind Easwaran,0.19999999999999996
+Alexei Sourin,Bo An,0.11111111111111116
+Alexei Sourin,Cham Tat Jen,0.4
+Alexei Sourin,Chee Wei Tan,0.0
+Alexei Sourin,Chen Change Loy,0.25
+Alexei Sourin,Chia Liang Tien,0.33333333333333337
+Alexei Sourin,Chng Eng Siong,0.16666666666666663
+Alexei Sourin,Cong Gao,0.33333333333333337
+Alexei Sourin,Deepu Rajan,0.33333333333333337
+Alexei Sourin,Dmitrii Ustiugov,0.0
+Alexei Sourin,Douglas Leslie Maskell,0.125
+Alexei Sourin,Dusit Niyato,0.16666666666666663
+Alexei Sourin,Erik Cambria,0.125
+Alexei Sourin,Goh Wooi Boon,0.33333333333333337
+Alexei Sourin,Guan Cuntai,0.0
+Alexei Sourin,He Ying,0.25
+Alexei Sourin,Huang Shell Ying,0.125
+Alexei Sourin,Hui Siu Cheung,0.2857142857142857
+Alexei Sourin,Jagath Chandana Rajapakse,0.0
+Alexei Sourin,Kwoh Chee Keong,0.125
+Alexei Sourin,Lam Kwok Yan,0.2857142857142857
+Alexei Sourin,Lam Siew Kei,0.1428571428571429
+Alexei Sourin,Lee Bu Sung,0.125
+Alexei Sourin,Li Boyang,0.25
+Alexei Sourin,Li Mo,0.1428571428571429
+Alexei Sourin,Li Yi,0.25
+Alexei Sourin,Lin Guosheng,0.25
+Alexei Sourin,Lin Shang-Wei,0.19999999999999996
+Alexei Sourin,Liu Weichen,0.16666666666666663
+Alexei Sourin,Liu Yang,0.19999999999999996
+Alexei Sourin,Liu Ziwei,0.25
+Alexei Sourin,Loke Yuan Ren,0.25
+Alexei Sourin,Long Cheng,0.0
+Alexei Sourin,Lu Shijian,0.2857142857142857
+Alexei Sourin,Luo Jun,0.0
+Alexei Sourin,Luo Siqiang,0.25
+Alexei Sourin,Luu Anh Tuan,0.25
+Alexei Sourin,Miao Chun Yan,0.2857142857142857
+Alexei Sourin,Mohamed M. Sabry,0.09999999999999998
+Alexei Sourin,Oh Hong Lye,0.25
+Alexei Sourin,Ong Chin Ann,0.0
+Alexei Sourin,Owen Noel Newton Fernando,0.4285714285714286
+Alexei Sourin,Pan Xingang,0.0
+Alexei Sourin,Qian Kemao,0.2857142857142857
+Alexei Sourin,Seah Hock Soon,0.16666666666666663
+Alexei Sourin,Shen Zhiqi,0.125
+Alexei Sourin,Siyuan Liu,0.0
+Alexei Sourin,Smitha K G,0.125
+Alexei Sourin,Sourav Saha Bhowmick,0.125
+Alexei Sourin,Sun Aixin,0.0
+Alexei Sourin,Tan Rui,0.125
+Alexei Sourin,Vidya Sudarshan,0.0
+Alexei Sourin,Wai Kin Adams Kong,0.5
+Alexei Sourin,Wang Wenya,0.0
+Alexei Sourin,Wee Keong NG,0.25
+Alexei Sourin,Wei Yang Bryan Lim,0.1428571428571429
+Alexei Sourin,Wei Ying,0.0
+Alexei Sourin,Wen Yonggang,0.16666666666666663
+Alexei Sourin,Wentong Cai,0.19999999999999996
+Alexei Sourin,Yeo Chai Kiat,0.25
+Alexei Sourin,Yu Han,0.125
+Alexei Sourin,Zhang Hanwang,0.2857142857142857
+Alexei Sourin,Zhang Jie,0.0
+Alexei Sourin,Zhang Tianwei,0.25
+Alexei Sourin,Zheng Jianmin,0.25
+Anupam Chattopadhyay,A S Madhukumar,0.18181818181818177
+Anupam Chattopadhyay,Alexei Sourin,0.09999999999999998
+Anupam Chattopadhyay,Anwitaman Datta,0.125
+Anupam Chattopadhyay,Arvind Easwaran,0.2857142857142857
+Anupam Chattopadhyay,Bo An,0.0
+Anupam Chattopadhyay,Cham Tat Jen,0.11111111111111116
+Anupam Chattopadhyay,Chee Wei Tan,0.0
+Anupam Chattopadhyay,Chen Change Loy,0.1428571428571429
+Anupam Chattopadhyay,Chia Liang Tien,0.09999999999999998
+Anupam Chattopadhyay,Chng Eng Siong,0.0
+Anupam Chattopadhyay,Cong Gao,0.09999999999999998
+Anupam Chattopadhyay,Deepu Rajan,0.2222222222222222
+Anupam Chattopadhyay,Dmitrii Ustiugov,0.125
+Anupam Chattopadhyay,Douglas Leslie Maskell,0.5
+Anupam Chattopadhyay,Dusit Niyato,0.25
+Anupam Chattopadhyay,Erik Cambria,0.09090909090909094
+Anupam Chattopadhyay,Goh Wooi Boon,0.2222222222222222
+Anupam Chattopadhyay,Guan Cuntai,0.0
+Anupam Chattopadhyay,He Ying,0.1428571428571429
+Anupam Chattopadhyay,Huang Shell Ying,0.09090909090909094
+Anupam Chattopadhyay,Hui Siu Cheung,0.09090909090909094
+Anupam Chattopadhyay,Jagath Chandana Rajapakse,0.0
+Anupam Chattopadhyay,Kwoh Chee Keong,0.09090909090909094
+Anupam Chattopadhyay,Lam Kwok Yan,0.19999999999999996
+Anupam Chattopadhyay,Lam Siew Kei,0.5714285714285714
+Anupam Chattopadhyay,Lee Bu Sung,0.09090909090909094
+Anupam Chattopadhyay,Li Boyang,0.1428571428571429
+Anupam Chattopadhyay,Li Mo,0.09999999999999998
+Anupam Chattopadhyay,Li Yi,0.1428571428571429
+Anupam Chattopadhyay,Lin Guosheng,0.1428571428571429
+Anupam Chattopadhyay,Lin Shang-Wei,0.125
+Anupam Chattopadhyay,Liu Weichen,0.4285714285714286
+Anupam Chattopadhyay,Liu Yang,0.125
+Anupam Chattopadhyay,Liu Ziwei,0.1428571428571429
+Anupam Chattopadhyay,Loke Yuan Ren,0.18181818181818177
+Anupam Chattopadhyay,Long Cheng,0.0
+Anupam Chattopadhyay,Lu Shijian,0.0
+Anupam Chattopadhyay,Luo Jun,0.09999999999999998
+Anupam Chattopadhyay,Luo Siqiang,0.1428571428571429
+Anupam Chattopadhyay,Luu Anh Tuan,0.1428571428571429
+Anupam Chattopadhyay,Miao Chun Yan,0.09090909090909094
+Anupam Chattopadhyay,Mohamed M. Sabry,0.5555555555555556
+Anupam Chattopadhyay,Oh Hong Lye,0.1428571428571429
+Anupam Chattopadhyay,Ong Chin Ann,0.0
+Anupam Chattopadhyay,Owen Noel Newton Fernando,0.08333333333333337
+Anupam Chattopadhyay,Pan Xingang,0.0
+Anupam Chattopadhyay,Qian Kemao,0.19999999999999996
+Anupam Chattopadhyay,Seah Hock Soon,0.0
+Anupam Chattopadhyay,Shen Zhiqi,0.0
+Anupam Chattopadhyay,Siyuan Liu,0.0
+Anupam Chattopadhyay,Smitha K G,0.33333333333333337
+Anupam Chattopadhyay,Sourav Saha Bhowmick,0.09090909090909094
+Anupam Chattopadhyay,Sun Aixin,0.0
+Anupam Chattopadhyay,Tan Rui,0.09090909090909094
+Anupam Chattopadhyay,Vidya Sudarshan,0.0
+Anupam Chattopadhyay,Wai Kin Adams Kong,0.125
+Anupam Chattopadhyay,Wang Wenya,0.0
+Anupam Chattopadhyay,Wee Keong NG,0.18181818181818177
+Anupam Chattopadhyay,Wei Yang Bryan Lim,0.0
+Anupam Chattopadhyay,Wei Ying,0.0
+Anupam Chattopadhyay,Wen Yonggang,0.11111111111111116
+Anupam Chattopadhyay,Wentong Cai,0.125
+Anupam Chattopadhyay,Yeo Chai Kiat,0.18181818181818177
+Anupam Chattopadhyay,Yu Han,0.0
+Anupam Chattopadhyay,Zhang Hanwang,0.19999999999999996
+Anupam Chattopadhyay,Zhang Jie,0.0
+Anupam Chattopadhyay,Zhang Tianwei,0.1428571428571429
+Anupam Chattopadhyay,Zheng Jianmin,0.08333333333333337
+Anwitaman Datta,A S Madhukumar,0.1428571428571429
+Anwitaman Datta,Alexei Sourin,0.19999999999999996
+Anwitaman Datta,Anupam Chattopadhyay,0.125
+Anwitaman Datta,Arvind Easwaran,0.33333333333333337
+Anwitaman Datta,Bo An,0.0
+Anwitaman Datta,Cham Tat Jen,0.25
+Anwitaman Datta,Chee Wei Tan,0.0
+Anwitaman Datta,Chen Change Loy,0.5
+Anwitaman Datta,Chia Liang Tien,0.19999999999999996
+Anwitaman Datta,Chng Eng Siong,0.0
+Anwitaman Datta,Cong Gao,0.19999999999999996
+Anwitaman Datta,Deepu Rajan,0.19999999999999996
+Anwitaman Datta,Dmitrii Ustiugov,0.33333333333333337
+Anwitaman Datta,Douglas Leslie Maskell,0.16666666666666663
+Anwitaman Datta,Dusit Niyato,0.25
+Anwitaman Datta,Erik Cambria,0.16666666666666663
+Anwitaman Datta,Goh Wooi Boon,0.19999999999999996
+Anwitaman Datta,Guan Cuntai,0.0
+Anwitaman Datta,He Ying,0.5
+Anwitaman Datta,Huang Shell Ying,0.4
+Anwitaman Datta,Hui Siu Cheung,0.16666666666666663
+Anwitaman Datta,Jagath Chandana Rajapakse,0.0
+Anwitaman Datta,Kwoh Chee Keong,0.16666666666666663
+Anwitaman Datta,Lam Kwok Yan,0.16666666666666663
+Anwitaman Datta,Lam Siew Kei,0.19999999999999996
+Anwitaman Datta,Lee Bu Sung,0.4
+Anwitaman Datta,Li Boyang,0.5
+Anwitaman Datta,Li Mo,0.19999999999999996
+Anwitaman Datta,Li Yi,0.5
+Anwitaman Datta,Lin Guosheng,0.5
+Anwitaman Datta,Lin Shang-Wei,0.33333333333333337
+Anwitaman Datta,Liu Weichen,0.25
+Anwitaman Datta,Liu Yang,0.33333333333333337
+Anwitaman Datta,Liu Ziwei,0.5
+Anwitaman Datta,Loke Yuan Ren,0.1428571428571429
+Anwitaman Datta,Long Cheng,0.0
+Anwitaman Datta,Lu Shijian,0.0
+Anwitaman Datta,Luo Jun,0.0
+Anwitaman Datta,Luo Siqiang,0.5
+Anwitaman Datta,Luu Anh Tuan,0.5
+Anwitaman Datta,Miao Chun Yan,0.16666666666666663
+Anwitaman Datta,Mohamed M. Sabry,0.125
+Anwitaman Datta,Oh Hong Lye,0.5
+Anwitaman Datta,Ong Chin Ann,0.0
+Anwitaman Datta,Owen Noel Newton Fernando,0.1428571428571429
+Anwitaman Datta,Pan Xingang,0.0
+Anwitaman Datta,Qian Kemao,0.16666666666666663
+Anwitaman Datta,Seah Hock Soon,0.25
+Anwitaman Datta,Shen Zhiqi,0.0
+Anwitaman Datta,Siyuan Liu,0.0
+Anwitaman Datta,Smitha K G,0.16666666666666663
+Anwitaman Datta,Sourav Saha Bhowmick,0.16666666666666663
+Anwitaman Datta,Sun Aixin,0.0
+Anwitaman Datta,Tan Rui,0.16666666666666663
+Anwitaman Datta,Vidya Sudarshan,0.0
+Anwitaman Datta,Wai Kin Adams Kong,0.33333333333333337
+Anwitaman Datta,Wang Wenya,0.0
+Anwitaman Datta,Wee Keong NG,0.1428571428571429
+Anwitaman Datta,Wei Yang Bryan Lim,0.19999999999999996
+Anwitaman Datta,Wei Ying,0.0
+Anwitaman Datta,Wen Yonggang,0.25
+Anwitaman Datta,Wentong Cai,1.0
+Anwitaman Datta,Yeo Chai Kiat,0.1428571428571429
+Anwitaman Datta,Yu Han,0.16666666666666663
+Anwitaman Datta,Zhang Hanwang,0.16666666666666663
+Anwitaman Datta,Zhang Jie,0.0
+Anwitaman Datta,Zhang Tianwei,0.5
+Anwitaman Datta,Zheng Jianmin,0.1428571428571429
+Arvind Easwaran,A S Madhukumar,0.1428571428571429
+Arvind Easwaran,Alexei Sourin,0.19999999999999996
+Arvind Easwaran,Anupam Chattopadhyay,0.2857142857142857
+Arvind Easwaran,Anwitaman Datta,0.33333333333333337
+Arvind Easwaran,Bo An,0.0
+Arvind Easwaran,Cham Tat Jen,0.25
+Arvind Easwaran,Chee Wei Tan,0.0
+Arvind Easwaran,Chen Change Loy,0.5
+Arvind Easwaran,Chia Liang Tien,0.19999999999999996
+Arvind Easwaran,Chng Eng Siong,0.0
+Arvind Easwaran,Cong Gao,0.19999999999999996
+Arvind Easwaran,Deepu Rajan,0.19999999999999996
+Arvind Easwaran,Dmitrii Ustiugov,0.33333333333333337
+Arvind Easwaran,Douglas Leslie Maskell,0.4
+Arvind Easwaran,Dusit Niyato,0.25
+Arvind Easwaran,Erik Cambria,0.16666666666666663
+Arvind Easwaran,Goh Wooi Boon,0.19999999999999996
+Arvind Easwaran,Guan Cuntai,0.0
+Arvind Easwaran,He Ying,0.5
+Arvind Easwaran,Huang Shell Ying,0.16666666666666663
+Arvind Easwaran,Hui Siu Cheung,0.16666666666666663
+Arvind Easwaran,Jagath Chandana Rajapakse,0.0
+Arvind Easwaran,Kwoh Chee Keong,0.16666666666666663
+Arvind Easwaran,Lam Kwok Yan,0.16666666666666663
+Arvind Easwaran,Lam Siew Kei,0.5
+Arvind Easwaran,Lee Bu Sung,0.16666666666666663
+Arvind Easwaran,Li Boyang,0.5
+Arvind Easwaran,Li Mo,0.19999999999999996
+Arvind Easwaran,Li Yi,0.5
+Arvind Easwaran,Lin Guosheng,0.5
+Arvind Easwaran,Lin Shang-Wei,0.33333333333333337
+Arvind Easwaran,Liu Weichen,0.6666666666666667
+Arvind Easwaran,Liu Yang,0.33333333333333337
+Arvind Easwaran,Liu Ziwei,0.5
+Arvind Easwaran,Loke Yuan Ren,0.1428571428571429
+Arvind Easwaran,Long Cheng,0.0
+Arvind Easwaran,Lu Shijian,0.0
+Arvind Easwaran,Luo Jun,0.0
+Arvind Easwaran,Luo Siqiang,0.5
+Arvind Easwaran,Luu Anh Tuan,0.5
+Arvind Easwaran,Miao Chun Yan,0.16666666666666663
+Arvind Easwaran,Mohamed M. Sabry,0.2857142857142857
+Arvind Easwaran,Oh Hong Lye,0.5
+Arvind Easwaran,Ong Chin Ann,0.0
+Arvind Easwaran,Owen Noel Newton Fernando,0.1428571428571429
+Arvind Easwaran,Pan Xingang,0.0
+Arvind Easwaran,Qian Kemao,0.16666666666666663
+Arvind Easwaran,Seah Hock Soon,0.0
+Arvind Easwaran,Shen Zhiqi,0.0
+Arvind Easwaran,Siyuan Liu,0.0
+Arvind Easwaran,Smitha K G,0.16666666666666663
+Arvind Easwaran,Sourav Saha Bhowmick,0.16666666666666663
+Arvind Easwaran,Sun Aixin,0.0
+Arvind Easwaran,Tan Rui,0.16666666666666663
+Arvind Easwaran,Vidya Sudarshan,0.0
+Arvind Easwaran,Wai Kin Adams Kong,0.33333333333333337
+Arvind Easwaran,Wang Wenya,0.0
+Arvind Easwaran,Wee Keong NG,0.1428571428571429
+Arvind Easwaran,Wei Yang Bryan Lim,0.0
+Arvind Easwaran,Wei Ying,0.0
+Arvind Easwaran,Wen Yonggang,0.25
+Arvind Easwaran,Wentong Cai,0.33333333333333337
+Arvind Easwaran,Yeo Chai Kiat,0.1428571428571429
+Arvind Easwaran,Yu Han,0.0
+Arvind Easwaran,Zhang Hanwang,0.16666666666666663
+Arvind Easwaran,Zhang Jie,0.0
+Arvind Easwaran,Zhang Tianwei,0.5
+Arvind Easwaran,Zheng Jianmin,0.1428571428571429
+Bo An,A S Madhukumar,0.0
+Bo An,Alexei Sourin,0.11111111111111116
+Bo An,Anupam Chattopadhyay,0.0
+Bo An,Anwitaman Datta,0.0
+Bo An,Arvind Easwaran,0.0
+Bo An,Cham Tat Jen,0.0
+Bo An,Chee Wei Tan,0.0
+Bo An,Chen Change Loy,0.0
+Bo An,Chia Liang Tien,0.0
+Bo An,Chng Eng Siong,0.5
+Bo An,Cong Gao,0.25
+Bo An,Deepu Rajan,0.0
+Bo An,Dmitrii Ustiugov,0.0
+Bo An,Douglas Leslie Maskell,0.0
+Bo An,Dusit Niyato,0.0
+Bo An,Erik Cambria,0.375
+Bo An,Goh Wooi Boon,0.0
+Bo An,Guan Cuntai,0.25
+Bo An,He Ying,0.0
+Bo An,Huang Shell Ying,0.0
+Bo An,Hui Siu Cheung,0.0
+Bo An,Jagath Chandana Rajapakse,0.2727272727272727
+Bo An,Kwoh Chee Keong,0.0
+Bo An,Lam Kwok Yan,0.09999999999999998
+Bo An,Lam Siew Kei,0.0
+Bo An,Lee Bu Sung,0.0
+Bo An,Li Boyang,0.0
+Bo An,Li Mo,0.0
+Bo An,Li Yi,0.0
+Bo An,Lin Guosheng,0.0
+Bo An,Lin Shang-Wei,0.0
+Bo An,Liu Weichen,0.0
+Bo An,Liu Yang,0.0
+Bo An,Liu Ziwei,0.0
+Bo An,Loke Yuan Ren,0.0
+Bo An,Long Cheng,0.16666666666666663
+Bo An,Lu Shijian,0.2222222222222222
+Bo An,Luo Jun,0.0
+Bo An,Luo Siqiang,0.0
+Bo An,Luu Anh Tuan,0.0
+Bo An,Miao Chun Yan,0.09999999999999998
+Bo An,Mohamed M. Sabry,0.0
+Bo An,Oh Hong Lye,0.0
+Bo An,Ong Chin Ann,0.0
+Bo An,Owen Noel Newton Fernando,0.0
+Bo An,Pan Xingang,0.0
+Bo An,Qian Kemao,0.0
+Bo An,Seah Hock Soon,0.0
+Bo An,Shen Zhiqi,0.2222222222222222
+Bo An,Siyuan Liu,0.11111111111111116
+Bo An,Smitha K G,0.0
+Bo An,Sourav Saha Bhowmick,0.0
+Bo An,Sun Aixin,0.33333333333333337
+Bo An,Tan Rui,0.0
+Bo An,Vidya Sudarshan,0.0
+Bo An,Wai Kin Adams Kong,0.1428571428571429
+Bo An,Wang Wenya,0.0
+Bo An,Wee Keong NG,0.0
+Bo An,Wei Yang Bryan Lim,0.25
+Bo An,Wei Ying,0.1428571428571429
+Bo An,Wen Yonggang,0.0
+Bo An,Wentong Cai,0.0
+Bo An,Yeo Chai Kiat,0.0
+Bo An,Yu Han,0.375
+Bo An,Zhang Hanwang,0.0
+Bo An,Zhang Jie,0.33333333333333337
+Bo An,Zhang Tianwei,0.0
+Bo An,Zheng Jianmin,0.0
+Cham Tat Jen,A S Madhukumar,0.5
+Cham Tat Jen,Alexei Sourin,0.4
+Cham Tat Jen,Anupam Chattopadhyay,0.11111111111111116
+Cham Tat Jen,Anwitaman Datta,0.25
+Cham Tat Jen,Arvind Easwaran,0.25
+Cham Tat Jen,Bo An,0.0
+Cham Tat Jen,Chee Wei Tan,0.0
+Cham Tat Jen,Chen Change Loy,0.33333333333333337
+Cham Tat Jen,Chia Liang Tien,0.75
+Cham Tat Jen,Chng Eng Siong,0.0
+Cham Tat Jen,Cong Gao,0.16666666666666663
+Cham Tat Jen,Deepu Rajan,0.75
+Cham Tat Jen,Dmitrii Ustiugov,0.0
+Cham Tat Jen,Douglas Leslie Maskell,0.1428571428571429
+Cham Tat Jen,Dusit Niyato,0.19999999999999996
+Cham Tat Jen,Erik Cambria,0.1428571428571429
+Cham Tat Jen,Goh Wooi Boon,0.4
+Cham Tat Jen,Guan Cuntai,0.0
+Cham Tat Jen,He Ying,0.33333333333333337
+Cham Tat Jen,Huang Shell Ying,0.33333333333333337
+Cham Tat Jen,Hui Siu Cheung,0.6
+Cham Tat Jen,Jagath Chandana Rajapakse,0.0
+Cham Tat Jen,Kwoh Chee Keong,0.1428571428571429
+Cham Tat Jen,Lam Kwok Yan,0.33333333333333337
+Cham Tat Jen,Lam Siew Kei,0.16666666666666663
+Cham Tat Jen,Lee Bu Sung,0.33333333333333337
+Cham Tat Jen,Li Boyang,0.33333333333333337
+Cham Tat Jen,Li Mo,0.16666666666666663
+Cham Tat Jen,Li Yi,0.33333333333333337
+Cham Tat Jen,Lin Guosheng,0.33333333333333337
+Cham Tat Jen,Lin Shang-Wei,0.25
+Cham Tat Jen,Liu Weichen,0.19999999999999996
+Cham Tat Jen,Liu Yang,0.25
+Cham Tat Jen,Liu Ziwei,0.33333333333333337
+Cham Tat Jen,Loke Yuan Ren,0.2857142857142857
+Cham Tat Jen,Long Cheng,0.0
+Cham Tat Jen,Lu Shijian,0.0
+Cham Tat Jen,Luo Jun,0.0
+Cham Tat Jen,Luo Siqiang,0.33333333333333337
+Cham Tat Jen,Luu Anh Tuan,0.33333333333333337
+Cham Tat Jen,Miao Chun Yan,0.6
+Cham Tat Jen,Mohamed M. Sabry,0.11111111111111116
+Cham Tat Jen,Oh Hong Lye,0.33333333333333337
+Cham Tat Jen,Ong Chin Ann,0.0
+Cham Tat Jen,Owen Noel Newton Fernando,0.5
+Cham Tat Jen,Pan Xingang,0.0
+Cham Tat Jen,Qian Kemao,0.33333333333333337
+Cham Tat Jen,Seah Hock Soon,0.0
+Cham Tat Jen,Shen Zhiqi,0.0
+Cham Tat Jen,Siyuan Liu,0.0
+Cham Tat Jen,Smitha K G,0.1428571428571429
+Cham Tat Jen,Sourav Saha Bhowmick,0.1428571428571429
+Cham Tat Jen,Sun Aixin,0.0
+Cham Tat Jen,Tan Rui,0.33333333333333337
+Cham Tat Jen,Vidya Sudarshan,0.0
+Cham Tat Jen,Wai Kin Adams Kong,0.25
+Cham Tat Jen,Wang Wenya,0.0
+Cham Tat Jen,Wee Keong NG,0.5
+Cham Tat Jen,Wei Yang Bryan Lim,0.0
+Cham Tat Jen,Wei Ying,0.0
+Cham Tat Jen,Wen Yonggang,0.5
+Cham Tat Jen,Wentong Cai,0.25
+Cham Tat Jen,Yeo Chai Kiat,0.5
+Cham Tat Jen,Yu Han,0.0
+Cham Tat Jen,Zhang Hanwang,0.33333333333333337
+Cham Tat Jen,Zhang Jie,0.0
+Cham Tat Jen,Zhang Tianwei,0.33333333333333337
+Cham Tat Jen,Zheng Jianmin,0.2857142857142857
+Chee Wei Tan,A S Madhukumar,0.0
+Chee Wei Tan,Alexei Sourin,0.0
+Chee Wei Tan,Anupam Chattopadhyay,0.0
+Chee Wei Tan,Anwitaman Datta,0.0
+Chee Wei Tan,Arvind Easwaran,0.0
+Chee Wei Tan,Bo An,0.0
+Chee Wei Tan,Cham Tat Jen,0.0
+Chee Wei Tan,Chen Change Loy,0.0
+Chee Wei Tan,Chia Liang Tien,0.0
+Chee Wei Tan,Chng Eng Siong,0.0
+Chee Wei Tan,Cong Gao,0.0
+Chee Wei Tan,Deepu Rajan,0.0
+Chee Wei Tan,Dmitrii Ustiugov,0.0
+Chee Wei Tan,Douglas Leslie Maskell,0.0
+Chee Wei Tan,Dusit Niyato,0.0
+Chee Wei Tan,Erik Cambria,0.0
+Chee Wei Tan,Goh Wooi Boon,0.0
+Chee Wei Tan,Guan Cuntai,0.0
+Chee Wei Tan,He Ying,0.0
+Chee Wei Tan,Huang Shell Ying,0.0
+Chee Wei Tan,Hui Siu Cheung,0.0
+Chee Wei Tan,Jagath Chandana Rajapakse,0.0
+Chee Wei Tan,Kwoh Chee Keong,0.0
+Chee Wei Tan,Lam Kwok Yan,0.0
+Chee Wei Tan,Lam Siew Kei,0.0
+Chee Wei Tan,Lee Bu Sung,0.0
+Chee Wei Tan,Li Boyang,0.0
+Chee Wei Tan,Li Mo,0.0
+Chee Wei Tan,Li Yi,0.0
+Chee Wei Tan,Lin Guosheng,0.0
+Chee Wei Tan,Lin Shang-Wei,0.0
+Chee Wei Tan,Liu Weichen,0.0
+Chee Wei Tan,Liu Yang,0.0
+Chee Wei Tan,Liu Ziwei,0.0
+Chee Wei Tan,Loke Yuan Ren,0.0
+Chee Wei Tan,Long Cheng,0.0
+Chee Wei Tan,Lu Shijian,0.0
+Chee Wei Tan,Luo Jun,0.0
+Chee Wei Tan,Luo Siqiang,0.0
+Chee Wei Tan,Luu Anh Tuan,0.0
+Chee Wei Tan,Miao Chun Yan,0.0
+Chee Wei Tan,Mohamed M. Sabry,0.0
+Chee Wei Tan,Oh Hong Lye,0.0
+Chee Wei Tan,Ong Chin Ann,0.0
+Chee Wei Tan,Owen Noel Newton Fernando,0.0
+Chee Wei Tan,Pan Xingang,1.0
+Chee Wei Tan,Qian Kemao,0.0
+Chee Wei Tan,Seah Hock Soon,0.0
+Chee Wei Tan,Shen Zhiqi,0.0
+Chee Wei Tan,Siyuan Liu,0.0
+Chee Wei Tan,Smitha K G,0.0
+Chee Wei Tan,Sourav Saha Bhowmick,0.0
+Chee Wei Tan,Sun Aixin,0.0
+Chee Wei Tan,Tan Rui,0.0
+Chee Wei Tan,Vidya Sudarshan,1.0
+Chee Wei Tan,Wai Kin Adams Kong,0.0
+Chee Wei Tan,Wang Wenya,1.0
+Chee Wei Tan,Wee Keong NG,0.0
+Chee Wei Tan,Wei Yang Bryan Lim,0.0
+Chee Wei Tan,Wei Ying,0.0
+Chee Wei Tan,Wen Yonggang,0.0
+Chee Wei Tan,Wentong Cai,0.0
+Chee Wei Tan,Yeo Chai Kiat,0.0
+Chee Wei Tan,Yu Han,0.0
+Chee Wei Tan,Zhang Hanwang,0.0
+Chee Wei Tan,Zhang Jie,0.0
+Chee Wei Tan,Zhang Tianwei,0.0
+Chee Wei Tan,Zheng Jianmin,0.0
+Chen Change Loy,A S Madhukumar,0.16666666666666663
+Chen Change Loy,Alexei Sourin,0.25
+Chen Change Loy,Anupam Chattopadhyay,0.1428571428571429
+Chen Change Loy,Anwitaman Datta,0.5
+Chen Change Loy,Arvind Easwaran,0.5
+Chen Change Loy,Bo An,0.0
+Chen Change Loy,Cham Tat Jen,0.33333333333333337
+Chen Change Loy,Chee Wei Tan,0.0
+Chen Change Loy,Chia Liang Tien,0.25
+Chen Change Loy,Chng Eng Siong,0.0
+Chen Change Loy,Cong Gao,0.25
+Chen Change Loy,Deepu Rajan,0.25
+Chen Change Loy,Dmitrii Ustiugov,0.0
+Chen Change Loy,Douglas Leslie Maskell,0.19999999999999996
+Chen Change Loy,Dusit Niyato,0.33333333333333337
+Chen Change Loy,Erik Cambria,0.19999999999999996
+Chen Change Loy,Goh Wooi Boon,0.25
+Chen Change Loy,Guan Cuntai,0.0
+Chen Change Loy,He Ying,1.0
+Chen Change Loy,Huang Shell Ying,0.19999999999999996
+Chen Change Loy,Hui Siu Cheung,0.19999999999999996
+Chen Change Loy,Jagath Chandana Rajapakse,0.0
+Chen Change Loy,Kwoh Chee Keong,0.19999999999999996
+Chen Change Loy,Lam Kwok Yan,0.19999999999999996
+Chen Change Loy,Lam Siew Kei,0.25
+Chen Change Loy,Lee Bu Sung,0.19999999999999996
+Chen Change Loy,Li Boyang,1.0
+Chen Change Loy,Li Mo,0.25
+Chen Change Loy,Li Yi,1.0
+Chen Change Loy,Lin Guosheng,1.0
+Chen Change Loy,Lin Shang-Wei,0.5
+Chen Change Loy,Liu Weichen,0.33333333333333337
+Chen Change Loy,Liu Yang,0.5
+Chen Change Loy,Liu Ziwei,1.0
+Chen Change Loy,Loke Yuan Ren,0.16666666666666663
+Chen Change Loy,Long Cheng,0.0
+Chen Change Loy,Lu Shijian,0.0
+Chen Change Loy,Luo Jun,0.0
+Chen Change Loy,Luo Siqiang,1.0
+Chen Change Loy,Luu Anh Tuan,1.0
+Chen Change Loy,Miao Chun Yan,0.19999999999999996
+Chen Change Loy,Mohamed M. Sabry,0.1428571428571429
+Chen Change Loy,Oh Hong Lye,1.0
+Chen Change Loy,Ong Chin Ann,0.0
+Chen Change Loy,Owen Noel Newton Fernando,0.16666666666666663
+Chen Change Loy,Pan Xingang,0.0
+Chen Change Loy,Qian Kemao,0.19999999999999996
+Chen Change Loy,Seah Hock Soon,0.0
+Chen Change Loy,Shen Zhiqi,0.0
+Chen Change Loy,Siyuan Liu,0.0
+Chen Change Loy,Smitha K G,0.19999999999999996
+Chen Change Loy,Sourav Saha Bhowmick,0.19999999999999996
+Chen Change Loy,Sun Aixin,0.0
+Chen Change Loy,Tan Rui,0.19999999999999996
+Chen Change Loy,Vidya Sudarshan,0.0
+Chen Change Loy,Wai Kin Adams Kong,0.5
+Chen Change Loy,Wang Wenya,0.0
+Chen Change Loy,Wee Keong NG,0.16666666666666663
+Chen Change Loy,Wei Yang Bryan Lim,0.0
+Chen Change Loy,Wei Ying,0.0
+Chen Change Loy,Wen Yonggang,0.33333333333333337
+Chen Change Loy,Wentong Cai,0.5
+Chen Change Loy,Yeo Chai Kiat,0.16666666666666663
+Chen Change Loy,Yu Han,0.0
+Chen Change Loy,Zhang Hanwang,0.19999999999999996
+Chen Change Loy,Zhang Jie,0.0
+Chen Change Loy,Zhang Tianwei,1.0
+Chen Change Loy,Zheng Jianmin,0.16666666666666663
+Chia Liang Tien,A S Madhukumar,0.6666666666666667
+Chia Liang Tien,Alexei Sourin,0.33333333333333337
+Chia Liang Tien,Anupam Chattopadhyay,0.09999999999999998
+Chia Liang Tien,Anwitaman Datta,0.19999999999999996
+Chia Liang Tien,Arvind Easwaran,0.19999999999999996
+Chia Liang Tien,Bo An,0.0
+Chia Liang Tien,Cham Tat Jen,0.75
+Chia Liang Tien,Chee Wei Tan,0.0
+Chia Liang Tien,Chen Change Loy,0.25
+Chia Liang Tien,Chng Eng Siong,0.0
+Chia Liang Tien,Cong Gao,0.1428571428571429
+Chia Liang Tien,Deepu Rajan,0.6
+Chia Liang Tien,Dmitrii Ustiugov,0.0
+Chia Liang Tien,Douglas Leslie Maskell,0.125
+Chia Liang Tien,Dusit Niyato,0.16666666666666663
+Chia Liang Tien,Erik Cambria,0.125
+Chia Liang Tien,Goh Wooi Boon,0.33333333333333337
+Chia Liang Tien,Guan Cuntai,0.0
+Chia Liang Tien,He Ying,0.25
+Chia Liang Tien,Huang Shell Ying,0.2857142857142857
+Chia Liang Tien,Hui Siu Cheung,0.8
+Chia Liang Tien,Jagath Chandana Rajapakse,0.0
+Chia Liang Tien,Kwoh Chee Keong,0.125
+Chia Liang Tien,Lam Kwok Yan,0.2857142857142857
+Chia Liang Tien,Lam Siew Kei,0.1428571428571429
+Chia Liang Tien,Lee Bu Sung,0.5
+Chia Liang Tien,Li Boyang,0.25
+Chia Liang Tien,Li Mo,0.33333333333333337
+Chia Liang Tien,Li Yi,0.25
+Chia Liang Tien,Lin Guosheng,0.25
+Chia Liang Tien,Lin Shang-Wei,0.19999999999999996
+Chia Liang Tien,Liu Weichen,0.16666666666666663
+Chia Liang Tien,Liu Yang,0.19999999999999996
+Chia Liang Tien,Liu Ziwei,0.25
+Chia Liang Tien,Loke Yuan Ren,0.25
+Chia Liang Tien,Long Cheng,0.0
+Chia Liang Tien,Lu Shijian,0.0
+Chia Liang Tien,Luo Jun,0.0
+Chia Liang Tien,Luo Siqiang,0.25
+Chia Liang Tien,Luu Anh Tuan,0.25
+Chia Liang Tien,Miao Chun Yan,0.8
+Chia Liang Tien,Mohamed M. Sabry,0.09999999999999998
+Chia Liang Tien,Oh Hong Lye,0.25
+Chia Liang Tien,Ong Chin Ann,0.0
+Chia Liang Tien,Owen Noel Newton Fernando,0.4285714285714286
+Chia Liang Tien,Pan Xingang,0.0
+Chia Liang Tien,Qian Kemao,0.2857142857142857
+Chia Liang Tien,Seah Hock Soon,0.0
+Chia Liang Tien,Shen Zhiqi,0.0
+Chia Liang Tien,Siyuan Liu,0.0
+Chia Liang Tien,Smitha K G,0.125
+Chia Liang Tien,Sourav Saha Bhowmick,0.125
+Chia Liang Tien,Sun Aixin,0.0
+Chia Liang Tien,Tan Rui,0.5
+Chia Liang Tien,Vidya Sudarshan,0.0
+Chia Liang Tien,Wai Kin Adams Kong,0.19999999999999996
+Chia Liang Tien,Wang Wenya,0.0
+Chia Liang Tien,Wee Keong NG,0.6666666666666667
+Chia Liang Tien,Wei Yang Bryan Lim,0.0
+Chia Liang Tien,Wei Ying,0.0
+Chia Liang Tien,Wen Yonggang,0.75
+Chia Liang Tien,Wentong Cai,0.19999999999999996
+Chia Liang Tien,Yeo Chai Kiat,0.6666666666666667
+Chia Liang Tien,Yu Han,0.0
+Chia Liang Tien,Zhang Hanwang,0.2857142857142857
+Chia Liang Tien,Zhang Jie,0.0
+Chia Liang Tien,Zhang Tianwei,0.25
+Chia Liang Tien,Zheng Jianmin,0.25
+Chng Eng Siong,A S Madhukumar,0.0
+Chng Eng Siong,Alexei Sourin,0.16666666666666663
+Chng Eng Siong,Anupam Chattopadhyay,0.0
+Chng Eng Siong,Anwitaman Datta,0.0
+Chng Eng Siong,Arvind Easwaran,0.0
+Chng Eng Siong,Bo An,0.5
+Chng Eng Siong,Cham Tat Jen,0.0
+Chng Eng Siong,Chee Wei Tan,0.0
+Chng Eng Siong,Chen Change Loy,0.0
+Chng Eng Siong,Chia Liang Tien,0.0
+Chng Eng Siong,Cong Gao,0.4
+Chng Eng Siong,Deepu Rajan,0.0
+Chng Eng Siong,Dmitrii Ustiugov,0.0
+Chng Eng Siong,Douglas Leslie Maskell,0.0
+Chng Eng Siong,Dusit Niyato,0.0
+Chng Eng Siong,Erik Cambria,0.33333333333333337
+Chng Eng Siong,Goh Wooi Boon,0.0
+Chng Eng Siong,Guan Cuntai,0.4
+Chng Eng Siong,He Ying,0.0
+Chng Eng Siong,Huang Shell Ying,0.0
+Chng Eng Siong,Hui Siu Cheung,0.0
+Chng Eng Siong,Jagath Chandana Rajapakse,0.2222222222222222
+Chng Eng Siong,Kwoh Chee Keong,0.0
+Chng Eng Siong,Lam Kwok Yan,0.1428571428571429
+Chng Eng Siong,Lam Siew Kei,0.0
+Chng Eng Siong,Lee Bu Sung,0.0
+Chng Eng Siong,Li Boyang,0.0
+Chng Eng Siong,Li Mo,0.0
+Chng Eng Siong,Li Yi,0.0
+Chng Eng Siong,Lin Guosheng,0.0
+Chng Eng Siong,Lin Shang-Wei,0.0
+Chng Eng Siong,Liu Weichen,0.0
+Chng Eng Siong,Liu Yang,0.0
+Chng Eng Siong,Liu Ziwei,0.0
+Chng Eng Siong,Loke Yuan Ren,0.0
+Chng Eng Siong,Long Cheng,0.0
+Chng Eng Siong,Lu Shijian,0.1428571428571429
+Chng Eng Siong,Luo Jun,0.0
+Chng Eng Siong,Luo Siqiang,0.0
+Chng Eng Siong,Luu Anh Tuan,0.0
+Chng Eng Siong,Miao Chun Yan,0.1428571428571429
+Chng Eng Siong,Mohamed M. Sabry,0.0
+Chng Eng Siong,Oh Hong Lye,0.0
+Chng Eng Siong,Ong Chin Ann,0.0
+Chng Eng Siong,Owen Noel Newton Fernando,0.0
+Chng Eng Siong,Pan Xingang,0.0
+Chng Eng Siong,Qian Kemao,0.0
+Chng Eng Siong,Seah Hock Soon,0.0
+Chng Eng Siong,Shen Zhiqi,0.33333333333333337
+Chng Eng Siong,Siyuan Liu,0.16666666666666663
+Chng Eng Siong,Smitha K G,0.0
+Chng Eng Siong,Sourav Saha Bhowmick,0.0
+Chng Eng Siong,Sun Aixin,0.25
+Chng Eng Siong,Tan Rui,0.0
+Chng Eng Siong,Vidya Sudarshan,0.0
+Chng Eng Siong,Wai Kin Adams Kong,0.25
+Chng Eng Siong,Wang Wenya,0.0
+Chng Eng Siong,Wee Keong NG,0.0
+Chng Eng Siong,Wei Yang Bryan Lim,0.4
+Chng Eng Siong,Wei Ying,0.25
+Chng Eng Siong,Wen Yonggang,0.0
+Chng Eng Siong,Wentong Cai,0.0
+Chng Eng Siong,Yeo Chai Kiat,0.0
+Chng Eng Siong,Yu Han,0.33333333333333337
+Chng Eng Siong,Zhang Hanwang,0.0
+Chng Eng Siong,Zhang Jie,0.6666666666666667
+Chng Eng Siong,Zhang Tianwei,0.0
+Chng Eng Siong,Zheng Jianmin,0.0
+Cong Gao,A S Madhukumar,0.11111111111111116
+Cong Gao,Alexei Sourin,0.33333333333333337
+Cong Gao,Anupam Chattopadhyay,0.09999999999999998
+Cong Gao,Anwitaman Datta,0.19999999999999996
+Cong Gao,Arvind Easwaran,0.19999999999999996
+Cong Gao,Bo An,0.25
+Cong Gao,Cham Tat Jen,0.16666666666666663
+Cong Gao,Chee Wei Tan,0.0
+Cong Gao,Chen Change Loy,0.25
+Cong Gao,Chia Liang Tien,0.1428571428571429
+Cong Gao,Chng Eng Siong,0.4
+Cong Gao,Deepu Rajan,0.1428571428571429
+Cong Gao,Dmitrii Ustiugov,0.0
+Cong Gao,Douglas Leslie Maskell,0.125
+Cong Gao,Dusit Niyato,0.16666666666666663
+Cong Gao,Erik Cambria,0.2857142857142857
+Cong Gao,Goh Wooi Boon,0.1428571428571429
+Cong Gao,Guan Cuntai,0.1428571428571429
+Cong Gao,He Ying,0.25
+Cong Gao,Huang Shell Ying,0.125
+Cong Gao,Hui Siu Cheung,0.125
+Cong Gao,Jagath Chandana Rajapakse,0.09090909090909094
+Cong Gao,Kwoh Chee Keong,0.125
+Cong Gao,Lam Kwok Yan,0.2857142857142857
+Cong Gao,Lam Siew Kei,0.1428571428571429
+Cong Gao,Lee Bu Sung,0.125
+Cong Gao,Li Boyang,0.25
+Cong Gao,Li Mo,0.1428571428571429
+Cong Gao,Li Yi,0.25
+Cong Gao,Lin Guosheng,0.25
+Cong Gao,Lin Shang-Wei,0.19999999999999996
+Cong Gao,Liu Weichen,0.16666666666666663
+Cong Gao,Liu Yang,0.19999999999999996
+Cong Gao,Liu Ziwei,0.25
+Cong Gao,Loke Yuan Ren,0.11111111111111116
+Cong Gao,Long Cheng,0.0
+Cong Gao,Lu Shijian,0.125
+Cong Gao,Luo Jun,0.0
+Cong Gao,Luo Siqiang,0.25
+Cong Gao,Luu Anh Tuan,0.25
+Cong Gao,Miao Chun Yan,0.2857142857142857
+Cong Gao,Mohamed M. Sabry,0.09999999999999998
+Cong Gao,Oh Hong Lye,0.25
+Cong Gao,Ong Chin Ann,0.0
+Cong Gao,Owen Noel Newton Fernando,0.11111111111111116
+Cong Gao,Pan Xingang,0.0
+Cong Gao,Qian Kemao,0.125
+Cong Gao,Seah Hock Soon,0.0
+Cong Gao,Shen Zhiqi,0.125
+Cong Gao,Siyuan Liu,0.0
+Cong Gao,Smitha K G,0.125
+Cong Gao,Sourav Saha Bhowmick,0.2857142857142857
+Cong Gao,Sun Aixin,0.0
+Cong Gao,Tan Rui,0.125
+Cong Gao,Vidya Sudarshan,0.0
+Cong Gao,Wai Kin Adams Kong,0.5
+Cong Gao,Wang Wenya,0.0
+Cong Gao,Wee Keong NG,0.11111111111111116
+Cong Gao,Wei Yang Bryan Lim,0.33333333333333337
+Cong Gao,Wei Ying,0.0
+Cong Gao,Wen Yonggang,0.16666666666666663
+Cong Gao,Wentong Cai,0.19999999999999996
+Cong Gao,Yeo Chai Kiat,0.11111111111111116
+Cong Gao,Yu Han,0.125
+Cong Gao,Zhang Hanwang,0.125
+Cong Gao,Zhang Jie,0.19999999999999996
+Cong Gao,Zhang Tianwei,0.25
+Cong Gao,Zheng Jianmin,0.11111111111111116
+Deepu Rajan,A S Madhukumar,0.6666666666666667
+Deepu Rajan,Alexei Sourin,0.33333333333333337
+Deepu Rajan,Anupam Chattopadhyay,0.2222222222222222
+Deepu Rajan,Anwitaman Datta,0.19999999999999996
+Deepu Rajan,Arvind Easwaran,0.19999999999999996
+Deepu Rajan,Bo An,0.0
+Deepu Rajan,Cham Tat Jen,0.75
+Deepu Rajan,Chee Wei Tan,0.0
+Deepu Rajan,Chen Change Loy,0.25
+Deepu Rajan,Chia Liang Tien,0.6
+Deepu Rajan,Chng Eng Siong,0.0
+Deepu Rajan,Cong Gao,0.1428571428571429
+Deepu Rajan,Dmitrii Ustiugov,0.0
+Deepu Rajan,Douglas Leslie Maskell,0.2857142857142857
+Deepu Rajan,Dusit Niyato,0.4
+Deepu Rajan,Erik Cambria,0.125
+Deepu Rajan,Goh Wooi Boon,0.6
+Deepu Rajan,Guan Cuntai,0.0
+Deepu Rajan,He Ying,0.25
+Deepu Rajan,Huang Shell Ying,0.2857142857142857
+Deepu Rajan,Hui Siu Cheung,0.5
+Deepu Rajan,Jagath Chandana Rajapakse,0.0
+Deepu Rajan,Kwoh Chee Keong,0.125
+Deepu Rajan,Lam Kwok Yan,0.2857142857142857
+Deepu Rajan,Lam Siew Kei,0.33333333333333337
+Deepu Rajan,Lee Bu Sung,0.2857142857142857
+Deepu Rajan,Li Boyang,0.25
+Deepu Rajan,Li Mo,0.1428571428571429
+Deepu Rajan,Li Yi,0.25
+Deepu Rajan,Lin Guosheng,0.25
+Deepu Rajan,Lin Shang-Wei,0.19999999999999996
+Deepu Rajan,Liu Weichen,0.16666666666666663
+Deepu Rajan,Liu Yang,0.19999999999999996
+Deepu Rajan,Liu Ziwei,0.25
+Deepu Rajan,Loke Yuan Ren,0.4285714285714286
+Deepu Rajan,Long Cheng,0.0
+Deepu Rajan,Lu Shijian,0.0
+Deepu Rajan,Luo Jun,0.0
+Deepu Rajan,Luo Siqiang,0.25
+Deepu Rajan,Luu Anh Tuan,0.25
+Deepu Rajan,Miao Chun Yan,0.5
+Deepu Rajan,Mohamed M. Sabry,0.2222222222222222
+Deepu Rajan,Oh Hong Lye,0.25
+Deepu Rajan,Ong Chin Ann,0.0
+Deepu Rajan,Owen Noel Newton Fernando,0.4285714285714286
+Deepu Rajan,Pan Xingang,0.0
+Deepu Rajan,Qian Kemao,0.5
+Deepu Rajan,Seah Hock Soon,0.0
+Deepu Rajan,Shen Zhiqi,0.0
+Deepu Rajan,Siyuan Liu,0.0
+Deepu Rajan,Smitha K G,0.2857142857142857
+Deepu Rajan,Sourav Saha Bhowmick,0.125
+Deepu Rajan,Sun Aixin,0.0
+Deepu Rajan,Tan Rui,0.2857142857142857
+Deepu Rajan,Vidya Sudarshan,0.0
+Deepu Rajan,Wai Kin Adams Kong,0.19999999999999996
+Deepu Rajan,Wang Wenya,0.0
+Deepu Rajan,Wee Keong NG,0.4285714285714286
+Deepu Rajan,Wei Yang Bryan Lim,0.0
+Deepu Rajan,Wei Ying,0.0
+Deepu Rajan,Wen Yonggang,0.4
+Deepu Rajan,Wentong Cai,0.19999999999999996
+Deepu Rajan,Yeo Chai Kiat,0.6666666666666667
+Deepu Rajan,Yu Han,0.0
+Deepu Rajan,Zhang Hanwang,0.5
+Deepu Rajan,Zhang Jie,0.0
+Deepu Rajan,Zhang Tianwei,0.25
+Deepu Rajan,Zheng Jianmin,0.25
+Dmitrii Ustiugov,A S Madhukumar,0.0
+Dmitrii Ustiugov,Alexei Sourin,0.0
+Dmitrii Ustiugov,Anupam Chattopadhyay,0.125
+Dmitrii Ustiugov,Anwitaman Datta,0.33333333333333337
+Dmitrii Ustiugov,Arvind Easwaran,0.33333333333333337
+Dmitrii Ustiugov,Bo An,0.0
+Dmitrii Ustiugov,Cham Tat Jen,0.0
+Dmitrii Ustiugov,Chee Wei Tan,0.0
+Dmitrii Ustiugov,Chen Change Loy,0.0
+Dmitrii Ustiugov,Chia Liang Tien,0.0
+Dmitrii Ustiugov,Chng Eng Siong,0.0
+Dmitrii Ustiugov,Cong Gao,0.0
+Dmitrii Ustiugov,Deepu Rajan,0.0
+Dmitrii Ustiugov,Douglas Leslie Maskell,0.16666666666666663
+Dmitrii Ustiugov,Dusit Niyato,0.0
+Dmitrii Ustiugov,Erik Cambria,0.0
+Dmitrii Ustiugov,Goh Wooi Boon,0.0
+Dmitrii Ustiugov,Guan Cuntai,0.0
+Dmitrii Ustiugov,He Ying,0.0
+Dmitrii Ustiugov,Huang Shell Ying,0.16666666666666663
+Dmitrii Ustiugov,Hui Siu Cheung,0.0
+Dmitrii Ustiugov,Jagath Chandana Rajapakse,0.0
+Dmitrii Ustiugov,Kwoh Chee Keong,0.0
+Dmitrii Ustiugov,Lam Kwok Yan,0.0
+Dmitrii Ustiugov,Lam Siew Kei,0.19999999999999996
+Dmitrii Ustiugov,Lee Bu Sung,0.16666666666666663
+Dmitrii Ustiugov,Li Boyang,0.0
+Dmitrii Ustiugov,Li Mo,0.0
+Dmitrii Ustiugov,Li Yi,0.0
+Dmitrii Ustiugov,Lin Guosheng,0.0
+Dmitrii Ustiugov,Lin Shang-Wei,0.0
+Dmitrii Ustiugov,Liu Weichen,0.25
+Dmitrii Ustiugov,Liu Yang,0.0
+Dmitrii Ustiugov,Liu Ziwei,0.0
+Dmitrii Ustiugov,Loke Yuan Ren,0.0
+Dmitrii Ustiugov,Long Cheng,0.0
+Dmitrii Ustiugov,Lu Shijian,0.0
+Dmitrii Ustiugov,Luo Jun,0.0
+Dmitrii Ustiugov,Luo Siqiang,0.0
+Dmitrii Ustiugov,Luu Anh Tuan,0.0
+Dmitrii Ustiugov,Miao Chun Yan,0.0
+Dmitrii Ustiugov,Mohamed M. Sabry,0.125
+Dmitrii Ustiugov,Oh Hong Lye,0.0
+Dmitrii Ustiugov,Ong Chin Ann,0.0
+Dmitrii Ustiugov,Owen Noel Newton Fernando,0.0
+Dmitrii Ustiugov,Pan Xingang,0.0
+Dmitrii Ustiugov,Qian Kemao,0.0
+Dmitrii Ustiugov,Seah Hock Soon,0.25
+Dmitrii Ustiugov,Shen Zhiqi,0.0
+Dmitrii Ustiugov,Siyuan Liu,0.0
+Dmitrii Ustiugov,Smitha K G,0.0
+Dmitrii Ustiugov,Sourav Saha Bhowmick,0.0
+Dmitrii Ustiugov,Sun Aixin,0.0
+Dmitrii Ustiugov,Tan Rui,0.0
+Dmitrii Ustiugov,Vidya Sudarshan,0.0
+Dmitrii Ustiugov,Wai Kin Adams Kong,0.0
+Dmitrii Ustiugov,Wang Wenya,0.0
+Dmitrii Ustiugov,Wee Keong NG,0.0
+Dmitrii Ustiugov,Wei Yang Bryan Lim,0.19999999999999996
+Dmitrii Ustiugov,Wei Ying,0.0
+Dmitrii Ustiugov,Wen Yonggang,0.0
+Dmitrii Ustiugov,Wentong Cai,0.33333333333333337
+Dmitrii Ustiugov,Yeo Chai Kiat,0.0
+Dmitrii Ustiugov,Yu Han,0.16666666666666663
+Dmitrii Ustiugov,Zhang Hanwang,0.0
+Dmitrii Ustiugov,Zhang Jie,0.0
+Dmitrii Ustiugov,Zhang Tianwei,0.0
+Dmitrii Ustiugov,Zheng Jianmin,0.0
+Douglas Leslie Maskell,A S Madhukumar,0.2222222222222222
+Douglas Leslie Maskell,Alexei Sourin,0.125
+Douglas Leslie Maskell,Anupam Chattopadhyay,0.5
+Douglas Leslie Maskell,Anwitaman Datta,0.16666666666666663
+Douglas Leslie Maskell,Arvind Easwaran,0.4
+Douglas Leslie Maskell,Bo An,0.0
+Douglas Leslie Maskell,Cham Tat Jen,0.1428571428571429
+Douglas Leslie Maskell,Chee Wei Tan,0.0
+Douglas Leslie Maskell,Chen Change Loy,0.19999999999999996
+Douglas Leslie Maskell,Chia Liang Tien,0.125
+Douglas Leslie Maskell,Chng Eng Siong,0.0
+Douglas Leslie Maskell,Cong Gao,0.125
+Douglas Leslie Maskell,Deepu Rajan,0.2857142857142857
+Douglas Leslie Maskell,Dmitrii Ustiugov,0.16666666666666663
+Douglas Leslie Maskell,Dusit Niyato,0.33333333333333337
+Douglas Leslie Maskell,Erik Cambria,0.11111111111111116
+Douglas Leslie Maskell,Goh Wooi Boon,0.2857142857142857
+Douglas Leslie Maskell,Guan Cuntai,0.0
+Douglas Leslie Maskell,He Ying,0.19999999999999996
+Douglas Leslie Maskell,Huang Shell Ying,0.11111111111111116
+Douglas Leslie Maskell,Hui Siu Cheung,0.11111111111111116
+Douglas Leslie Maskell,Jagath Chandana Rajapakse,0.0
+Douglas Leslie Maskell,Kwoh Chee Keong,0.11111111111111116
+Douglas Leslie Maskell,Lam Kwok Yan,0.11111111111111116
+Douglas Leslie Maskell,Lam Siew Kei,0.8
+Douglas Leslie Maskell,Lee Bu Sung,0.11111111111111116
+Douglas Leslie Maskell,Li Boyang,0.19999999999999996
+Douglas Leslie Maskell,Li Mo,0.125
+Douglas Leslie Maskell,Li Yi,0.19999999999999996
+Douglas Leslie Maskell,Lin Guosheng,0.19999999999999996
+Douglas Leslie Maskell,Lin Shang-Wei,0.16666666666666663
+Douglas Leslie Maskell,Liu Weichen,0.6
+Douglas Leslie Maskell,Liu Yang,0.16666666666666663
+Douglas Leslie Maskell,Liu Ziwei,0.19999999999999996
+Douglas Leslie Maskell,Loke Yuan Ren,0.2222222222222222
+Douglas Leslie Maskell,Long Cheng,0.0
+Douglas Leslie Maskell,Lu Shijian,0.0
+Douglas Leslie Maskell,Luo Jun,0.125
+Douglas Leslie Maskell,Luo Siqiang,0.19999999999999996
+Douglas Leslie Maskell,Luu Anh Tuan,0.19999999999999996
+Douglas Leslie Maskell,Miao Chun Yan,0.11111111111111116
+Douglas Leslie Maskell,Mohamed M. Sabry,0.5
+Douglas Leslie Maskell,Oh Hong Lye,0.19999999999999996
+Douglas Leslie Maskell,Ong Chin Ann,0.0
+Douglas Leslie Maskell,Owen Noel Newton Fernando,0.09999999999999998
+Douglas Leslie Maskell,Pan Xingang,0.0
+Douglas Leslie Maskell,Qian Kemao,0.25
+Douglas Leslie Maskell,Seah Hock Soon,0.0
+Douglas Leslie Maskell,Shen Zhiqi,0.0
+Douglas Leslie Maskell,Siyuan Liu,0.0
+Douglas Leslie Maskell,Smitha K G,0.25
+Douglas Leslie Maskell,Sourav Saha Bhowmick,0.11111111111111116
+Douglas Leslie Maskell,Sun Aixin,0.0
+Douglas Leslie Maskell,Tan Rui,0.25
+Douglas Leslie Maskell,Vidya Sudarshan,0.0
+Douglas Leslie Maskell,Wai Kin Adams Kong,0.16666666666666663
+Douglas Leslie Maskell,Wang Wenya,0.0
+Douglas Leslie Maskell,Wee Keong NG,0.09999999999999998
+Douglas Leslie Maskell,Wei Yang Bryan Lim,0.0
+Douglas Leslie Maskell,Wei Ying,0.0
+Douglas Leslie Maskell,Wen Yonggang,0.1428571428571429
+Douglas Leslie Maskell,Wentong Cai,0.16666666666666663
+Douglas Leslie Maskell,Yeo Chai Kiat,0.2222222222222222
+Douglas Leslie Maskell,Yu Han,0.0
+Douglas Leslie Maskell,Zhang Hanwang,0.25
+Douglas Leslie Maskell,Zhang Jie,0.0
+Douglas Leslie Maskell,Zhang Tianwei,0.19999999999999996
+Douglas Leslie Maskell,Zheng Jianmin,0.09999999999999998
+Dusit Niyato,A S Madhukumar,0.5
+Dusit Niyato,Alexei Sourin,0.16666666666666663
+Dusit Niyato,Anupam Chattopadhyay,0.25
+Dusit Niyato,Anwitaman Datta,0.25
+Dusit Niyato,Arvind Easwaran,0.25
+Dusit Niyato,Bo An,0.0
+Dusit Niyato,Cham Tat Jen,0.19999999999999996
+Dusit Niyato,Chee Wei Tan,0.0
+Dusit Niyato,Chen Change Loy,0.33333333333333337
+Dusit Niyato,Chia Liang Tien,0.16666666666666663
+Dusit Niyato,Chng Eng Siong,0.0
+Dusit Niyato,Cong Gao,0.16666666666666663
+Dusit Niyato,Deepu Rajan,0.4
+Dusit Niyato,Dmitrii Ustiugov,0.0
+Dusit Niyato,Douglas Leslie Maskell,0.33333333333333337
+Dusit Niyato,Erik Cambria,0.1428571428571429
+Dusit Niyato,Goh Wooi Boon,0.4
+Dusit Niyato,Guan Cuntai,0.0
+Dusit Niyato,He Ying,0.33333333333333337
+Dusit Niyato,Huang Shell Ying,0.1428571428571429
+Dusit Niyato,Hui Siu Cheung,0.1428571428571429
+Dusit Niyato,Jagath Chandana Rajapakse,0.0
+Dusit Niyato,Kwoh Chee Keong,0.1428571428571429
+Dusit Niyato,Lam Kwok Yan,0.1428571428571429
+Dusit Niyato,Lam Siew Kei,0.4
+Dusit Niyato,Lee Bu Sung,0.33333333333333337
+Dusit Niyato,Li Boyang,0.33333333333333337
+Dusit Niyato,Li Mo,0.4
+Dusit Niyato,Li Yi,0.33333333333333337
+Dusit Niyato,Lin Guosheng,0.33333333333333337
+Dusit Niyato,Lin Shang-Wei,0.25
+Dusit Niyato,Liu Weichen,0.19999999999999996
+Dusit Niyato,Liu Yang,0.25
+Dusit Niyato,Liu Ziwei,0.33333333333333337
+Dusit Niyato,Loke Yuan Ren,0.2857142857142857
+Dusit Niyato,Long Cheng,0.0
+Dusit Niyato,Lu Shijian,0.0
+Dusit Niyato,Luo Jun,0.16666666666666663
+Dusit Niyato,Luo Siqiang,0.33333333333333337
+Dusit Niyato,Luu Anh Tuan,0.33333333333333337
+Dusit Niyato,Miao Chun Yan,0.1428571428571429
+Dusit Niyato,Mohamed M. Sabry,0.25
+Dusit Niyato,Oh Hong Lye,0.33333333333333337
+Dusit Niyato,Ong Chin Ann,0.25
+Dusit Niyato,Owen Noel Newton Fernando,0.125
+Dusit Niyato,Pan Xingang,0.0
+Dusit Niyato,Qian Kemao,0.33333333333333337
+Dusit Niyato,Seah Hock Soon,0.0
+Dusit Niyato,Shen Zhiqi,0.0
+Dusit Niyato,Siyuan Liu,0.0
+Dusit Niyato,Smitha K G,0.33333333333333337
+Dusit Niyato,Sourav Saha Bhowmick,0.1428571428571429
+Dusit Niyato,Sun Aixin,0.0
+Dusit Niyato,Tan Rui,0.33333333333333337
+Dusit Niyato,Vidya Sudarshan,0.0
+Dusit Niyato,Wai Kin Adams Kong,0.25
+Dusit Niyato,Wang Wenya,0.0
+Dusit Niyato,Wee Keong NG,0.125
+Dusit Niyato,Wei Yang Bryan Lim,0.0
+Dusit Niyato,Wei Ying,0.0
+Dusit Niyato,Wen Yonggang,0.19999999999999996
+Dusit Niyato,Wentong Cai,0.25
+Dusit Niyato,Yeo Chai Kiat,0.5
+Dusit Niyato,Yu Han,0.0
+Dusit Niyato,Zhang Hanwang,0.33333333333333337
+Dusit Niyato,Zhang Jie,0.0
+Dusit Niyato,Zhang Tianwei,0.33333333333333337
+Dusit Niyato,Zheng Jianmin,0.125
+Erik Cambria,A S Madhukumar,0.09999999999999998
+Erik Cambria,Alexei Sourin,0.125
+Erik Cambria,Anupam Chattopadhyay,0.09090909090909094
+Erik Cambria,Anwitaman Datta,0.16666666666666663
+Erik Cambria,Arvind Easwaran,0.16666666666666663
+Erik Cambria,Bo An,0.375
+Erik Cambria,Cham Tat Jen,0.1428571428571429
+Erik Cambria,Chee Wei Tan,0.0
+Erik Cambria,Chen Change Loy,0.19999999999999996
+Erik Cambria,Chia Liang Tien,0.125
+Erik Cambria,Chng Eng Siong,0.33333333333333337
+Erik Cambria,Cong Gao,0.2857142857142857
+Erik Cambria,Deepu Rajan,0.125
+Erik Cambria,Dmitrii Ustiugov,0.0
+Erik Cambria,Douglas Leslie Maskell,0.11111111111111116
+Erik Cambria,Dusit Niyato,0.1428571428571429
+Erik Cambria,Goh Wooi Boon,0.125
+Erik Cambria,Guan Cuntai,0.2857142857142857
+Erik Cambria,He Ying,0.19999999999999996
+Erik Cambria,Huang Shell Ying,0.11111111111111116
+Erik Cambria,Hui Siu Cheung,0.11111111111111116
+Erik Cambria,Jagath Chandana Rajapakse,0.30000000000000004
+Erik Cambria,Kwoh Chee Keong,0.11111111111111116
+Erik Cambria,Lam Kwok Yan,0.11111111111111116
+Erik Cambria,Lam Siew Kei,0.125
+Erik Cambria,Lee Bu Sung,0.11111111111111116
+Erik Cambria,Li Boyang,0.19999999999999996
+Erik Cambria,Li Mo,0.125
+Erik Cambria,Li Yi,0.19999999999999996
+Erik Cambria,Lin Guosheng,0.19999999999999996
+Erik Cambria,Lin Shang-Wei,0.16666666666666663
+Erik Cambria,Liu Weichen,0.1428571428571429
+Erik Cambria,Liu Yang,0.16666666666666663
+Erik Cambria,Liu Ziwei,0.19999999999999996
+Erik Cambria,Loke Yuan Ren,0.2222222222222222
+Erik Cambria,Long Cheng,0.19999999999999996
+Erik Cambria,Lu Shijian,0.0
+Erik Cambria,Luo Jun,0.0
+Erik Cambria,Luo Siqiang,0.19999999999999996
+Erik Cambria,Luu Anh Tuan,0.19999999999999996
+Erik Cambria,Miao Chun Yan,0.25
+Erik Cambria,Mohamed M. Sabry,0.09090909090909094
+Erik Cambria,Oh Hong Lye,0.19999999999999996
+Erik Cambria,Ong Chin Ann,0.0
+Erik Cambria,Owen Noel Newton Fernando,0.09999999999999998
+Erik Cambria,Pan Xingang,0.0
+Erik Cambria,Qian Kemao,0.11111111111111116
+Erik Cambria,Seah Hock Soon,0.0
+Erik Cambria,Shen Zhiqi,0.25
+Erik Cambria,Siyuan Liu,0.125
+Erik Cambria,Smitha K G,0.11111111111111116
+Erik Cambria,Sourav Saha Bhowmick,0.11111111111111116
+Erik Cambria,Sun Aixin,0.4
+Erik Cambria,Tan Rui,0.11111111111111116
+Erik Cambria,Vidya Sudarshan,0.0
+Erik Cambria,Wai Kin Adams Kong,0.16666666666666663
+Erik Cambria,Wang Wenya,0.0
+Erik Cambria,Wee Keong NG,0.09999999999999998
+Erik Cambria,Wei Yang Bryan Lim,0.125
+Erik Cambria,Wei Ying,0.16666666666666663
+Erik Cambria,Wen Yonggang,0.1428571428571429
+Erik Cambria,Wentong Cai,0.16666666666666663
+Erik Cambria,Yeo Chai Kiat,0.09999999999999998
+Erik Cambria,Yu Han,0.4285714285714286
+Erik Cambria,Zhang Hanwang,0.11111111111111116
+Erik Cambria,Zhang Jie,0.4
+Erik Cambria,Zhang Tianwei,0.19999999999999996
+Erik Cambria,Zheng Jianmin,0.09999999999999998
+Goh Wooi Boon,A S Madhukumar,0.4285714285714286
+Goh Wooi Boon,Alexei Sourin,0.33333333333333337
+Goh Wooi Boon,Anupam Chattopadhyay,0.2222222222222222
+Goh Wooi Boon,Anwitaman Datta,0.19999999999999996
+Goh Wooi Boon,Arvind Easwaran,0.19999999999999996
+Goh Wooi Boon,Bo An,0.0
+Goh Wooi Boon,Cham Tat Jen,0.4
+Goh Wooi Boon,Chee Wei Tan,0.0
+Goh Wooi Boon,Chen Change Loy,0.25
+Goh Wooi Boon,Chia Liang Tien,0.33333333333333337
+Goh Wooi Boon,Chng Eng Siong,0.0
+Goh Wooi Boon,Cong Gao,0.1428571428571429
+Goh Wooi Boon,Deepu Rajan,0.6
+Goh Wooi Boon,Dmitrii Ustiugov,0.0
+Goh Wooi Boon,Douglas Leslie Maskell,0.2857142857142857
+Goh Wooi Boon,Dusit Niyato,0.4
+Goh Wooi Boon,Erik Cambria,0.125
+Goh Wooi Boon,Guan Cuntai,0.0
+Goh Wooi Boon,He Ying,0.25
+Goh Wooi Boon,Huang Shell Ying,0.125
+Goh Wooi Boon,Hui Siu Cheung,0.2857142857142857
+Goh Wooi Boon,Jagath Chandana Rajapakse,0.0
+Goh Wooi Boon,Kwoh Chee Keong,0.125
+Goh Wooi Boon,Lam Kwok Yan,0.125
+Goh Wooi Boon,Lam Siew Kei,0.33333333333333337
+Goh Wooi Boon,Lee Bu Sung,0.125
+Goh Wooi Boon,Li Boyang,0.25
+Goh Wooi Boon,Li Mo,0.1428571428571429
+Goh Wooi Boon,Li Yi,0.25
+Goh Wooi Boon,Lin Guosheng,0.25
+Goh Wooi Boon,Lin Shang-Wei,0.19999999999999996
+Goh Wooi Boon,Liu Weichen,0.16666666666666663
+Goh Wooi Boon,Liu Yang,0.19999999999999996
+Goh Wooi Boon,Liu Ziwei,0.25
+Goh Wooi Boon,Loke Yuan Ren,0.6666666666666667
+Goh Wooi Boon,Long Cheng,0.0
+Goh Wooi Boon,Lu Shijian,0.0
+Goh Wooi Boon,Luo Jun,0.0
+Goh Wooi Boon,Luo Siqiang,0.25
+Goh Wooi Boon,Luu Anh Tuan,0.25
+Goh Wooi Boon,Miao Chun Yan,0.2857142857142857
+Goh Wooi Boon,Mohamed M. Sabry,0.375
+Goh Wooi Boon,Oh Hong Lye,0.25
+Goh Wooi Boon,Ong Chin Ann,0.0
+Goh Wooi Boon,Owen Noel Newton Fernando,0.25
+Goh Wooi Boon,Pan Xingang,0.0
+Goh Wooi Boon,Qian Kemao,0.5
+Goh Wooi Boon,Seah Hock Soon,0.0
+Goh Wooi Boon,Shen Zhiqi,0.0
+Goh Wooi Boon,Siyuan Liu,0.0
+Goh Wooi Boon,Smitha K G,0.5
+Goh Wooi Boon,Sourav Saha Bhowmick,0.125
+Goh Wooi Boon,Sun Aixin,0.0
+Goh Wooi Boon,Tan Rui,0.125
+Goh Wooi Boon,Vidya Sudarshan,0.0
+Goh Wooi Boon,Wai Kin Adams Kong,0.19999999999999996
+Goh Wooi Boon,Wang Wenya,0.0
+Goh Wooi Boon,Wee Keong NG,0.25
+Goh Wooi Boon,Wei Yang Bryan Lim,0.0
+Goh Wooi Boon,Wei Ying,0.0
+Goh Wooi Boon,Wen Yonggang,0.16666666666666663
+Goh Wooi Boon,Wentong Cai,0.19999999999999996
+Goh Wooi Boon,Yeo Chai Kiat,0.4285714285714286
+Goh Wooi Boon,Yu Han,0.0
+Goh Wooi Boon,Zhang Hanwang,0.5
+Goh Wooi Boon,Zhang Jie,0.0
+Goh Wooi Boon,Zhang Tianwei,0.25
+Goh Wooi Boon,Zheng Jianmin,0.25
+Guan Cuntai,A S Madhukumar,0.0
+Guan Cuntai,Alexei Sourin,0.0
+Guan Cuntai,Anupam Chattopadhyay,0.0
+Guan Cuntai,Anwitaman Datta,0.0
+Guan Cuntai,Arvind Easwaran,0.0
+Guan Cuntai,Bo An,0.25
+Guan Cuntai,Cham Tat Jen,0.0
+Guan Cuntai,Chee Wei Tan,0.0
+Guan Cuntai,Chen Change Loy,0.0
+Guan Cuntai,Chia Liang Tien,0.0
+Guan Cuntai,Chng Eng Siong,0.4
+Guan Cuntai,Cong Gao,0.1428571428571429
+Guan Cuntai,Deepu Rajan,0.0
+Guan Cuntai,Dmitrii Ustiugov,0.0
+Guan Cuntai,Douglas Leslie Maskell,0.0
+Guan Cuntai,Dusit Niyato,0.0
+Guan Cuntai,Erik Cambria,0.2857142857142857
+Guan Cuntai,Goh Wooi Boon,0.0
+Guan Cuntai,He Ying,0.0
+Guan Cuntai,Huang Shell Ying,0.0
+Guan Cuntai,Hui Siu Cheung,0.0
+Guan Cuntai,Jagath Chandana Rajapakse,0.33333333333333337
+Guan Cuntai,Kwoh Chee Keong,0.0
+Guan Cuntai,Lam Kwok Yan,0.0
+Guan Cuntai,Lam Siew Kei,0.0
+Guan Cuntai,Lee Bu Sung,0.0
+Guan Cuntai,Li Boyang,0.0
+Guan Cuntai,Li Mo,0.0
+Guan Cuntai,Li Yi,0.0
+Guan Cuntai,Lin Guosheng,0.0
+Guan Cuntai,Lin Shang-Wei,0.0
+Guan Cuntai,Liu Weichen,0.0
+Guan Cuntai,Liu Yang,0.0
+Guan Cuntai,Liu Ziwei,0.0
+Guan Cuntai,Loke Yuan Ren,0.0
+Guan Cuntai,Long Cheng,0.0
+Guan Cuntai,Lu Shijian,0.0
+Guan Cuntai,Luo Jun,0.0
+Guan Cuntai,Luo Siqiang,0.0
+Guan Cuntai,Luu Anh Tuan,0.0
+Guan Cuntai,Miao Chun Yan,0.125
+Guan Cuntai,Mohamed M. Sabry,0.0
+Guan Cuntai,Oh Hong Lye,0.0
+Guan Cuntai,Ong Chin Ann,0.0
+Guan Cuntai,Owen Noel Newton Fernando,0.0
+Guan Cuntai,Pan Xingang,0.0
+Guan Cuntai,Qian Kemao,0.0
+Guan Cuntai,Seah Hock Soon,0.0
+Guan Cuntai,Shen Zhiqi,0.2857142857142857
+Guan Cuntai,Siyuan Liu,0.1428571428571429
+Guan Cuntai,Smitha K G,0.125
+Guan Cuntai,Sourav Saha Bhowmick,0.0
+Guan Cuntai,Sun Aixin,0.19999999999999996
+Guan Cuntai,Tan Rui,0.0
+Guan Cuntai,Vidya Sudarshan,0.0
+Guan Cuntai,Wai Kin Adams Kong,0.0
+Guan Cuntai,Wang Wenya,0.0
+Guan Cuntai,Wee Keong NG,0.0
+Guan Cuntai,Wei Yang Bryan Lim,0.1428571428571429
+Guan Cuntai,Wei Ying,0.5
+Guan Cuntai,Wen Yonggang,0.0
+Guan Cuntai,Wentong Cai,0.0
+Guan Cuntai,Yeo Chai Kiat,0.0
+Guan Cuntai,Yu Han,0.2857142857142857
+Guan Cuntai,Zhang Hanwang,0.0
+Guan Cuntai,Zhang Jie,0.5
+Guan Cuntai,Zhang Tianwei,0.0
+Guan Cuntai,Zheng Jianmin,0.0
+He Ying,A S Madhukumar,0.16666666666666663
+He Ying,Alexei Sourin,0.25
+He Ying,Anupam Chattopadhyay,0.1428571428571429
+He Ying,Anwitaman Datta,0.5
+He Ying,Arvind Easwaran,0.5
+He Ying,Bo An,0.0
+He Ying,Cham Tat Jen,0.33333333333333337
+He Ying,Chee Wei Tan,0.0
+He Ying,Chen Change Loy,1.0
+He Ying,Chia Liang Tien,0.25
+He Ying,Chng Eng Siong,0.0
+He Ying,Cong Gao,0.25
+He Ying,Deepu Rajan,0.25
+He Ying,Dmitrii Ustiugov,0.0
+He Ying,Douglas Leslie Maskell,0.19999999999999996
+He Ying,Dusit Niyato,0.33333333333333337
+He Ying,Erik Cambria,0.19999999999999996
+He Ying,Goh Wooi Boon,0.25
+He Ying,Guan Cuntai,0.0
+He Ying,Huang Shell Ying,0.19999999999999996
+He Ying,Hui Siu Cheung,0.19999999999999996
+He Ying,Jagath Chandana Rajapakse,0.0
+He Ying,Kwoh Chee Keong,0.19999999999999996
+He Ying,Lam Kwok Yan,0.19999999999999996
+He Ying,Lam Siew Kei,0.25
+He Ying,Lee Bu Sung,0.19999999999999996
+He Ying,Li Boyang,1.0
+He Ying,Li Mo,0.25
+He Ying,Li Yi,1.0
+He Ying,Lin Guosheng,1.0
+He Ying,Lin Shang-Wei,0.5
+He Ying,Liu Weichen,0.33333333333333337
+He Ying,Liu Yang,0.5
+He Ying,Liu Ziwei,1.0
+He Ying,Loke Yuan Ren,0.16666666666666663
+He Ying,Long Cheng,0.0
+He Ying,Lu Shijian,0.0
+He Ying,Luo Jun,0.0
+He Ying,Luo Siqiang,1.0
+He Ying,Luu Anh Tuan,1.0
+He Ying,Miao Chun Yan,0.19999999999999996
+He Ying,Mohamed M. Sabry,0.1428571428571429
+He Ying,Oh Hong Lye,1.0
+He Ying,Ong Chin Ann,0.0
+He Ying,Owen Noel Newton Fernando,0.16666666666666663
+He Ying,Pan Xingang,0.0
+He Ying,Qian Kemao,0.19999999999999996
+He Ying,Seah Hock Soon,0.0
+He Ying,Shen Zhiqi,0.0
+He Ying,Siyuan Liu,0.0
+He Ying,Smitha K G,0.19999999999999996
+He Ying,Sourav Saha Bhowmick,0.19999999999999996
+He Ying,Sun Aixin,0.0
+He Ying,Tan Rui,0.19999999999999996
+He Ying,Vidya Sudarshan,0.0
+He Ying,Wai Kin Adams Kong,0.5
+He Ying,Wang Wenya,0.0
+He Ying,Wee Keong NG,0.16666666666666663
+He Ying,Wei Yang Bryan Lim,0.0
+He Ying,Wei Ying,0.0
+He Ying,Wen Yonggang,0.33333333333333337
+He Ying,Wentong Cai,0.5
+He Ying,Yeo Chai Kiat,0.16666666666666663
+He Ying,Yu Han,0.0
+He Ying,Zhang Hanwang,0.19999999999999996
+He Ying,Zhang Jie,0.0
+He Ying,Zhang Tianwei,1.0
+He Ying,Zheng Jianmin,0.16666666666666663
+Huang Shell Ying,A S Madhukumar,0.2222222222222222
+Huang Shell Ying,Alexei Sourin,0.125
+Huang Shell Ying,Anupam Chattopadhyay,0.09090909090909094
+Huang Shell Ying,Anwitaman Datta,0.4
+Huang Shell Ying,Arvind Easwaran,0.16666666666666663
+Huang Shell Ying,Bo An,0.0
+Huang Shell Ying,Cham Tat Jen,0.33333333333333337
+Huang Shell Ying,Chee Wei Tan,0.0
+Huang Shell Ying,Chen Change Loy,0.19999999999999996
+Huang Shell Ying,Chia Liang Tien,0.2857142857142857
+Huang Shell Ying,Chng Eng Siong,0.0
+Huang Shell Ying,Cong Gao,0.125
+Huang Shell Ying,Deepu Rajan,0.2857142857142857
+Huang Shell Ying,Dmitrii Ustiugov,0.16666666666666663
+Huang Shell Ying,Douglas Leslie Maskell,0.11111111111111116
+Huang Shell Ying,Dusit Niyato,0.1428571428571429
+Huang Shell Ying,Erik Cambria,0.11111111111111116
+Huang Shell Ying,Goh Wooi Boon,0.125
+Huang Shell Ying,Guan Cuntai,0.0
+Huang Shell Ying,He Ying,0.19999999999999996
+Huang Shell Ying,Hui Siu Cheung,0.25
+Huang Shell Ying,Jagath Chandana Rajapakse,0.0
+Huang Shell Ying,Kwoh Chee Keong,0.25
+Huang Shell Ying,Lam Kwok Yan,0.25
+Huang Shell Ying,Lam Siew Kei,0.125
+Huang Shell Ying,Lee Bu Sung,0.4285714285714286
+Huang Shell Ying,Li Boyang,0.19999999999999996
+Huang Shell Ying,Li Mo,0.125
+Huang Shell Ying,Li Yi,0.19999999999999996
+Huang Shell Ying,Lin Guosheng,0.19999999999999996
+Huang Shell Ying,Lin Shang-Wei,0.16666666666666663
+Huang Shell Ying,Liu Weichen,0.1428571428571429
+Huang Shell Ying,Liu Yang,0.16666666666666663
+Huang Shell Ying,Liu Ziwei,0.19999999999999996
+Huang Shell Ying,Loke Yuan Ren,0.09999999999999998
+Huang Shell Ying,Long Cheng,0.0
+Huang Shell Ying,Lu Shijian,0.0
+Huang Shell Ying,Luo Jun,0.0
+Huang Shell Ying,Luo Siqiang,0.19999999999999996
+Huang Shell Ying,Luu Anh Tuan,0.19999999999999996
+Huang Shell Ying,Miao Chun Yan,0.25
+Huang Shell Ying,Mohamed M. Sabry,0.19999999999999996
+Huang Shell Ying,Oh Hong Lye,0.19999999999999996
+Huang Shell Ying,Ong Chin Ann,0.0
+Huang Shell Ying,Owen Noel Newton Fernando,0.2222222222222222
+Huang Shell Ying,Pan Xingang,0.0
+Huang Shell Ying,Qian Kemao,0.11111111111111116
+Huang Shell Ying,Seah Hock Soon,0.1428571428571429
+Huang Shell Ying,Shen Zhiqi,0.0
+Huang Shell Ying,Siyuan Liu,0.0
+Huang Shell Ying,Smitha K G,0.11111111111111116
+Huang Shell Ying,Sourav Saha Bhowmick,0.11111111111111116
+Huang Shell Ying,Sun Aixin,0.0
+Huang Shell Ying,Tan Rui,0.25
+Huang Shell Ying,Vidya Sudarshan,0.0
+Huang Shell Ying,Wai Kin Adams Kong,0.16666666666666663
+Huang Shell Ying,Wang Wenya,0.0
+Huang Shell Ying,Wee Keong NG,0.2222222222222222
+Huang Shell Ying,Wei Yang Bryan Lim,0.125
+Huang Shell Ying,Wei Ying,0.0
+Huang Shell Ying,Wen Yonggang,0.33333333333333337
+Huang Shell Ying,Wentong Cai,0.4
+Huang Shell Ying,Yeo Chai Kiat,0.2222222222222222
+Huang Shell Ying,Yu Han,0.11111111111111116
+Huang Shell Ying,Zhang Hanwang,0.11111111111111116
+Huang Shell Ying,Zhang Jie,0.0
+Huang Shell Ying,Zhang Tianwei,0.19999999999999996
+Huang Shell Ying,Zheng Jianmin,0.09999999999999998
+Hui Siu Cheung,A S Madhukumar,0.5714285714285714
+Hui Siu Cheung,Alexei Sourin,0.2857142857142857
+Hui Siu Cheung,Anupam Chattopadhyay,0.09090909090909094
+Hui Siu Cheung,Anwitaman Datta,0.16666666666666663
+Hui Siu Cheung,Arvind Easwaran,0.16666666666666663
+Hui Siu Cheung,Bo An,0.0
+Hui Siu Cheung,Cham Tat Jen,0.6
+Hui Siu Cheung,Chee Wei Tan,0.0
+Hui Siu Cheung,Chen Change Loy,0.19999999999999996
+Hui Siu Cheung,Chia Liang Tien,0.8
+Hui Siu Cheung,Chng Eng Siong,0.0
+Hui Siu Cheung,Cong Gao,0.125
+Hui Siu Cheung,Deepu Rajan,0.5
+Hui Siu Cheung,Dmitrii Ustiugov,0.0
+Hui Siu Cheung,Douglas Leslie Maskell,0.11111111111111116
+Hui Siu Cheung,Dusit Niyato,0.1428571428571429
+Hui Siu Cheung,Erik Cambria,0.11111111111111116
+Hui Siu Cheung,Goh Wooi Boon,0.2857142857142857
+Hui Siu Cheung,Guan Cuntai,0.0
+Hui Siu Cheung,He Ying,0.19999999999999996
+Hui Siu Cheung,Huang Shell Ying,0.25
+Hui Siu Cheung,Jagath Chandana Rajapakse,0.0
+Hui Siu Cheung,Kwoh Chee Keong,0.25
+Hui Siu Cheung,Lam Kwok Yan,0.25
+Hui Siu Cheung,Lam Siew Kei,0.125
+Hui Siu Cheung,Lee Bu Sung,0.4285714285714286
+Hui Siu Cheung,Li Boyang,0.19999999999999996
+Hui Siu Cheung,Li Mo,0.2857142857142857
+Hui Siu Cheung,Li Yi,0.19999999999999996
+Hui Siu Cheung,Lin Guosheng,0.19999999999999996
+Hui Siu Cheung,Lin Shang-Wei,0.16666666666666663
+Hui Siu Cheung,Liu Weichen,0.1428571428571429
+Hui Siu Cheung,Liu Yang,0.16666666666666663
+Hui Siu Cheung,Liu Ziwei,0.19999999999999996
+Hui Siu Cheung,Loke Yuan Ren,0.375
+Hui Siu Cheung,Long Cheng,0.0
+Hui Siu Cheung,Lu Shijian,0.0
+Hui Siu Cheung,Luo Jun,0.0
+Hui Siu Cheung,Luo Siqiang,0.19999999999999996
+Hui Siu Cheung,Luu Anh Tuan,0.19999999999999996
+Hui Siu Cheung,Miao Chun Yan,0.6666666666666667
+Hui Siu Cheung,Mohamed M. Sabry,0.09090909090909094
+Hui Siu Cheung,Oh Hong Lye,0.19999999999999996
+Hui Siu Cheung,Ong Chin Ann,0.0
+Hui Siu Cheung,Owen Noel Newton Fernando,0.375
+Hui Siu Cheung,Pan Xingang,0.0
+Hui Siu Cheung,Qian Kemao,0.25
+Hui Siu Cheung,Seah Hock Soon,0.0
+Hui Siu Cheung,Shen Zhiqi,0.0
+Hui Siu Cheung,Siyuan Liu,0.0
+Hui Siu Cheung,Smitha K G,0.11111111111111116
+Hui Siu Cheung,Sourav Saha Bhowmick,0.11111111111111116
+Hui Siu Cheung,Sun Aixin,0.0
+Hui Siu Cheung,Tan Rui,0.4285714285714286
+Hui Siu Cheung,Vidya Sudarshan,0.0
+Hui Siu Cheung,Wai Kin Adams Kong,0.16666666666666663
+Hui Siu Cheung,Wang Wenya,0.0
+Hui Siu Cheung,Wee Keong NG,0.5714285714285714
+Hui Siu Cheung,Wei Yang Bryan Lim,0.0
+Hui Siu Cheung,Wei Ying,0.0
+Hui Siu Cheung,Wen Yonggang,0.6
+Hui Siu Cheung,Wentong Cai,0.16666666666666663
+Hui Siu Cheung,Yeo Chai Kiat,0.5714285714285714
+Hui Siu Cheung,Yu Han,0.0
+Hui Siu Cheung,Zhang Hanwang,0.4285714285714286
+Hui Siu Cheung,Zhang Jie,0.0
+Hui Siu Cheung,Zhang Tianwei,0.19999999999999996
+Hui Siu Cheung,Zheng Jianmin,0.375
+Jagath Chandana Rajapakse,A S Madhukumar,0.0
+Jagath Chandana Rajapakse,Alexei Sourin,0.0
+Jagath Chandana Rajapakse,Anupam Chattopadhyay,0.0
+Jagath Chandana Rajapakse,Anwitaman Datta,0.0
+Jagath Chandana Rajapakse,Arvind Easwaran,0.0
+Jagath Chandana Rajapakse,Bo An,0.2727272727272727
+Jagath Chandana Rajapakse,Cham Tat Jen,0.0
+Jagath Chandana Rajapakse,Chee Wei Tan,0.0
+Jagath Chandana Rajapakse,Chen Change Loy,0.0
+Jagath Chandana Rajapakse,Chia Liang Tien,0.0
+Jagath Chandana Rajapakse,Chng Eng Siong,0.2222222222222222
+Jagath Chandana Rajapakse,Cong Gao,0.09090909090909094
+Jagath Chandana Rajapakse,Deepu Rajan,0.0
+Jagath Chandana Rajapakse,Dmitrii Ustiugov,0.0
+Jagath Chandana Rajapakse,Douglas Leslie Maskell,0.0
+Jagath Chandana Rajapakse,Dusit Niyato,0.0
+Jagath Chandana Rajapakse,Erik Cambria,0.30000000000000004
+Jagath Chandana Rajapakse,Goh Wooi Boon,0.0
+Jagath Chandana Rajapakse,Guan Cuntai,0.33333333333333337
+Jagath Chandana Rajapakse,He Ying,0.0
+Jagath Chandana Rajapakse,Huang Shell Ying,0.0
+Jagath Chandana Rajapakse,Hui Siu Cheung,0.0
+Jagath Chandana Rajapakse,Kwoh Chee Keong,0.0
+Jagath Chandana Rajapakse,Lam Kwok Yan,0.0
+Jagath Chandana Rajapakse,Lam Siew Kei,0.0
+Jagath Chandana Rajapakse,Lee Bu Sung,0.0
+Jagath Chandana Rajapakse,Li Boyang,0.0
+Jagath Chandana Rajapakse,Li Mo,0.0
+Jagath Chandana Rajapakse,Li Yi,0.0
+Jagath Chandana Rajapakse,Lin Guosheng,0.0
+Jagath Chandana Rajapakse,Lin Shang-Wei,0.0
+Jagath Chandana Rajapakse,Liu Weichen,0.0
+Jagath Chandana Rajapakse,Liu Yang,0.0
+Jagath Chandana Rajapakse,Liu Ziwei,0.0
+Jagath Chandana Rajapakse,Loke Yuan Ren,0.0
+Jagath Chandana Rajapakse,Long Cheng,0.125
+Jagath Chandana Rajapakse,Lu Shijian,0.08333333333333337
+Jagath Chandana Rajapakse,Luo Jun,0.0
+Jagath Chandana Rajapakse,Luo Siqiang,0.0
+Jagath Chandana Rajapakse,Luu Anh Tuan,0.0
+Jagath Chandana Rajapakse,Miao Chun Yan,0.08333333333333337
+Jagath Chandana Rajapakse,Mohamed M. Sabry,0.0
+Jagath Chandana Rajapakse,Oh Hong Lye,0.0
+Jagath Chandana Rajapakse,Ong Chin Ann,0.0
+Jagath Chandana Rajapakse,Owen Noel Newton Fernando,0.0
+Jagath Chandana Rajapakse,Pan Xingang,0.0
+Jagath Chandana Rajapakse,Qian Kemao,0.0
+Jagath Chandana Rajapakse,Seah Hock Soon,0.0
+Jagath Chandana Rajapakse,Shen Zhiqi,0.18181818181818177
+Jagath Chandana Rajapakse,Siyuan Liu,0.09090909090909094
+Jagath Chandana Rajapakse,Smitha K G,0.0
+Jagath Chandana Rajapakse,Sourav Saha Bhowmick,0.0
+Jagath Chandana Rajapakse,Sun Aixin,0.25
+Jagath Chandana Rajapakse,Tan Rui,0.0
+Jagath Chandana Rajapakse,Vidya Sudarshan,0.0
+Jagath Chandana Rajapakse,Wai Kin Adams Kong,0.0
+Jagath Chandana Rajapakse,Wang Wenya,0.0
+Jagath Chandana Rajapakse,Wee Keong NG,0.0
+Jagath Chandana Rajapakse,Wei Yang Bryan Lim,0.09090909090909094
+Jagath Chandana Rajapakse,Wei Ying,0.25
+Jagath Chandana Rajapakse,Wen Yonggang,0.0
+Jagath Chandana Rajapakse,Wentong Cai,0.0
+Jagath Chandana Rajapakse,Yeo Chai Kiat,0.0
+Jagath Chandana Rajapakse,Yu Han,0.30000000000000004
+Jagath Chandana Rajapakse,Zhang Hanwang,0.0
+Jagath Chandana Rajapakse,Zhang Jie,0.25
+Jagath Chandana Rajapakse,Zhang Tianwei,0.0
+Jagath Chandana Rajapakse,Zheng Jianmin,0.0
+Kwoh Chee Keong,A S Madhukumar,0.09999999999999998
+Kwoh Chee Keong,Alexei Sourin,0.125
+Kwoh Chee Keong,Anupam Chattopadhyay,0.09090909090909094
+Kwoh Chee Keong,Anwitaman Datta,0.16666666666666663
+Kwoh Chee Keong,Arvind Easwaran,0.16666666666666663
+Kwoh Chee Keong,Bo An,0.0
+Kwoh Chee Keong,Cham Tat Jen,0.1428571428571429
+Kwoh Chee Keong,Chee Wei Tan,0.0
+Kwoh Chee Keong,Chen Change Loy,0.19999999999999996
+Kwoh Chee Keong,Chia Liang Tien,0.125
+Kwoh Chee Keong,Chng Eng Siong,0.0
+Kwoh Chee Keong,Cong Gao,0.125
+Kwoh Chee Keong,Deepu Rajan,0.125
+Kwoh Chee Keong,Dmitrii Ustiugov,0.0
+Kwoh Chee Keong,Douglas Leslie Maskell,0.11111111111111116
+Kwoh Chee Keong,Dusit Niyato,0.1428571428571429
+Kwoh Chee Keong,Erik Cambria,0.11111111111111116
+Kwoh Chee Keong,Goh Wooi Boon,0.125
+Kwoh Chee Keong,Guan Cuntai,0.0
+Kwoh Chee Keong,He Ying,0.19999999999999996
+Kwoh Chee Keong,Huang Shell Ying,0.25
+Kwoh Chee Keong,Hui Siu Cheung,0.25
+Kwoh Chee Keong,Jagath Chandana Rajapakse,0.0
+Kwoh Chee Keong,Lam Kwok Yan,0.11111111111111116
+Kwoh Chee Keong,Lam Siew Kei,0.125
+Kwoh Chee Keong,Lee Bu Sung,0.11111111111111116
+Kwoh Chee Keong,Li Boyang,0.19999999999999996
+Kwoh Chee Keong,Li Mo,0.125
+Kwoh Chee Keong,Li Yi,0.19999999999999996
+Kwoh Chee Keong,Lin Guosheng,0.19999999999999996
+Kwoh Chee Keong,Lin Shang-Wei,0.16666666666666663
+Kwoh Chee Keong,Liu Weichen,0.1428571428571429
+Kwoh Chee Keong,Liu Yang,0.16666666666666663
+Kwoh Chee Keong,Liu Ziwei,0.19999999999999996
+Kwoh Chee Keong,Loke Yuan Ren,0.2222222222222222
+Kwoh Chee Keong,Long Cheng,0.0
+Kwoh Chee Keong,Lu Shijian,0.0
+Kwoh Chee Keong,Luo Jun,0.0
+Kwoh Chee Keong,Luo Siqiang,0.19999999999999996
+Kwoh Chee Keong,Luu Anh Tuan,0.19999999999999996
+Kwoh Chee Keong,Miao Chun Yan,0.11111111111111116
+Kwoh Chee Keong,Mohamed M. Sabry,0.19999999999999996
+Kwoh Chee Keong,Oh Hong Lye,0.19999999999999996
+Kwoh Chee Keong,Ong Chin Ann,0.0
+Kwoh Chee Keong,Owen Noel Newton Fernando,0.09999999999999998
+Kwoh Chee Keong,Pan Xingang,0.0
+Kwoh Chee Keong,Qian Kemao,0.11111111111111116
+Kwoh Chee Keong,Seah Hock Soon,0.0
+Kwoh Chee Keong,Shen Zhiqi,0.0
+Kwoh Chee Keong,Siyuan Liu,0.0
+Kwoh Chee Keong,Smitha K G,0.11111111111111116
+Kwoh Chee Keong,Sourav Saha Bhowmick,0.25
+Kwoh Chee Keong,Sun Aixin,0.0
+Kwoh Chee Keong,Tan Rui,0.11111111111111116
+Kwoh Chee Keong,Vidya Sudarshan,0.0
+Kwoh Chee Keong,Wai Kin Adams Kong,0.16666666666666663
+Kwoh Chee Keong,Wang Wenya,0.0
+Kwoh Chee Keong,Wee Keong NG,0.09999999999999998
+Kwoh Chee Keong,Wei Yang Bryan Lim,0.0
+Kwoh Chee Keong,Wei Ying,0.0
+Kwoh Chee Keong,Wen Yonggang,0.1428571428571429
+Kwoh Chee Keong,Wentong Cai,0.16666666666666663
+Kwoh Chee Keong,Yeo Chai Kiat,0.09999999999999998
+Kwoh Chee Keong,Yu Han,0.0
+Kwoh Chee Keong,Zhang Hanwang,0.25
+Kwoh Chee Keong,Zhang Jie,0.0
+Kwoh Chee Keong,Zhang Tianwei,0.19999999999999996
+Kwoh Chee Keong,Zheng Jianmin,0.2222222222222222
+Lam Kwok Yan,A S Madhukumar,0.2222222222222222
+Lam Kwok Yan,Alexei Sourin,0.2857142857142857
+Lam Kwok Yan,Anupam Chattopadhyay,0.19999999999999996
+Lam Kwok Yan,Anwitaman Datta,0.16666666666666663
+Lam Kwok Yan,Arvind Easwaran,0.16666666666666663
+Lam Kwok Yan,Bo An,0.09999999999999998
+Lam Kwok Yan,Cham Tat Jen,0.33333333333333337
+Lam Kwok Yan,Chee Wei Tan,0.0
+Lam Kwok Yan,Chen Change Loy,0.19999999999999996
+Lam Kwok Yan,Chia Liang Tien,0.2857142857142857
+Lam Kwok Yan,Chng Eng Siong,0.1428571428571429
+Lam Kwok Yan,Cong Gao,0.2857142857142857
+Lam Kwok Yan,Deepu Rajan,0.2857142857142857
+Lam Kwok Yan,Dmitrii Ustiugov,0.0
+Lam Kwok Yan,Douglas Leslie Maskell,0.11111111111111116
+Lam Kwok Yan,Dusit Niyato,0.1428571428571429
+Lam Kwok Yan,Erik Cambria,0.11111111111111116
+Lam Kwok Yan,Goh Wooi Boon,0.125
+Lam Kwok Yan,Guan Cuntai,0.0
+Lam Kwok Yan,He Ying,0.19999999999999996
+Lam Kwok Yan,Huang Shell Ying,0.25
+Lam Kwok Yan,Hui Siu Cheung,0.25
+Lam Kwok Yan,Jagath Chandana Rajapakse,0.0
+Lam Kwok Yan,Kwoh Chee Keong,0.11111111111111116
+Lam Kwok Yan,Lam Siew Kei,0.125
+Lam Kwok Yan,Lee Bu Sung,0.25
+Lam Kwok Yan,Li Boyang,0.19999999999999996
+Lam Kwok Yan,Li Mo,0.125
+Lam Kwok Yan,Li Yi,0.19999999999999996
+Lam Kwok Yan,Lin Guosheng,0.19999999999999996
+Lam Kwok Yan,Lin Shang-Wei,0.4
+Lam Kwok Yan,Liu Weichen,0.1428571428571429
+Lam Kwok Yan,Liu Yang,0.4
+Lam Kwok Yan,Liu Ziwei,0.19999999999999996
+Lam Kwok Yan,Loke Yuan Ren,0.09999999999999998
+Lam Kwok Yan,Long Cheng,0.0
+Lam Kwok Yan,Lu Shijian,0.11111111111111116
+Lam Kwok Yan,Luo Jun,0.0
+Lam Kwok Yan,Luo Siqiang,0.19999999999999996
+Lam Kwok Yan,Luu Anh Tuan,0.19999999999999996
+Lam Kwok Yan,Miao Chun Yan,0.25
+Lam Kwok Yan,Mohamed M. Sabry,0.09090909090909094
+Lam Kwok Yan,Oh Hong Lye,0.19999999999999996
+Lam Kwok Yan,Ong Chin Ann,0.0
+Lam Kwok Yan,Owen Noel Newton Fernando,0.2222222222222222
+Lam Kwok Yan,Pan Xingang,0.0
+Lam Kwok Yan,Qian Kemao,0.11111111111111116
+Lam Kwok Yan,Seah Hock Soon,0.0
+Lam Kwok Yan,Shen Zhiqi,0.0
+Lam Kwok Yan,Siyuan Liu,0.125
+Lam Kwok Yan,Smitha K G,0.11111111111111116
+Lam Kwok Yan,Sourav Saha Bhowmick,0.11111111111111116
+Lam Kwok Yan,Sun Aixin,0.0
+Lam Kwok Yan,Tan Rui,0.25
+Lam Kwok Yan,Vidya Sudarshan,0.0
+Lam Kwok Yan,Wai Kin Adams Kong,0.4
+Lam Kwok Yan,Wang Wenya,0.0
+Lam Kwok Yan,Wee Keong NG,0.5714285714285714
+Lam Kwok Yan,Wei Yang Bryan Lim,0.125
+Lam Kwok Yan,Wei Ying,0.0
+Lam Kwok Yan,Wen Yonggang,0.33333333333333337
+Lam Kwok Yan,Wentong Cai,0.16666666666666663
+Lam Kwok Yan,Yeo Chai Kiat,0.2222222222222222
+Lam Kwok Yan,Yu Han,0.0
+Lam Kwok Yan,Zhang Hanwang,0.11111111111111116
+Lam Kwok Yan,Zhang Jie,0.0
+Lam Kwok Yan,Zhang Tianwei,0.19999999999999996
+Lam Kwok Yan,Zheng Jianmin,0.09999999999999998
+Lam Siew Kei,A S Madhukumar,0.25
+Lam Siew Kei,Alexei Sourin,0.1428571428571429
+Lam Siew Kei,Anupam Chattopadhyay,0.5714285714285714
+Lam Siew Kei,Anwitaman Datta,0.19999999999999996
+Lam Siew Kei,Arvind Easwaran,0.5
+Lam Siew Kei,Bo An,0.0
+Lam Siew Kei,Cham Tat Jen,0.16666666666666663
+Lam Siew Kei,Chee Wei Tan,0.0
+Lam Siew Kei,Chen Change Loy,0.25
+Lam Siew Kei,Chia Liang Tien,0.1428571428571429
+Lam Siew Kei,Chng Eng Siong,0.0
+Lam Siew Kei,Cong Gao,0.1428571428571429
+Lam Siew Kei,Deepu Rajan,0.33333333333333337
+Lam Siew Kei,Dmitrii Ustiugov,0.19999999999999996
+Lam Siew Kei,Douglas Leslie Maskell,0.8
+Lam Siew Kei,Dusit Niyato,0.4
+Lam Siew Kei,Erik Cambria,0.125
+Lam Siew Kei,Goh Wooi Boon,0.33333333333333337
+Lam Siew Kei,Guan Cuntai,0.0
+Lam Siew Kei,He Ying,0.25
+Lam Siew Kei,Huang Shell Ying,0.125
+Lam Siew Kei,Hui Siu Cheung,0.125
+Lam Siew Kei,Jagath Chandana Rajapakse,0.0
+Lam Siew Kei,Kwoh Chee Keong,0.125
+Lam Siew Kei,Lam Kwok Yan,0.125
+Lam Siew Kei,Lee Bu Sung,0.125
+Lam Siew Kei,Li Boyang,0.25
+Lam Siew Kei,Li Mo,0.1428571428571429
+Lam Siew Kei,Li Yi,0.25
+Lam Siew Kei,Lin Guosheng,0.25
+Lam Siew Kei,Lin Shang-Wei,0.19999999999999996
+Lam Siew Kei,Liu Weichen,0.75
+Lam Siew Kei,Liu Yang,0.19999999999999996
+Lam Siew Kei,Liu Ziwei,0.25
+Lam Siew Kei,Loke Yuan Ren,0.25
+Lam Siew Kei,Long Cheng,0.0
+Lam Siew Kei,Lu Shijian,0.0
+Lam Siew Kei,Luo Jun,0.1428571428571429
+Lam Siew Kei,Luo Siqiang,0.25
+Lam Siew Kei,Luu Anh Tuan,0.25
+Lam Siew Kei,Miao Chun Yan,0.125
+Lam Siew Kei,Mohamed M. Sabry,0.5714285714285714
+Lam Siew Kei,Oh Hong Lye,0.25
+Lam Siew Kei,Ong Chin Ann,0.0
+Lam Siew Kei,Owen Noel Newton Fernando,0.11111111111111116
+Lam Siew Kei,Pan Xingang,0.0
+Lam Siew Kei,Qian Kemao,0.2857142857142857
+Lam Siew Kei,Seah Hock Soon,0.0
+Lam Siew Kei,Shen Zhiqi,0.0
+Lam Siew Kei,Siyuan Liu,0.0
+Lam Siew Kei,Smitha K G,0.2857142857142857
+Lam Siew Kei,Sourav Saha Bhowmick,0.125
+Lam Siew Kei,Sun Aixin,0.0
+Lam Siew Kei,Tan Rui,0.125
+Lam Siew Kei,Vidya Sudarshan,0.0
+Lam Siew Kei,Wai Kin Adams Kong,0.19999999999999996
+Lam Siew Kei,Wang Wenya,0.0
+Lam Siew Kei,Wee Keong NG,0.11111111111111116
+Lam Siew Kei,Wei Yang Bryan Lim,0.0
+Lam Siew Kei,Wei Ying,0.0
+Lam Siew Kei,Wen Yonggang,0.16666666666666663
+Lam Siew Kei,Wentong Cai,0.19999999999999996
+Lam Siew Kei,Yeo Chai Kiat,0.25
+Lam Siew Kei,Yu Han,0.0
+Lam Siew Kei,Zhang Hanwang,0.2857142857142857
+Lam Siew Kei,Zhang Jie,0.0
+Lam Siew Kei,Zhang Tianwei,0.25
+Lam Siew Kei,Zheng Jianmin,0.11111111111111116
+Lee Bu Sung,A S Madhukumar,0.5714285714285714
+Lee Bu Sung,Alexei Sourin,0.125
+Lee Bu Sung,Anupam Chattopadhyay,0.09090909090909094
+Lee Bu Sung,Anwitaman Datta,0.4
+Lee Bu Sung,Arvind Easwaran,0.16666666666666663
+Lee Bu Sung,Bo An,0.0
+Lee Bu Sung,Cham Tat Jen,0.33333333333333337
+Lee Bu Sung,Chee Wei Tan,0.0
+Lee Bu Sung,Chen Change Loy,0.19999999999999996
+Lee Bu Sung,Chia Liang Tien,0.5
+Lee Bu Sung,Chng Eng Siong,0.0
+Lee Bu Sung,Cong Gao,0.125
+Lee Bu Sung,Deepu Rajan,0.2857142857142857
+Lee Bu Sung,Dmitrii Ustiugov,0.16666666666666663
+Lee Bu Sung,Douglas Leslie Maskell,0.11111111111111116
+Lee Bu Sung,Dusit Niyato,0.33333333333333337
+Lee Bu Sung,Erik Cambria,0.11111111111111116
+Lee Bu Sung,Goh Wooi Boon,0.125
+Lee Bu Sung,Guan Cuntai,0.0
+Lee Bu Sung,He Ying,0.19999999999999996
+Lee Bu Sung,Huang Shell Ying,0.4285714285714286
+Lee Bu Sung,Hui Siu Cheung,0.4285714285714286
+Lee Bu Sung,Jagath Chandana Rajapakse,0.0
+Lee Bu Sung,Kwoh Chee Keong,0.11111111111111116
+Lee Bu Sung,Lam Kwok Yan,0.25
+Lee Bu Sung,Lam Siew Kei,0.125
+Lee Bu Sung,Li Boyang,0.19999999999999996
+Lee Bu Sung,Li Mo,0.5
+Lee Bu Sung,Li Yi,0.19999999999999996
+Lee Bu Sung,Lin Guosheng,0.19999999999999996
+Lee Bu Sung,Lin Shang-Wei,0.16666666666666663
+Lee Bu Sung,Liu Weichen,0.1428571428571429
+Lee Bu Sung,Liu Yang,0.16666666666666663
+Lee Bu Sung,Liu Ziwei,0.19999999999999996
+Lee Bu Sung,Loke Yuan Ren,0.09999999999999998
+Lee Bu Sung,Long Cheng,0.0
+Lee Bu Sung,Lu Shijian,0.0
+Lee Bu Sung,Luo Jun,0.125
+Lee Bu Sung,Luo Siqiang,0.19999999999999996
+Lee Bu Sung,Luu Anh Tuan,0.19999999999999996
+Lee Bu Sung,Miao Chun Yan,0.4285714285714286
+Lee Bu Sung,Mohamed M. Sabry,0.09090909090909094
+Lee Bu Sung,Oh Hong Lye,0.19999999999999996
+Lee Bu Sung,Ong Chin Ann,0.16666666666666663
+Lee Bu Sung,Owen Noel Newton Fernando,0.2222222222222222
+Lee Bu Sung,Pan Xingang,0.0
+Lee Bu Sung,Qian Kemao,0.11111111111111116
+Lee Bu Sung,Seah Hock Soon,0.1428571428571429
+Lee Bu Sung,Shen Zhiqi,0.0
+Lee Bu Sung,Siyuan Liu,0.0
+Lee Bu Sung,Smitha K G,0.11111111111111116
+Lee Bu Sung,Sourav Saha Bhowmick,0.11111111111111116
+Lee Bu Sung,Sun Aixin,0.0
+Lee Bu Sung,Tan Rui,0.6666666666666667
+Lee Bu Sung,Vidya Sudarshan,0.0
+Lee Bu Sung,Wai Kin Adams Kong,0.16666666666666663
+Lee Bu Sung,Wang Wenya,0.0
+Lee Bu Sung,Wee Keong NG,0.375
+Lee Bu Sung,Wei Yang Bryan Lim,0.125
+Lee Bu Sung,Wei Ying,0.0
+Lee Bu Sung,Wen Yonggang,0.6
+Lee Bu Sung,Wentong Cai,0.4
+Lee Bu Sung,Yeo Chai Kiat,0.5714285714285714
+Lee Bu Sung,Yu Han,0.11111111111111116
+Lee Bu Sung,Zhang Hanwang,0.11111111111111116
+Lee Bu Sung,Zhang Jie,0.0
+Lee Bu Sung,Zhang Tianwei,0.19999999999999996
+Lee Bu Sung,Zheng Jianmin,0.09999999999999998
+Li Boyang,A S Madhukumar,0.16666666666666663
+Li Boyang,Alexei Sourin,0.25
+Li Boyang,Anupam Chattopadhyay,0.1428571428571429
+Li Boyang,Anwitaman Datta,0.5
+Li Boyang,Arvind Easwaran,0.5
+Li Boyang,Bo An,0.0
+Li Boyang,Cham Tat Jen,0.33333333333333337
+Li Boyang,Chee Wei Tan,0.0
+Li Boyang,Chen Change Loy,1.0
+Li Boyang,Chia Liang Tien,0.25
+Li Boyang,Chng Eng Siong,0.0
+Li Boyang,Cong Gao,0.25
+Li Boyang,Deepu Rajan,0.25
+Li Boyang,Dmitrii Ustiugov,0.0
+Li Boyang,Douglas Leslie Maskell,0.19999999999999996
+Li Boyang,Dusit Niyato,0.33333333333333337
+Li Boyang,Erik Cambria,0.19999999999999996
+Li Boyang,Goh Wooi Boon,0.25
+Li Boyang,Guan Cuntai,0.0
+Li Boyang,He Ying,1.0
+Li Boyang,Huang Shell Ying,0.19999999999999996
+Li Boyang,Hui Siu Cheung,0.19999999999999996
+Li Boyang,Jagath Chandana Rajapakse,0.0
+Li Boyang,Kwoh Chee Keong,0.19999999999999996
+Li Boyang,Lam Kwok Yan,0.19999999999999996
+Li Boyang,Lam Siew Kei,0.25
+Li Boyang,Lee Bu Sung,0.19999999999999996
+Li Boyang,Li Mo,0.25
+Li Boyang,Li Yi,1.0
+Li Boyang,Lin Guosheng,1.0
+Li Boyang,Lin Shang-Wei,0.5
+Li Boyang,Liu Weichen,0.33333333333333337
+Li Boyang,Liu Yang,0.5
+Li Boyang,Liu Ziwei,1.0
+Li Boyang,Loke Yuan Ren,0.16666666666666663
+Li Boyang,Long Cheng,0.0
+Li Boyang,Lu Shijian,0.0
+Li Boyang,Luo Jun,0.0
+Li Boyang,Luo Siqiang,1.0
+Li Boyang,Luu Anh Tuan,1.0
+Li Boyang,Miao Chun Yan,0.19999999999999996
+Li Boyang,Mohamed M. Sabry,0.1428571428571429
+Li Boyang,Oh Hong Lye,1.0
+Li Boyang,Ong Chin Ann,0.0
+Li Boyang,Owen Noel Newton Fernando,0.16666666666666663
+Li Boyang,Pan Xingang,0.0
+Li Boyang,Qian Kemao,0.19999999999999996
+Li Boyang,Seah Hock Soon,0.0
+Li Boyang,Shen Zhiqi,0.0
+Li Boyang,Siyuan Liu,0.0
+Li Boyang,Smitha K G,0.19999999999999996
+Li Boyang,Sourav Saha Bhowmick,0.19999999999999996
+Li Boyang,Sun Aixin,0.0
+Li Boyang,Tan Rui,0.19999999999999996
+Li Boyang,Vidya Sudarshan,0.0
+Li Boyang,Wai Kin Adams Kong,0.5
+Li Boyang,Wang Wenya,0.0
+Li Boyang,Wee Keong NG,0.16666666666666663
+Li Boyang,Wei Yang Bryan Lim,0.0
+Li Boyang,Wei Ying,0.0
+Li Boyang,Wen Yonggang,0.33333333333333337
+Li Boyang,Wentong Cai,0.5
+Li Boyang,Yeo Chai Kiat,0.16666666666666663
+Li Boyang,Yu Han,0.0
+Li Boyang,Zhang Hanwang,0.19999999999999996
+Li Boyang,Zhang Jie,0.0
+Li Boyang,Zhang Tianwei,1.0
+Li Boyang,Zheng Jianmin,0.16666666666666663
+Li Mo,A S Madhukumar,0.4285714285714286
+Li Mo,Alexei Sourin,0.1428571428571429
+Li Mo,Anupam Chattopadhyay,0.09999999999999998
+Li Mo,Anwitaman Datta,0.19999999999999996
+Li Mo,Arvind Easwaran,0.19999999999999996
+Li Mo,Bo An,0.0
+Li Mo,Cham Tat Jen,0.16666666666666663
+Li Mo,Chee Wei Tan,0.0
+Li Mo,Chen Change Loy,0.25
+Li Mo,Chia Liang Tien,0.33333333333333337
+Li Mo,Chng Eng Siong,0.0
+Li Mo,Cong Gao,0.1428571428571429
+Li Mo,Deepu Rajan,0.1428571428571429
+Li Mo,Dmitrii Ustiugov,0.0
+Li Mo,Douglas Leslie Maskell,0.125
+Li Mo,Dusit Niyato,0.4
+Li Mo,Erik Cambria,0.125
+Li Mo,Goh Wooi Boon,0.1428571428571429
+Li Mo,Guan Cuntai,0.0
+Li Mo,He Ying,0.25
+Li Mo,Huang Shell Ying,0.125
+Li Mo,Hui Siu Cheung,0.2857142857142857
+Li Mo,Jagath Chandana Rajapakse,0.0
+Li Mo,Kwoh Chee Keong,0.125
+Li Mo,Lam Kwok Yan,0.125
+Li Mo,Lam Siew Kei,0.1428571428571429
+Li Mo,Lee Bu Sung,0.5
+Li Mo,Li Boyang,0.25
+Li Mo,Li Yi,0.25
+Li Mo,Lin Guosheng,0.25
+Li Mo,Lin Shang-Wei,0.19999999999999996
+Li Mo,Liu Weichen,0.16666666666666663
+Li Mo,Liu Yang,0.19999999999999996
+Li Mo,Liu Ziwei,0.25
+Li Mo,Loke Yuan Ren,0.11111111111111116
+Li Mo,Long Cheng,0.0
+Li Mo,Lu Shijian,0.0
+Li Mo,Luo Jun,0.33333333333333337
+Li Mo,Luo Siqiang,0.25
+Li Mo,Luu Anh Tuan,0.25
+Li Mo,Miao Chun Yan,0.2857142857142857
+Li Mo,Mohamed M. Sabry,0.09999999999999998
+Li Mo,Oh Hong Lye,0.25
+Li Mo,Ong Chin Ann,0.19999999999999996
+Li Mo,Owen Noel Newton Fernando,0.11111111111111116
+Li Mo,Pan Xingang,0.0
+Li Mo,Qian Kemao,0.125
+Li Mo,Seah Hock Soon,0.0
+Li Mo,Shen Zhiqi,0.0
+Li Mo,Siyuan Liu,0.1428571428571429
+Li Mo,Smitha K G,0.125
+Li Mo,Sourav Saha Bhowmick,0.125
+Li Mo,Sun Aixin,0.0
+Li Mo,Tan Rui,0.5
+Li Mo,Vidya Sudarshan,0.0
+Li Mo,Wai Kin Adams Kong,0.19999999999999996
+Li Mo,Wang Wenya,0.0
+Li Mo,Wee Keong NG,0.25
+Li Mo,Wei Yang Bryan Lim,0.1428571428571429
+Li Mo,Wei Ying,0.0
+Li Mo,Wen Yonggang,0.4
+Li Mo,Wentong Cai,0.19999999999999996
+Li Mo,Yeo Chai Kiat,0.4285714285714286
+Li Mo,Yu Han,0.0
+Li Mo,Zhang Hanwang,0.125
+Li Mo,Zhang Jie,0.0
+Li Mo,Zhang Tianwei,0.25
+Li Mo,Zheng Jianmin,0.11111111111111116
+Li Yi,A S Madhukumar,0.16666666666666663
+Li Yi,Alexei Sourin,0.25
+Li Yi,Anupam Chattopadhyay,0.1428571428571429
+Li Yi,Anwitaman Datta,0.5
+Li Yi,Arvind Easwaran,0.5
+Li Yi,Bo An,0.0
+Li Yi,Cham Tat Jen,0.33333333333333337
+Li Yi,Chee Wei Tan,0.0
+Li Yi,Chen Change Loy,1.0
+Li Yi,Chia Liang Tien,0.25
+Li Yi,Chng Eng Siong,0.0
+Li Yi,Cong Gao,0.25
+Li Yi,Deepu Rajan,0.25
+Li Yi,Dmitrii Ustiugov,0.0
+Li Yi,Douglas Leslie Maskell,0.19999999999999996
+Li Yi,Dusit Niyato,0.33333333333333337
+Li Yi,Erik Cambria,0.19999999999999996
+Li Yi,Goh Wooi Boon,0.25
+Li Yi,Guan Cuntai,0.0
+Li Yi,He Ying,1.0
+Li Yi,Huang Shell Ying,0.19999999999999996
+Li Yi,Hui Siu Cheung,0.19999999999999996
+Li Yi,Jagath Chandana Rajapakse,0.0
+Li Yi,Kwoh Chee Keong,0.19999999999999996
+Li Yi,Lam Kwok Yan,0.19999999999999996
+Li Yi,Lam Siew Kei,0.25
+Li Yi,Lee Bu Sung,0.19999999999999996
+Li Yi,Li Boyang,1.0
+Li Yi,Li Mo,0.25
+Li Yi,Lin Guosheng,1.0
+Li Yi,Lin Shang-Wei,0.5
+Li Yi,Liu Weichen,0.33333333333333337
+Li Yi,Liu Yang,0.5
+Li Yi,Liu Ziwei,1.0
+Li Yi,Loke Yuan Ren,0.16666666666666663
+Li Yi,Long Cheng,0.0
+Li Yi,Lu Shijian,0.0
+Li Yi,Luo Jun,0.0
+Li Yi,Luo Siqiang,1.0
+Li Yi,Luu Anh Tuan,1.0
+Li Yi,Miao Chun Yan,0.19999999999999996
+Li Yi,Mohamed M. Sabry,0.1428571428571429
+Li Yi,Oh Hong Lye,1.0
+Li Yi,Ong Chin Ann,0.0
+Li Yi,Owen Noel Newton Fernando,0.16666666666666663
+Li Yi,Pan Xingang,0.0
+Li Yi,Qian Kemao,0.19999999999999996
+Li Yi,Seah Hock Soon,0.0
+Li Yi,Shen Zhiqi,0.0
+Li Yi,Siyuan Liu,0.0
+Li Yi,Smitha K G,0.19999999999999996
+Li Yi,Sourav Saha Bhowmick,0.19999999999999996
+Li Yi,Sun Aixin,0.0
+Li Yi,Tan Rui,0.19999999999999996
+Li Yi,Vidya Sudarshan,0.0
+Li Yi,Wai Kin Adams Kong,0.5
+Li Yi,Wang Wenya,0.0
+Li Yi,Wee Keong NG,0.16666666666666663
+Li Yi,Wei Yang Bryan Lim,0.0
+Li Yi,Wei Ying,0.0
+Li Yi,Wen Yonggang,0.33333333333333337
+Li Yi,Wentong Cai,0.5
+Li Yi,Yeo Chai Kiat,0.16666666666666663
+Li Yi,Yu Han,0.0
+Li Yi,Zhang Hanwang,0.19999999999999996
+Li Yi,Zhang Jie,0.0
+Li Yi,Zhang Tianwei,1.0
+Li Yi,Zheng Jianmin,0.16666666666666663
+Lin Guosheng,A S Madhukumar,0.16666666666666663
+Lin Guosheng,Alexei Sourin,0.25
+Lin Guosheng,Anupam Chattopadhyay,0.1428571428571429
+Lin Guosheng,Anwitaman Datta,0.5
+Lin Guosheng,Arvind Easwaran,0.5
+Lin Guosheng,Bo An,0.0
+Lin Guosheng,Cham Tat Jen,0.33333333333333337
+Lin Guosheng,Chee Wei Tan,0.0
+Lin Guosheng,Chen Change Loy,1.0
+Lin Guosheng,Chia Liang Tien,0.25
+Lin Guosheng,Chng Eng Siong,0.0
+Lin Guosheng,Cong Gao,0.25
+Lin Guosheng,Deepu Rajan,0.25
+Lin Guosheng,Dmitrii Ustiugov,0.0
+Lin Guosheng,Douglas Leslie Maskell,0.19999999999999996
+Lin Guosheng,Dusit Niyato,0.33333333333333337
+Lin Guosheng,Erik Cambria,0.19999999999999996
+Lin Guosheng,Goh Wooi Boon,0.25
+Lin Guosheng,Guan Cuntai,0.0
+Lin Guosheng,He Ying,1.0
+Lin Guosheng,Huang Shell Ying,0.19999999999999996
+Lin Guosheng,Hui Siu Cheung,0.19999999999999996
+Lin Guosheng,Jagath Chandana Rajapakse,0.0
+Lin Guosheng,Kwoh Chee Keong,0.19999999999999996
+Lin Guosheng,Lam Kwok Yan,0.19999999999999996
+Lin Guosheng,Lam Siew Kei,0.25
+Lin Guosheng,Lee Bu Sung,0.19999999999999996
+Lin Guosheng,Li Boyang,1.0
+Lin Guosheng,Li Mo,0.25
+Lin Guosheng,Li Yi,1.0
+Lin Guosheng,Lin Shang-Wei,0.5
+Lin Guosheng,Liu Weichen,0.33333333333333337
+Lin Guosheng,Liu Yang,0.5
+Lin Guosheng,Liu Ziwei,1.0
+Lin Guosheng,Loke Yuan Ren,0.16666666666666663
+Lin Guosheng,Long Cheng,0.0
+Lin Guosheng,Lu Shijian,0.0
+Lin Guosheng,Luo Jun,0.0
+Lin Guosheng,Luo Siqiang,1.0
+Lin Guosheng,Luu Anh Tuan,1.0
+Lin Guosheng,Miao Chun Yan,0.19999999999999996
+Lin Guosheng,Mohamed M. Sabry,0.1428571428571429
+Lin Guosheng,Oh Hong Lye,1.0
+Lin Guosheng,Ong Chin Ann,0.0
+Lin Guosheng,Owen Noel Newton Fernando,0.16666666666666663
+Lin Guosheng,Pan Xingang,0.0
+Lin Guosheng,Qian Kemao,0.19999999999999996
+Lin Guosheng,Seah Hock Soon,0.0
+Lin Guosheng,Shen Zhiqi,0.0
+Lin Guosheng,Siyuan Liu,0.0
+Lin Guosheng,Smitha K G,0.19999999999999996
+Lin Guosheng,Sourav Saha Bhowmick,0.19999999999999996
+Lin Guosheng,Sun Aixin,0.0
+Lin Guosheng,Tan Rui,0.19999999999999996
+Lin Guosheng,Vidya Sudarshan,0.0
+Lin Guosheng,Wai Kin Adams Kong,0.5
+Lin Guosheng,Wang Wenya,0.0
+Lin Guosheng,Wee Keong NG,0.16666666666666663
+Lin Guosheng,Wei Yang Bryan Lim,0.0
+Lin Guosheng,Wei Ying,0.0
+Lin Guosheng,Wen Yonggang,0.33333333333333337
+Lin Guosheng,Wentong Cai,0.5
+Lin Guosheng,Yeo Chai Kiat,0.16666666666666663
+Lin Guosheng,Yu Han,0.0
+Lin Guosheng,Zhang Hanwang,0.19999999999999996
+Lin Guosheng,Zhang Jie,0.0
+Lin Guosheng,Zhang Tianwei,1.0
+Lin Guosheng,Zheng Jianmin,0.16666666666666663
+Lin Shang-Wei,A S Madhukumar,0.1428571428571429
+Lin Shang-Wei,Alexei Sourin,0.19999999999999996
+Lin Shang-Wei,Anupam Chattopadhyay,0.125
+Lin Shang-Wei,Anwitaman Datta,0.33333333333333337
+Lin Shang-Wei,Arvind Easwaran,0.33333333333333337
+Lin Shang-Wei,Bo An,0.0
+Lin Shang-Wei,Cham Tat Jen,0.25
+Lin Shang-Wei,Chee Wei Tan,0.0
+Lin Shang-Wei,Chen Change Loy,0.5
+Lin Shang-Wei,Chia Liang Tien,0.19999999999999996
+Lin Shang-Wei,Chng Eng Siong,0.0
+Lin Shang-Wei,Cong Gao,0.19999999999999996
+Lin Shang-Wei,Deepu Rajan,0.19999999999999996
+Lin Shang-Wei,Dmitrii Ustiugov,0.0
+Lin Shang-Wei,Douglas Leslie Maskell,0.16666666666666663
+Lin Shang-Wei,Dusit Niyato,0.25
+Lin Shang-Wei,Erik Cambria,0.16666666666666663
+Lin Shang-Wei,Goh Wooi Boon,0.19999999999999996
+Lin Shang-Wei,Guan Cuntai,0.0
+Lin Shang-Wei,He Ying,0.5
+Lin Shang-Wei,Huang Shell Ying,0.16666666666666663
+Lin Shang-Wei,Hui Siu Cheung,0.16666666666666663
+Lin Shang-Wei,Jagath Chandana Rajapakse,0.0
+Lin Shang-Wei,Kwoh Chee Keong,0.16666666666666663
+Lin Shang-Wei,Lam Kwok Yan,0.4
+Lin Shang-Wei,Lam Siew Kei,0.19999999999999996
+Lin Shang-Wei,Lee Bu Sung,0.16666666666666663
+Lin Shang-Wei,Li Boyang,0.5
+Lin Shang-Wei,Li Mo,0.19999999999999996
+Lin Shang-Wei,Li Yi,0.5
+Lin Shang-Wei,Lin Guosheng,0.5
+Lin Shang-Wei,Liu Weichen,0.25
+Lin Shang-Wei,Liu Yang,1.0
+Lin Shang-Wei,Liu Ziwei,0.5
+Lin Shang-Wei,Loke Yuan Ren,0.1428571428571429
+Lin Shang-Wei,Long Cheng,0.0
+Lin Shang-Wei,Lu Shijian,0.0
+Lin Shang-Wei,Luo Jun,0.0
+Lin Shang-Wei,Luo Siqiang,0.5
+Lin Shang-Wei,Luu Anh Tuan,0.5
+Lin Shang-Wei,Miao Chun Yan,0.16666666666666663
+Lin Shang-Wei,Mohamed M. Sabry,0.125
+Lin Shang-Wei,Oh Hong Lye,0.5
+Lin Shang-Wei,Ong Chin Ann,0.0
+Lin Shang-Wei,Owen Noel Newton Fernando,0.1428571428571429
+Lin Shang-Wei,Pan Xingang,0.0
+Lin Shang-Wei,Qian Kemao,0.16666666666666663
+Lin Shang-Wei,Seah Hock Soon,0.0
+Lin Shang-Wei,Shen Zhiqi,0.0
+Lin Shang-Wei,Siyuan Liu,0.19999999999999996
+Lin Shang-Wei,Smitha K G,0.16666666666666663
+Lin Shang-Wei,Sourav Saha Bhowmick,0.16666666666666663
+Lin Shang-Wei,Sun Aixin,0.0
+Lin Shang-Wei,Tan Rui,0.16666666666666663
+Lin Shang-Wei,Vidya Sudarshan,0.0
+Lin Shang-Wei,Wai Kin Adams Kong,0.33333333333333337
+Lin Shang-Wei,Wang Wenya,0.0
+Lin Shang-Wei,Wee Keong NG,0.33333333333333337
+Lin Shang-Wei,Wei Yang Bryan Lim,0.0
+Lin Shang-Wei,Wei Ying,0.0
+Lin Shang-Wei,Wen Yonggang,0.25
+Lin Shang-Wei,Wentong Cai,0.33333333333333337
+Lin Shang-Wei,Yeo Chai Kiat,0.1428571428571429
+Lin Shang-Wei,Yu Han,0.0
+Lin Shang-Wei,Zhang Hanwang,0.16666666666666663
+Lin Shang-Wei,Zhang Jie,0.0
+Lin Shang-Wei,Zhang Tianwei,0.5
+Lin Shang-Wei,Zheng Jianmin,0.1428571428571429
+Liu Weichen,A S Madhukumar,0.125
+Liu Weichen,Alexei Sourin,0.16666666666666663
+Liu Weichen,Anupam Chattopadhyay,0.4285714285714286
+Liu Weichen,Anwitaman Datta,0.25
+Liu Weichen,Arvind Easwaran,0.6666666666666667
+Liu Weichen,Bo An,0.0
+Liu Weichen,Cham Tat Jen,0.19999999999999996
+Liu Weichen,Chee Wei Tan,0.0
+Liu Weichen,Chen Change Loy,0.33333333333333337
+Liu Weichen,Chia Liang Tien,0.16666666666666663
+Liu Weichen,Chng Eng Siong,0.0
+Liu Weichen,Cong Gao,0.16666666666666663
+Liu Weichen,Deepu Rajan,0.16666666666666663
+Liu Weichen,Dmitrii Ustiugov,0.25
+Liu Weichen,Douglas Leslie Maskell,0.6
+Liu Weichen,Dusit Niyato,0.19999999999999996
+Liu Weichen,Erik Cambria,0.1428571428571429
+Liu Weichen,Goh Wooi Boon,0.16666666666666663
+Liu Weichen,Guan Cuntai,0.0
+Liu Weichen,He Ying,0.33333333333333337
+Liu Weichen,Huang Shell Ying,0.1428571428571429
+Liu Weichen,Hui Siu Cheung,0.1428571428571429
+Liu Weichen,Jagath Chandana Rajapakse,0.0
+Liu Weichen,Kwoh Chee Keong,0.1428571428571429
+Liu Weichen,Lam Kwok Yan,0.1428571428571429
+Liu Weichen,Lam Siew Kei,0.75
+Liu Weichen,Lee Bu Sung,0.1428571428571429
+Liu Weichen,Li Boyang,0.33333333333333337
+Liu Weichen,Li Mo,0.16666666666666663
+Liu Weichen,Li Yi,0.33333333333333337
+Liu Weichen,Lin Guosheng,0.33333333333333337
+Liu Weichen,Lin Shang-Wei,0.25
+Liu Weichen,Liu Yang,0.25
+Liu Weichen,Liu Ziwei,0.33333333333333337
+Liu Weichen,Loke Yuan Ren,0.125
+Liu Weichen,Long Cheng,0.0
+Liu Weichen,Lu Shijian,0.0
+Liu Weichen,Luo Jun,0.16666666666666663
+Liu Weichen,Luo Siqiang,0.33333333333333337
+Liu Weichen,Luu Anh Tuan,0.33333333333333337
+Liu Weichen,Miao Chun Yan,0.1428571428571429
+Liu Weichen,Mohamed M. Sabry,0.4285714285714286
+Liu Weichen,Oh Hong Lye,0.33333333333333337
+Liu Weichen,Ong Chin Ann,0.0
+Liu Weichen,Owen Noel Newton Fernando,0.125
+Liu Weichen,Pan Xingang,0.0
+Liu Weichen,Qian Kemao,0.1428571428571429
+Liu Weichen,Seah Hock Soon,0.0
+Liu Weichen,Shen Zhiqi,0.0
+Liu Weichen,Siyuan Liu,0.0
+Liu Weichen,Smitha K G,0.1428571428571429
+Liu Weichen,Sourav Saha Bhowmick,0.1428571428571429
+Liu Weichen,Sun Aixin,0.0
+Liu Weichen,Tan Rui,0.1428571428571429
+Liu Weichen,Vidya Sudarshan,0.0
+Liu Weichen,Wai Kin Adams Kong,0.25
+Liu Weichen,Wang Wenya,0.0
+Liu Weichen,Wee Keong NG,0.125
+Liu Weichen,Wei Yang Bryan Lim,0.0
+Liu Weichen,Wei Ying,0.0
+Liu Weichen,Wen Yonggang,0.19999999999999996
+Liu Weichen,Wentong Cai,0.25
+Liu Weichen,Yeo Chai Kiat,0.125
+Liu Weichen,Yu Han,0.0
+Liu Weichen,Zhang Hanwang,0.1428571428571429
+Liu Weichen,Zhang Jie,0.0
+Liu Weichen,Zhang Tianwei,0.33333333333333337
+Liu Weichen,Zheng Jianmin,0.125
+Liu Yang,A S Madhukumar,0.1428571428571429
+Liu Yang,Alexei Sourin,0.19999999999999996
+Liu Yang,Anupam Chattopadhyay,0.125
+Liu Yang,Anwitaman Datta,0.33333333333333337
+Liu Yang,Arvind Easwaran,0.33333333333333337
+Liu Yang,Bo An,0.0
+Liu Yang,Cham Tat Jen,0.25
+Liu Yang,Chee Wei Tan,0.0
+Liu Yang,Chen Change Loy,0.5
+Liu Yang,Chia Liang Tien,0.19999999999999996
+Liu Yang,Chng Eng Siong,0.0
+Liu Yang,Cong Gao,0.19999999999999996
+Liu Yang,Deepu Rajan,0.19999999999999996
+Liu Yang,Dmitrii Ustiugov,0.0
+Liu Yang,Douglas Leslie Maskell,0.16666666666666663
+Liu Yang,Dusit Niyato,0.25
+Liu Yang,Erik Cambria,0.16666666666666663
+Liu Yang,Goh Wooi Boon,0.19999999999999996
+Liu Yang,Guan Cuntai,0.0
+Liu Yang,He Ying,0.5
+Liu Yang,Huang Shell Ying,0.16666666666666663
+Liu Yang,Hui Siu Cheung,0.16666666666666663
+Liu Yang,Jagath Chandana Rajapakse,0.0
+Liu Yang,Kwoh Chee Keong,0.16666666666666663
+Liu Yang,Lam Kwok Yan,0.4
+Liu Yang,Lam Siew Kei,0.19999999999999996
+Liu Yang,Lee Bu Sung,0.16666666666666663
+Liu Yang,Li Boyang,0.5
+Liu Yang,Li Mo,0.19999999999999996
+Liu Yang,Li Yi,0.5
+Liu Yang,Lin Guosheng,0.5
+Liu Yang,Lin Shang-Wei,1.0
+Liu Yang,Liu Weichen,0.25
+Liu Yang,Liu Ziwei,0.5
+Liu Yang,Loke Yuan Ren,0.1428571428571429
+Liu Yang,Long Cheng,0.0
+Liu Yang,Lu Shijian,0.0
+Liu Yang,Luo Jun,0.0
+Liu Yang,Luo Siqiang,0.5
+Liu Yang,Luu Anh Tuan,0.5
+Liu Yang,Miao Chun Yan,0.16666666666666663
+Liu Yang,Mohamed M. Sabry,0.125
+Liu Yang,Oh Hong Lye,0.5
+Liu Yang,Ong Chin Ann,0.0
+Liu Yang,Owen Noel Newton Fernando,0.1428571428571429
+Liu Yang,Pan Xingang,0.0
+Liu Yang,Qian Kemao,0.16666666666666663
+Liu Yang,Seah Hock Soon,0.0
+Liu Yang,Shen Zhiqi,0.0
+Liu Yang,Siyuan Liu,0.19999999999999996
+Liu Yang,Smitha K G,0.16666666666666663
+Liu Yang,Sourav Saha Bhowmick,0.16666666666666663
+Liu Yang,Sun Aixin,0.0
+Liu Yang,Tan Rui,0.16666666666666663
+Liu Yang,Vidya Sudarshan,0.0
+Liu Yang,Wai Kin Adams Kong,0.33333333333333337
+Liu Yang,Wang Wenya,0.0
+Liu Yang,Wee Keong NG,0.33333333333333337
+Liu Yang,Wei Yang Bryan Lim,0.0
+Liu Yang,Wei Ying,0.0
+Liu Yang,Wen Yonggang,0.25
+Liu Yang,Wentong Cai,0.33333333333333337
+Liu Yang,Yeo Chai Kiat,0.1428571428571429
+Liu Yang,Yu Han,0.0
+Liu Yang,Zhang Hanwang,0.16666666666666663
+Liu Yang,Zhang Jie,0.0
+Liu Yang,Zhang Tianwei,0.5
+Liu Yang,Zheng Jianmin,0.1428571428571429
+Liu Ziwei,A S Madhukumar,0.16666666666666663
+Liu Ziwei,Alexei Sourin,0.25
+Liu Ziwei,Anupam Chattopadhyay,0.1428571428571429
+Liu Ziwei,Anwitaman Datta,0.5
+Liu Ziwei,Arvind Easwaran,0.5
+Liu Ziwei,Bo An,0.0
+Liu Ziwei,Cham Tat Jen,0.33333333333333337
+Liu Ziwei,Chee Wei Tan,0.0
+Liu Ziwei,Chen Change Loy,1.0
+Liu Ziwei,Chia Liang Tien,0.25
+Liu Ziwei,Chng Eng Siong,0.0
+Liu Ziwei,Cong Gao,0.25
+Liu Ziwei,Deepu Rajan,0.25
+Liu Ziwei,Dmitrii Ustiugov,0.0
+Liu Ziwei,Douglas Leslie Maskell,0.19999999999999996
+Liu Ziwei,Dusit Niyato,0.33333333333333337
+Liu Ziwei,Erik Cambria,0.19999999999999996
+Liu Ziwei,Goh Wooi Boon,0.25
+Liu Ziwei,Guan Cuntai,0.0
+Liu Ziwei,He Ying,1.0
+Liu Ziwei,Huang Shell Ying,0.19999999999999996
+Liu Ziwei,Hui Siu Cheung,0.19999999999999996
+Liu Ziwei,Jagath Chandana Rajapakse,0.0
+Liu Ziwei,Kwoh Chee Keong,0.19999999999999996
+Liu Ziwei,Lam Kwok Yan,0.19999999999999996
+Liu Ziwei,Lam Siew Kei,0.25
+Liu Ziwei,Lee Bu Sung,0.19999999999999996
+Liu Ziwei,Li Boyang,1.0
+Liu Ziwei,Li Mo,0.25
+Liu Ziwei,Li Yi,1.0
+Liu Ziwei,Lin Guosheng,1.0
+Liu Ziwei,Lin Shang-Wei,0.5
+Liu Ziwei,Liu Weichen,0.33333333333333337
+Liu Ziwei,Liu Yang,0.5
+Liu Ziwei,Loke Yuan Ren,0.16666666666666663
+Liu Ziwei,Long Cheng,0.0
+Liu Ziwei,Lu Shijian,0.0
+Liu Ziwei,Luo Jun,0.0
+Liu Ziwei,Luo Siqiang,1.0
+Liu Ziwei,Luu Anh Tuan,1.0
+Liu Ziwei,Miao Chun Yan,0.19999999999999996
+Liu Ziwei,Mohamed M. Sabry,0.1428571428571429
+Liu Ziwei,Oh Hong Lye,1.0
+Liu Ziwei,Ong Chin Ann,0.0
+Liu Ziwei,Owen Noel Newton Fernando,0.16666666666666663
+Liu Ziwei,Pan Xingang,0.0
+Liu Ziwei,Qian Kemao,0.19999999999999996
+Liu Ziwei,Seah Hock Soon,0.0
+Liu Ziwei,Shen Zhiqi,0.0
+Liu Ziwei,Siyuan Liu,0.0
+Liu Ziwei,Smitha K G,0.19999999999999996
+Liu Ziwei,Sourav Saha Bhowmick,0.19999999999999996
+Liu Ziwei,Sun Aixin,0.0
+Liu Ziwei,Tan Rui,0.19999999999999996
+Liu Ziwei,Vidya Sudarshan,0.0
+Liu Ziwei,Wai Kin Adams Kong,0.5
+Liu Ziwei,Wang Wenya,0.0
+Liu Ziwei,Wee Keong NG,0.16666666666666663
+Liu Ziwei,Wei Yang Bryan Lim,0.0
+Liu Ziwei,Wei Ying,0.0
+Liu Ziwei,Wen Yonggang,0.33333333333333337
+Liu Ziwei,Wentong Cai,0.5
+Liu Ziwei,Yeo Chai Kiat,0.16666666666666663
+Liu Ziwei,Yu Han,0.0
+Liu Ziwei,Zhang Hanwang,0.19999999999999996
+Liu Ziwei,Zhang Jie,0.0
+Liu Ziwei,Zhang Tianwei,1.0
+Liu Ziwei,Zheng Jianmin,0.16666666666666663
+Loke Yuan Ren,A S Madhukumar,0.33333333333333337
+Loke Yuan Ren,Alexei Sourin,0.25
+Loke Yuan Ren,Anupam Chattopadhyay,0.18181818181818177
+Loke Yuan Ren,Anwitaman Datta,0.1428571428571429
+Loke Yuan Ren,Arvind Easwaran,0.1428571428571429
+Loke Yuan Ren,Bo An,0.0
+Loke Yuan Ren,Cham Tat Jen,0.2857142857142857
+Loke Yuan Ren,Chee Wei Tan,0.0
+Loke Yuan Ren,Chen Change Loy,0.16666666666666663
+Loke Yuan Ren,Chia Liang Tien,0.25
+Loke Yuan Ren,Chng Eng Siong,0.0
+Loke Yuan Ren,Cong Gao,0.11111111111111116
+Loke Yuan Ren,Deepu Rajan,0.4285714285714286
+Loke Yuan Ren,Dmitrii Ustiugov,0.0
+Loke Yuan Ren,Douglas Leslie Maskell,0.2222222222222222
+Loke Yuan Ren,Dusit Niyato,0.2857142857142857
+Loke Yuan Ren,Erik Cambria,0.2222222222222222
+Loke Yuan Ren,Goh Wooi Boon,0.6666666666666667
+Loke Yuan Ren,Guan Cuntai,0.0
+Loke Yuan Ren,He Ying,0.16666666666666663
+Loke Yuan Ren,Huang Shell Ying,0.09999999999999998
+Loke Yuan Ren,Hui Siu Cheung,0.375
+Loke Yuan Ren,Jagath Chandana Rajapakse,0.0
+Loke Yuan Ren,Kwoh Chee Keong,0.2222222222222222
+Loke Yuan Ren,Lam Kwok Yan,0.09999999999999998
+Loke Yuan Ren,Lam Siew Kei,0.25
+Loke Yuan Ren,Lee Bu Sung,0.09999999999999998
+Loke Yuan Ren,Li Boyang,0.16666666666666663
+Loke Yuan Ren,Li Mo,0.11111111111111116
+Loke Yuan Ren,Li Yi,0.16666666666666663
+Loke Yuan Ren,Lin Guosheng,0.16666666666666663
+Loke Yuan Ren,Lin Shang-Wei,0.1428571428571429
+Loke Yuan Ren,Liu Weichen,0.125
+Loke Yuan Ren,Liu Yang,0.1428571428571429
+Loke Yuan Ren,Liu Ziwei,0.16666666666666663
+Loke Yuan Ren,Long Cheng,0.0
+Loke Yuan Ren,Lu Shijian,0.0
+Loke Yuan Ren,Luo Jun,0.0
+Loke Yuan Ren,Luo Siqiang,0.16666666666666663
+Loke Yuan Ren,Luu Anh Tuan,0.16666666666666663
+Loke Yuan Ren,Miao Chun Yan,0.2222222222222222
+Loke Yuan Ren,Mohamed M. Sabry,0.30000000000000004
+Loke Yuan Ren,Oh Hong Lye,0.16666666666666663
+Loke Yuan Ren,Ong Chin Ann,0.0
+Loke Yuan Ren,Owen Noel Newton Fernando,0.19999999999999996
+Loke Yuan Ren,Pan Xingang,0.0
+Loke Yuan Ren,Qian Kemao,0.375
+Loke Yuan Ren,Seah Hock Soon,0.0
+Loke Yuan Ren,Shen Zhiqi,0.0
+Loke Yuan Ren,Siyuan Liu,0.0
+Loke Yuan Ren,Smitha K G,0.375
+Loke Yuan Ren,Sourav Saha Bhowmick,0.09999999999999998
+Loke Yuan Ren,Sun Aixin,0.0
+Loke Yuan Ren,Tan Rui,0.09999999999999998
+Loke Yuan Ren,Vidya Sudarshan,0.0
+Loke Yuan Ren,Wai Kin Adams Kong,0.1428571428571429
+Loke Yuan Ren,Wang Wenya,0.0
+Loke Yuan Ren,Wee Keong NG,0.19999999999999996
+Loke Yuan Ren,Wei Yang Bryan Lim,0.0
+Loke Yuan Ren,Wei Ying,0.0
+Loke Yuan Ren,Wen Yonggang,0.125
+Loke Yuan Ren,Wentong Cai,0.1428571428571429
+Loke Yuan Ren,Yeo Chai Kiat,0.33333333333333337
+Loke Yuan Ren,Yu Han,0.0
+Loke Yuan Ren,Zhang Hanwang,0.5714285714285714
+Loke Yuan Ren,Zhang Jie,0.0
+Loke Yuan Ren,Zhang Tianwei,0.16666666666666663
+Loke Yuan Ren,Zheng Jianmin,0.33333333333333337
+Long Cheng,A S Madhukumar,0.0
+Long Cheng,Alexei Sourin,0.0
+Long Cheng,Anupam Chattopadhyay,0.0
+Long Cheng,Anwitaman Datta,0.0
+Long Cheng,Arvind Easwaran,0.0
+Long Cheng,Bo An,0.16666666666666663
+Long Cheng,Cham Tat Jen,0.0
+Long Cheng,Chee Wei Tan,0.0
+Long Cheng,Chen Change Loy,0.0
+Long Cheng,Chia Liang Tien,0.0
+Long Cheng,Chng Eng Siong,0.0
+Long Cheng,Cong Gao,0.0
+Long Cheng,Deepu Rajan,0.0
+Long Cheng,Dmitrii Ustiugov,0.0
+Long Cheng,Douglas Leslie Maskell,0.0
+Long Cheng,Dusit Niyato,0.0
+Long Cheng,Erik Cambria,0.19999999999999996
+Long Cheng,Goh Wooi Boon,0.0
+Long Cheng,Guan Cuntai,0.0
+Long Cheng,He Ying,0.0
+Long Cheng,Huang Shell Ying,0.0
+Long Cheng,Hui Siu Cheung,0.0
+Long Cheng,Jagath Chandana Rajapakse,0.125
+Long Cheng,Kwoh Chee Keong,0.0
+Long Cheng,Lam Kwok Yan,0.0
+Long Cheng,Lam Siew Kei,0.0
+Long Cheng,Lee Bu Sung,0.0
+Long Cheng,Li Boyang,0.0
+Long Cheng,Li Mo,0.0
+Long Cheng,Li Yi,0.0
+Long Cheng,Lin Guosheng,0.0
+Long Cheng,Lin Shang-Wei,0.0
+Long Cheng,Liu Weichen,0.0
+Long Cheng,Liu Yang,0.0
+Long Cheng,Liu Ziwei,0.0
+Long Cheng,Loke Yuan Ren,0.0
+Long Cheng,Lu Shijian,0.0
+Long Cheng,Luo Jun,0.0
+Long Cheng,Luo Siqiang,0.0
+Long Cheng,Luu Anh Tuan,0.0
+Long Cheng,Miao Chun Yan,0.0
+Long Cheng,Mohamed M. Sabry,0.0
+Long Cheng,Oh Hong Lye,0.0
+Long Cheng,Ong Chin Ann,0.0
+Long Cheng,Owen Noel Newton Fernando,0.0
+Long Cheng,Pan Xingang,0.0
+Long Cheng,Qian Kemao,0.0
+Long Cheng,Seah Hock Soon,0.0
+Long Cheng,Shen Zhiqi,0.0
+Long Cheng,Siyuan Liu,0.0
+Long Cheng,Smitha K G,0.0
+Long Cheng,Sourav Saha Bhowmick,0.0
+Long Cheng,Sun Aixin,0.5
+Long Cheng,Tan Rui,0.0
+Long Cheng,Vidya Sudarshan,0.0
+Long Cheng,Wai Kin Adams Kong,0.0
+Long Cheng,Wang Wenya,0.0
+Long Cheng,Wee Keong NG,0.0
+Long Cheng,Wei Yang Bryan Lim,0.0
+Long Cheng,Wei Ying,0.0
+Long Cheng,Wen Yonggang,0.0
+Long Cheng,Wentong Cai,0.0
+Long Cheng,Yeo Chai Kiat,0.0
+Long Cheng,Yu Han,0.19999999999999996
+Long Cheng,Zhang Hanwang,0.0
+Long Cheng,Zhang Jie,0.0
+Long Cheng,Zhang Tianwei,0.0
+Long Cheng,Zheng Jianmin,0.0
+Lu Shijian,A S Madhukumar,0.0
+Lu Shijian,Alexei Sourin,0.2857142857142857
+Lu Shijian,Anupam Chattopadhyay,0.0
+Lu Shijian,Anwitaman Datta,0.0
+Lu Shijian,Arvind Easwaran,0.0
+Lu Shijian,Bo An,0.2222222222222222
+Lu Shijian,Cham Tat Jen,0.0
+Lu Shijian,Chee Wei Tan,0.0
+Lu Shijian,Chen Change Loy,0.0
+Lu Shijian,Chia Liang Tien,0.0
+Lu Shijian,Chng Eng Siong,0.1428571428571429
+Lu Shijian,Cong Gao,0.125
+Lu Shijian,Deepu Rajan,0.0
+Lu Shijian,Dmitrii Ustiugov,0.0
+Lu Shijian,Douglas Leslie Maskell,0.0
+Lu Shijian,Dusit Niyato,0.0
+Lu Shijian,Erik Cambria,0.0
+Lu Shijian,Goh Wooi Boon,0.0
+Lu Shijian,Guan Cuntai,0.0
+Lu Shijian,He Ying,0.0
+Lu Shijian,Huang Shell Ying,0.0
+Lu Shijian,Hui Siu Cheung,0.0
+Lu Shijian,Jagath Chandana Rajapakse,0.08333333333333337
+Lu Shijian,Kwoh Chee Keong,0.0
+Lu Shijian,Lam Kwok Yan,0.11111111111111116
+Lu Shijian,Lam Siew Kei,0.0
+Lu Shijian,Lee Bu Sung,0.0
+Lu Shijian,Li Boyang,0.0
+Lu Shijian,Li Mo,0.0
+Lu Shijian,Li Yi,0.0
+Lu Shijian,Lin Guosheng,0.0
+Lu Shijian,Lin Shang-Wei,0.0
+Lu Shijian,Liu Weichen,0.0
+Lu Shijian,Liu Yang,0.0
+Lu Shijian,Liu Ziwei,0.0
+Lu Shijian,Loke Yuan Ren,0.0
+Lu Shijian,Long Cheng,0.0
+Lu Shijian,Luo Jun,0.125
+Lu Shijian,Luo Siqiang,0.0
+Lu Shijian,Luu Anh Tuan,0.0
+Lu Shijian,Miao Chun Yan,0.0
+Lu Shijian,Mohamed M. Sabry,0.0
+Lu Shijian,Oh Hong Lye,0.0
+Lu Shijian,Ong Chin Ann,0.16666666666666663
+Lu Shijian,Owen Noel Newton Fernando,0.09999999999999998
+Lu Shijian,Pan Xingang,0.0
+Lu Shijian,Qian Kemao,0.0
+Lu Shijian,Seah Hock Soon,0.33333333333333337
+Lu Shijian,Shen Zhiqi,0.25
+Lu Shijian,Siyuan Liu,0.0
+Lu Shijian,Smitha K G,0.0
+Lu Shijian,Sourav Saha Bhowmick,0.0
+Lu Shijian,Sun Aixin,0.0
+Lu Shijian,Tan Rui,0.0
+Lu Shijian,Vidya Sudarshan,0.0
+Lu Shijian,Wai Kin Adams Kong,0.16666666666666663
+Lu Shijian,Wang Wenya,0.0
+Lu Shijian,Wee Keong NG,0.0
+Lu Shijian,Wei Yang Bryan Lim,0.125
+Lu Shijian,Wei Ying,0.0
+Lu Shijian,Wen Yonggang,0.0
+Lu Shijian,Wentong Cai,0.0
+Lu Shijian,Yeo Chai Kiat,0.0
+Lu Shijian,Yu Han,0.11111111111111116
+Lu Shijian,Zhang Hanwang,0.0
+Lu Shijian,Zhang Jie,0.0
+Lu Shijian,Zhang Tianwei,0.0
+Lu Shijian,Zheng Jianmin,0.0
+Luo Jun,A S Madhukumar,0.11111111111111116
+Luo Jun,Alexei Sourin,0.0
+Luo Jun,Anupam Chattopadhyay,0.09999999999999998
+Luo Jun,Anwitaman Datta,0.0
+Luo Jun,Arvind Easwaran,0.0
+Luo Jun,Bo An,0.0
+Luo Jun,Cham Tat Jen,0.0
+Luo Jun,Chee Wei Tan,0.0
+Luo Jun,Chen Change Loy,0.0
+Luo Jun,Chia Liang Tien,0.0
+Luo Jun,Chng Eng Siong,0.0
+Luo Jun,Cong Gao,0.0
+Luo Jun,Deepu Rajan,0.0
+Luo Jun,Dmitrii Ustiugov,0.0
+Luo Jun,Douglas Leslie Maskell,0.125
+Luo Jun,Dusit Niyato,0.16666666666666663
+Luo Jun,Erik Cambria,0.0
+Luo Jun,Goh Wooi Boon,0.0
+Luo Jun,Guan Cuntai,0.0
+Luo Jun,He Ying,0.0
+Luo Jun,Huang Shell Ying,0.0
+Luo Jun,Hui Siu Cheung,0.0
+Luo Jun,Jagath Chandana Rajapakse,0.0
+Luo Jun,Kwoh Chee Keong,0.0
+Luo Jun,Lam Kwok Yan,0.0
+Luo Jun,Lam Siew Kei,0.1428571428571429
+Luo Jun,Lee Bu Sung,0.125
+Luo Jun,Li Boyang,0.0
+Luo Jun,Li Mo,0.33333333333333337
+Luo Jun,Li Yi,0.0
+Luo Jun,Lin Guosheng,0.0
+Luo Jun,Lin Shang-Wei,0.0
+Luo Jun,Liu Weichen,0.16666666666666663
+Luo Jun,Liu Yang,0.0
+Luo Jun,Liu Ziwei,0.0
+Luo Jun,Loke Yuan Ren,0.0
+Luo Jun,Long Cheng,0.0
+Luo Jun,Lu Shijian,0.125
+Luo Jun,Luo Siqiang,0.0
+Luo Jun,Luu Anh Tuan,0.0
+Luo Jun,Miao Chun Yan,0.0
+Luo Jun,Mohamed M. Sabry,0.09999999999999998
+Luo Jun,Oh Hong Lye,0.0
+Luo Jun,Ong Chin Ann,0.5
+Luo Jun,Owen Noel Newton Fernando,0.0
+Luo Jun,Pan Xingang,0.0
+Luo Jun,Qian Kemao,0.0
+Luo Jun,Seah Hock Soon,0.16666666666666663
+Luo Jun,Shen Zhiqi,0.125
+Luo Jun,Siyuan Liu,0.1428571428571429
+Luo Jun,Smitha K G,0.0
+Luo Jun,Sourav Saha Bhowmick,0.0
+Luo Jun,Sun Aixin,0.0
+Luo Jun,Tan Rui,0.125
+Luo Jun,Vidya Sudarshan,0.0
+Luo Jun,Wai Kin Adams Kong,0.0
+Luo Jun,Wang Wenya,0.0
+Luo Jun,Wee Keong NG,0.0
+Luo Jun,Wei Yang Bryan Lim,0.1428571428571429
+Luo Jun,Wei Ying,0.0
+Luo Jun,Wen Yonggang,0.0
+Luo Jun,Wentong Cai,0.0
+Luo Jun,Yeo Chai Kiat,0.11111111111111116
+Luo Jun,Yu Han,0.0
+Luo Jun,Zhang Hanwang,0.0
+Luo Jun,Zhang Jie,0.0
+Luo Jun,Zhang Tianwei,0.0
+Luo Jun,Zheng Jianmin,0.0
+Luo Siqiang,A S Madhukumar,0.16666666666666663
+Luo Siqiang,Alexei Sourin,0.25
+Luo Siqiang,Anupam Chattopadhyay,0.1428571428571429
+Luo Siqiang,Anwitaman Datta,0.5
+Luo Siqiang,Arvind Easwaran,0.5
+Luo Siqiang,Bo An,0.0
+Luo Siqiang,Cham Tat Jen,0.33333333333333337
+Luo Siqiang,Chee Wei Tan,0.0
+Luo Siqiang,Chen Change Loy,1.0
+Luo Siqiang,Chia Liang Tien,0.25
+Luo Siqiang,Chng Eng Siong,0.0
+Luo Siqiang,Cong Gao,0.25
+Luo Siqiang,Deepu Rajan,0.25
+Luo Siqiang,Dmitrii Ustiugov,0.0
+Luo Siqiang,Douglas Leslie Maskell,0.19999999999999996
+Luo Siqiang,Dusit Niyato,0.33333333333333337
+Luo Siqiang,Erik Cambria,0.19999999999999996
+Luo Siqiang,Goh Wooi Boon,0.25
+Luo Siqiang,Guan Cuntai,0.0
+Luo Siqiang,He Ying,1.0
+Luo Siqiang,Huang Shell Ying,0.19999999999999996
+Luo Siqiang,Hui Siu Cheung,0.19999999999999996
+Luo Siqiang,Jagath Chandana Rajapakse,0.0
+Luo Siqiang,Kwoh Chee Keong,0.19999999999999996
+Luo Siqiang,Lam Kwok Yan,0.19999999999999996
+Luo Siqiang,Lam Siew Kei,0.25
+Luo Siqiang,Lee Bu Sung,0.19999999999999996
+Luo Siqiang,Li Boyang,1.0
+Luo Siqiang,Li Mo,0.25
+Luo Siqiang,Li Yi,1.0
+Luo Siqiang,Lin Guosheng,1.0
+Luo Siqiang,Lin Shang-Wei,0.5
+Luo Siqiang,Liu Weichen,0.33333333333333337
+Luo Siqiang,Liu Yang,0.5
+Luo Siqiang,Liu Ziwei,1.0
+Luo Siqiang,Loke Yuan Ren,0.16666666666666663
+Luo Siqiang,Long Cheng,0.0
+Luo Siqiang,Lu Shijian,0.0
+Luo Siqiang,Luo Jun,0.0
+Luo Siqiang,Luu Anh Tuan,1.0
+Luo Siqiang,Miao Chun Yan,0.19999999999999996
+Luo Siqiang,Mohamed M. Sabry,0.1428571428571429
+Luo Siqiang,Oh Hong Lye,1.0
+Luo Siqiang,Ong Chin Ann,0.0
+Luo Siqiang,Owen Noel Newton Fernando,0.16666666666666663
+Luo Siqiang,Pan Xingang,0.0
+Luo Siqiang,Qian Kemao,0.19999999999999996
+Luo Siqiang,Seah Hock Soon,0.0
+Luo Siqiang,Shen Zhiqi,0.0
+Luo Siqiang,Siyuan Liu,0.0
+Luo Siqiang,Smitha K G,0.19999999999999996
+Luo Siqiang,Sourav Saha Bhowmick,0.19999999999999996
+Luo Siqiang,Sun Aixin,0.0
+Luo Siqiang,Tan Rui,0.19999999999999996
+Luo Siqiang,Vidya Sudarshan,0.0
+Luo Siqiang,Wai Kin Adams Kong,0.5
+Luo Siqiang,Wang Wenya,0.0
+Luo Siqiang,Wee Keong NG,0.16666666666666663
+Luo Siqiang,Wei Yang Bryan Lim,0.0
+Luo Siqiang,Wei Ying,0.0
+Luo Siqiang,Wen Yonggang,0.33333333333333337
+Luo Siqiang,Wentong Cai,0.5
+Luo Siqiang,Yeo Chai Kiat,0.16666666666666663
+Luo Siqiang,Yu Han,0.0
+Luo Siqiang,Zhang Hanwang,0.19999999999999996
+Luo Siqiang,Zhang Jie,0.0
+Luo Siqiang,Zhang Tianwei,1.0
+Luo Siqiang,Zheng Jianmin,0.16666666666666663
+Luu Anh Tuan,A S Madhukumar,0.16666666666666663
+Luu Anh Tuan,Alexei Sourin,0.25
+Luu Anh Tuan,Anupam Chattopadhyay,0.1428571428571429
+Luu Anh Tuan,Anwitaman Datta,0.5
+Luu Anh Tuan,Arvind Easwaran,0.5
+Luu Anh Tuan,Bo An,0.0
+Luu Anh Tuan,Cham Tat Jen,0.33333333333333337
+Luu Anh Tuan,Chee Wei Tan,0.0
+Luu Anh Tuan,Chen Change Loy,1.0
+Luu Anh Tuan,Chia Liang Tien,0.25
+Luu Anh Tuan,Chng Eng Siong,0.0
+Luu Anh Tuan,Cong Gao,0.25
+Luu Anh Tuan,Deepu Rajan,0.25
+Luu Anh Tuan,Dmitrii Ustiugov,0.0
+Luu Anh Tuan,Douglas Leslie Maskell,0.19999999999999996
+Luu Anh Tuan,Dusit Niyato,0.33333333333333337
+Luu Anh Tuan,Erik Cambria,0.19999999999999996
+Luu Anh Tuan,Goh Wooi Boon,0.25
+Luu Anh Tuan,Guan Cuntai,0.0
+Luu Anh Tuan,He Ying,1.0
+Luu Anh Tuan,Huang Shell Ying,0.19999999999999996
+Luu Anh Tuan,Hui Siu Cheung,0.19999999999999996
+Luu Anh Tuan,Jagath Chandana Rajapakse,0.0
+Luu Anh Tuan,Kwoh Chee Keong,0.19999999999999996
+Luu Anh Tuan,Lam Kwok Yan,0.19999999999999996
+Luu Anh Tuan,Lam Siew Kei,0.25
+Luu Anh Tuan,Lee Bu Sung,0.19999999999999996
+Luu Anh Tuan,Li Boyang,1.0
+Luu Anh Tuan,Li Mo,0.25
+Luu Anh Tuan,Li Yi,1.0
+Luu Anh Tuan,Lin Guosheng,1.0
+Luu Anh Tuan,Lin Shang-Wei,0.5
+Luu Anh Tuan,Liu Weichen,0.33333333333333337
+Luu Anh Tuan,Liu Yang,0.5
+Luu Anh Tuan,Liu Ziwei,1.0
+Luu Anh Tuan,Loke Yuan Ren,0.16666666666666663
+Luu Anh Tuan,Long Cheng,0.0
+Luu Anh Tuan,Lu Shijian,0.0
+Luu Anh Tuan,Luo Jun,0.0
+Luu Anh Tuan,Luo Siqiang,1.0
+Luu Anh Tuan,Miao Chun Yan,0.19999999999999996
+Luu Anh Tuan,Mohamed M. Sabry,0.1428571428571429
+Luu Anh Tuan,Oh Hong Lye,1.0
+Luu Anh Tuan,Ong Chin Ann,0.0
+Luu Anh Tuan,Owen Noel Newton Fernando,0.16666666666666663
+Luu Anh Tuan,Pan Xingang,0.0
+Luu Anh Tuan,Qian Kemao,0.19999999999999996
+Luu Anh Tuan,Seah Hock Soon,0.0
+Luu Anh Tuan,Shen Zhiqi,0.0
+Luu Anh Tuan,Siyuan Liu,0.0
+Luu Anh Tuan,Smitha K G,0.19999999999999996
+Luu Anh Tuan,Sourav Saha Bhowmick,0.19999999999999996
+Luu Anh Tuan,Sun Aixin,0.0
+Luu Anh Tuan,Tan Rui,0.19999999999999996
+Luu Anh Tuan,Vidya Sudarshan,0.0
+Luu Anh Tuan,Wai Kin Adams Kong,0.5
+Luu Anh Tuan,Wang Wenya,0.0
+Luu Anh Tuan,Wee Keong NG,0.16666666666666663
+Luu Anh Tuan,Wei Yang Bryan Lim,0.0
+Luu Anh Tuan,Wei Ying,0.0
+Luu Anh Tuan,Wen Yonggang,0.33333333333333337
+Luu Anh Tuan,Wentong Cai,0.5
+Luu Anh Tuan,Yeo Chai Kiat,0.16666666666666663
+Luu Anh Tuan,Yu Han,0.0
+Luu Anh Tuan,Zhang Hanwang,0.19999999999999996
+Luu Anh Tuan,Zhang Jie,0.0
+Luu Anh Tuan,Zhang Tianwei,1.0
+Luu Anh Tuan,Zheng Jianmin,0.16666666666666663
+Miao Chun Yan,A S Madhukumar,0.5714285714285714
+Miao Chun Yan,Alexei Sourin,0.2857142857142857
+Miao Chun Yan,Anupam Chattopadhyay,0.09090909090909094
+Miao Chun Yan,Anwitaman Datta,0.16666666666666663
+Miao Chun Yan,Arvind Easwaran,0.16666666666666663
+Miao Chun Yan,Bo An,0.09999999999999998
+Miao Chun Yan,Cham Tat Jen,0.6
+Miao Chun Yan,Chee Wei Tan,0.0
+Miao Chun Yan,Chen Change Loy,0.19999999999999996
+Miao Chun Yan,Chia Liang Tien,0.8
+Miao Chun Yan,Chng Eng Siong,0.1428571428571429
+Miao Chun Yan,Cong Gao,0.2857142857142857
+Miao Chun Yan,Deepu Rajan,0.5
+Miao Chun Yan,Dmitrii Ustiugov,0.0
+Miao Chun Yan,Douglas Leslie Maskell,0.11111111111111116
+Miao Chun Yan,Dusit Niyato,0.1428571428571429
+Miao Chun Yan,Erik Cambria,0.25
+Miao Chun Yan,Goh Wooi Boon,0.2857142857142857
+Miao Chun Yan,Guan Cuntai,0.125
+Miao Chun Yan,He Ying,0.19999999999999996
+Miao Chun Yan,Huang Shell Ying,0.25
+Miao Chun Yan,Hui Siu Cheung,0.6666666666666667
+Miao Chun Yan,Jagath Chandana Rajapakse,0.08333333333333337
+Miao Chun Yan,Kwoh Chee Keong,0.11111111111111116
+Miao Chun Yan,Lam Kwok Yan,0.25
+Miao Chun Yan,Lam Siew Kei,0.125
+Miao Chun Yan,Lee Bu Sung,0.4285714285714286
+Miao Chun Yan,Li Boyang,0.19999999999999996
+Miao Chun Yan,Li Mo,0.2857142857142857
+Miao Chun Yan,Li Yi,0.19999999999999996
+Miao Chun Yan,Lin Guosheng,0.19999999999999996
+Miao Chun Yan,Lin Shang-Wei,0.16666666666666663
+Miao Chun Yan,Liu Weichen,0.1428571428571429
+Miao Chun Yan,Liu Yang,0.16666666666666663
+Miao Chun Yan,Liu Ziwei,0.19999999999999996
+Miao Chun Yan,Loke Yuan Ren,0.2222222222222222
+Miao Chun Yan,Long Cheng,0.0
+Miao Chun Yan,Lu Shijian,0.0
+Miao Chun Yan,Luo Jun,0.0
+Miao Chun Yan,Luo Siqiang,0.19999999999999996
+Miao Chun Yan,Luu Anh Tuan,0.19999999999999996
+Miao Chun Yan,Mohamed M. Sabry,0.09090909090909094
+Miao Chun Yan,Oh Hong Lye,0.19999999999999996
+Miao Chun Yan,Ong Chin Ann,0.0
+Miao Chun Yan,Owen Noel Newton Fernando,0.375
+Miao Chun Yan,Pan Xingang,0.0
+Miao Chun Yan,Qian Kemao,0.25
+Miao Chun Yan,Seah Hock Soon,0.0
+Miao Chun Yan,Shen Zhiqi,0.11111111111111116
+Miao Chun Yan,Siyuan Liu,0.0
+Miao Chun Yan,Smitha K G,0.11111111111111116
+Miao Chun Yan,Sourav Saha Bhowmick,0.11111111111111116
+Miao Chun Yan,Sun Aixin,0.0
+Miao Chun Yan,Tan Rui,0.4285714285714286
+Miao Chun Yan,Vidya Sudarshan,0.0
+Miao Chun Yan,Wai Kin Adams Kong,0.16666666666666663
+Miao Chun Yan,Wang Wenya,0.0
+Miao Chun Yan,Wee Keong NG,0.5714285714285714
+Miao Chun Yan,Wei Yang Bryan Lim,0.125
+Miao Chun Yan,Wei Ying,0.0
+Miao Chun Yan,Wen Yonggang,0.6
+Miao Chun Yan,Wentong Cai,0.16666666666666663
+Miao Chun Yan,Yeo Chai Kiat,0.5714285714285714
+Miao Chun Yan,Yu Han,0.11111111111111116
+Miao Chun Yan,Zhang Hanwang,0.25
+Miao Chun Yan,Zhang Jie,0.16666666666666663
+Miao Chun Yan,Zhang Tianwei,0.19999999999999996
+Miao Chun Yan,Zheng Jianmin,0.2222222222222222
+Mohamed M. Sabry,A S Madhukumar,0.18181818181818177
+Mohamed M. Sabry,Alexei Sourin,0.09999999999999998
+Mohamed M. Sabry,Anupam Chattopadhyay,0.5555555555555556
+Mohamed M. Sabry,Anwitaman Datta,0.125
+Mohamed M. Sabry,Arvind Easwaran,0.2857142857142857
+Mohamed M. Sabry,Bo An,0.0
+Mohamed M. Sabry,Cham Tat Jen,0.11111111111111116
+Mohamed M. Sabry,Chee Wei Tan,0.0
+Mohamed M. Sabry,Chen Change Loy,0.1428571428571429
+Mohamed M. Sabry,Chia Liang Tien,0.09999999999999998
+Mohamed M. Sabry,Chng Eng Siong,0.0
+Mohamed M. Sabry,Cong Gao,0.09999999999999998
+Mohamed M. Sabry,Deepu Rajan,0.2222222222222222
+Mohamed M. Sabry,Dmitrii Ustiugov,0.125
+Mohamed M. Sabry,Douglas Leslie Maskell,0.5
+Mohamed M. Sabry,Dusit Niyato,0.25
+Mohamed M. Sabry,Erik Cambria,0.09090909090909094
+Mohamed M. Sabry,Goh Wooi Boon,0.375
+Mohamed M. Sabry,Guan Cuntai,0.0
+Mohamed M. Sabry,He Ying,0.1428571428571429
+Mohamed M. Sabry,Huang Shell Ying,0.19999999999999996
+Mohamed M. Sabry,Hui Siu Cheung,0.09090909090909094
+Mohamed M. Sabry,Jagath Chandana Rajapakse,0.0
+Mohamed M. Sabry,Kwoh Chee Keong,0.19999999999999996
+Mohamed M. Sabry,Lam Kwok Yan,0.09090909090909094
+Mohamed M. Sabry,Lam Siew Kei,0.5714285714285714
+Mohamed M. Sabry,Lee Bu Sung,0.09090909090909094
+Mohamed M. Sabry,Li Boyang,0.1428571428571429
+Mohamed M. Sabry,Li Mo,0.09999999999999998
+Mohamed M. Sabry,Li Yi,0.1428571428571429
+Mohamed M. Sabry,Lin Guosheng,0.1428571428571429
+Mohamed M. Sabry,Lin Shang-Wei,0.125
+Mohamed M. Sabry,Liu Weichen,0.4285714285714286
+Mohamed M. Sabry,Liu Yang,0.125
+Mohamed M. Sabry,Liu Ziwei,0.1428571428571429
+Mohamed M. Sabry,Loke Yuan Ren,0.30000000000000004
+Mohamed M. Sabry,Long Cheng,0.0
+Mohamed M. Sabry,Lu Shijian,0.0
+Mohamed M. Sabry,Luo Jun,0.09999999999999998
+Mohamed M. Sabry,Luo Siqiang,0.1428571428571429
+Mohamed M. Sabry,Luu Anh Tuan,0.1428571428571429
+Mohamed M. Sabry,Miao Chun Yan,0.09090909090909094
+Mohamed M. Sabry,Oh Hong Lye,0.1428571428571429
+Mohamed M. Sabry,Ong Chin Ann,0.0
+Mohamed M. Sabry,Owen Noel Newton Fernando,0.08333333333333337
+Mohamed M. Sabry,Pan Xingang,0.0
+Mohamed M. Sabry,Qian Kemao,0.19999999999999996
+Mohamed M. Sabry,Seah Hock Soon,0.0
+Mohamed M. Sabry,Shen Zhiqi,0.0
+Mohamed M. Sabry,Siyuan Liu,0.0
+Mohamed M. Sabry,Smitha K G,0.33333333333333337
+Mohamed M. Sabry,Sourav Saha Bhowmick,0.09090909090909094
+Mohamed M. Sabry,Sun Aixin,0.0
+Mohamed M. Sabry,Tan Rui,0.09090909090909094
+Mohamed M. Sabry,Vidya Sudarshan,0.0
+Mohamed M. Sabry,Wai Kin Adams Kong,0.125
+Mohamed M. Sabry,Wang Wenya,0.0
+Mohamed M. Sabry,Wee Keong NG,0.08333333333333337
+Mohamed M. Sabry,Wei Yang Bryan Lim,0.0
+Mohamed M. Sabry,Wei Ying,0.0
+Mohamed M. Sabry,Wen Yonggang,0.11111111111111116
+Mohamed M. Sabry,Wentong Cai,0.125
+Mohamed M. Sabry,Yeo Chai Kiat,0.18181818181818177
+Mohamed M. Sabry,Yu Han,0.0
+Mohamed M. Sabry,Zhang Hanwang,0.19999999999999996
+Mohamed M. Sabry,Zhang Jie,0.0
+Mohamed M. Sabry,Zhang Tianwei,0.1428571428571429
+Mohamed M. Sabry,Zheng Jianmin,0.08333333333333337
+Oh Hong Lye,A S Madhukumar,0.16666666666666663
+Oh Hong Lye,Alexei Sourin,0.25
+Oh Hong Lye,Anupam Chattopadhyay,0.1428571428571429
+Oh Hong Lye,Anwitaman Datta,0.5
+Oh Hong Lye,Arvind Easwaran,0.5
+Oh Hong Lye,Bo An,0.0
+Oh Hong Lye,Cham Tat Jen,0.33333333333333337
+Oh Hong Lye,Chee Wei Tan,0.0
+Oh Hong Lye,Chen Change Loy,1.0
+Oh Hong Lye,Chia Liang Tien,0.25
+Oh Hong Lye,Chng Eng Siong,0.0
+Oh Hong Lye,Cong Gao,0.25
+Oh Hong Lye,Deepu Rajan,0.25
+Oh Hong Lye,Dmitrii Ustiugov,0.0
+Oh Hong Lye,Douglas Leslie Maskell,0.19999999999999996
+Oh Hong Lye,Dusit Niyato,0.33333333333333337
+Oh Hong Lye,Erik Cambria,0.19999999999999996
+Oh Hong Lye,Goh Wooi Boon,0.25
+Oh Hong Lye,Guan Cuntai,0.0
+Oh Hong Lye,He Ying,1.0
+Oh Hong Lye,Huang Shell Ying,0.19999999999999996
+Oh Hong Lye,Hui Siu Cheung,0.19999999999999996
+Oh Hong Lye,Jagath Chandana Rajapakse,0.0
+Oh Hong Lye,Kwoh Chee Keong,0.19999999999999996
+Oh Hong Lye,Lam Kwok Yan,0.19999999999999996
+Oh Hong Lye,Lam Siew Kei,0.25
+Oh Hong Lye,Lee Bu Sung,0.19999999999999996
+Oh Hong Lye,Li Boyang,1.0
+Oh Hong Lye,Li Mo,0.25
+Oh Hong Lye,Li Yi,1.0
+Oh Hong Lye,Lin Guosheng,1.0
+Oh Hong Lye,Lin Shang-Wei,0.5
+Oh Hong Lye,Liu Weichen,0.33333333333333337
+Oh Hong Lye,Liu Yang,0.5
+Oh Hong Lye,Liu Ziwei,1.0
+Oh Hong Lye,Loke Yuan Ren,0.16666666666666663
+Oh Hong Lye,Long Cheng,0.0
+Oh Hong Lye,Lu Shijian,0.0
+Oh Hong Lye,Luo Jun,0.0
+Oh Hong Lye,Luo Siqiang,1.0
+Oh Hong Lye,Luu Anh Tuan,1.0
+Oh Hong Lye,Miao Chun Yan,0.19999999999999996
+Oh Hong Lye,Mohamed M. Sabry,0.1428571428571429
+Oh Hong Lye,Ong Chin Ann,0.0
+Oh Hong Lye,Owen Noel Newton Fernando,0.16666666666666663
+Oh Hong Lye,Pan Xingang,0.0
+Oh Hong Lye,Qian Kemao,0.19999999999999996
+Oh Hong Lye,Seah Hock Soon,0.0
+Oh Hong Lye,Shen Zhiqi,0.0
+Oh Hong Lye,Siyuan Liu,0.0
+Oh Hong Lye,Smitha K G,0.19999999999999996
+Oh Hong Lye,Sourav Saha Bhowmick,0.19999999999999996
+Oh Hong Lye,Sun Aixin,0.0
+Oh Hong Lye,Tan Rui,0.19999999999999996
+Oh Hong Lye,Vidya Sudarshan,0.0
+Oh Hong Lye,Wai Kin Adams Kong,0.5
+Oh Hong Lye,Wang Wenya,0.0
+Oh Hong Lye,Wee Keong NG,0.16666666666666663
+Oh Hong Lye,Wei Yang Bryan Lim,0.0
+Oh Hong Lye,Wei Ying,0.0
+Oh Hong Lye,Wen Yonggang,0.33333333333333337
+Oh Hong Lye,Wentong Cai,0.5
+Oh Hong Lye,Yeo Chai Kiat,0.16666666666666663
+Oh Hong Lye,Yu Han,0.0
+Oh Hong Lye,Zhang Hanwang,0.19999999999999996
+Oh Hong Lye,Zhang Jie,0.0
+Oh Hong Lye,Zhang Tianwei,1.0
+Oh Hong Lye,Zheng Jianmin,0.16666666666666663
+Ong Chin Ann,A S Madhukumar,0.1428571428571429
+Ong Chin Ann,Alexei Sourin,0.0
+Ong Chin Ann,Anupam Chattopadhyay,0.0
+Ong Chin Ann,Anwitaman Datta,0.0
+Ong Chin Ann,Arvind Easwaran,0.0
+Ong Chin Ann,Bo An,0.0
+Ong Chin Ann,Cham Tat Jen,0.0
+Ong Chin Ann,Chee Wei Tan,0.0
+Ong Chin Ann,Chen Change Loy,0.0
+Ong Chin Ann,Chia Liang Tien,0.0
+Ong Chin Ann,Chng Eng Siong,0.0
+Ong Chin Ann,Cong Gao,0.0
+Ong Chin Ann,Deepu Rajan,0.0
+Ong Chin Ann,Dmitrii Ustiugov,0.0
+Ong Chin Ann,Douglas Leslie Maskell,0.0
+Ong Chin Ann,Dusit Niyato,0.25
+Ong Chin Ann,Erik Cambria,0.0
+Ong Chin Ann,Goh Wooi Boon,0.0
+Ong Chin Ann,Guan Cuntai,0.0
+Ong Chin Ann,He Ying,0.0
+Ong Chin Ann,Huang Shell Ying,0.0
+Ong Chin Ann,Hui Siu Cheung,0.0
+Ong Chin Ann,Jagath Chandana Rajapakse,0.0
+Ong Chin Ann,Kwoh Chee Keong,0.0
+Ong Chin Ann,Lam Kwok Yan,0.0
+Ong Chin Ann,Lam Siew Kei,0.0
+Ong Chin Ann,Lee Bu Sung,0.16666666666666663
+Ong Chin Ann,Li Boyang,0.0
+Ong Chin Ann,Li Mo,0.19999999999999996
+Ong Chin Ann,Li Yi,0.0
+Ong Chin Ann,Lin Guosheng,0.0
+Ong Chin Ann,Lin Shang-Wei,0.0
+Ong Chin Ann,Liu Weichen,0.0
+Ong Chin Ann,Liu Yang,0.0
+Ong Chin Ann,Liu Ziwei,0.0
+Ong Chin Ann,Loke Yuan Ren,0.0
+Ong Chin Ann,Long Cheng,0.0
+Ong Chin Ann,Lu Shijian,0.16666666666666663
+Ong Chin Ann,Luo Jun,0.5
+Ong Chin Ann,Luo Siqiang,0.0
+Ong Chin Ann,Luu Anh Tuan,0.0
+Ong Chin Ann,Miao Chun Yan,0.0
+Ong Chin Ann,Mohamed M. Sabry,0.0
+Ong Chin Ann,Oh Hong Lye,0.0
+Ong Chin Ann,Owen Noel Newton Fernando,0.0
+Ong Chin Ann,Pan Xingang,0.0
+Ong Chin Ann,Qian Kemao,0.0
+Ong Chin Ann,Seah Hock Soon,0.25
+Ong Chin Ann,Shen Zhiqi,0.16666666666666663
+Ong Chin Ann,Siyuan Liu,0.0
+Ong Chin Ann,Smitha K G,0.0
+Ong Chin Ann,Sourav Saha Bhowmick,0.0
+Ong Chin Ann,Sun Aixin,0.0
+Ong Chin Ann,Tan Rui,0.16666666666666663
+Ong Chin Ann,Vidya Sudarshan,0.0
+Ong Chin Ann,Wai Kin Adams Kong,0.0
+Ong Chin Ann,Wang Wenya,0.0
+Ong Chin Ann,Wee Keong NG,0.0
+Ong Chin Ann,Wei Yang Bryan Lim,0.0
+Ong Chin Ann,Wei Ying,0.0
+Ong Chin Ann,Wen Yonggang,0.0
+Ong Chin Ann,Wentong Cai,0.0
+Ong Chin Ann,Yeo Chai Kiat,0.1428571428571429
+Ong Chin Ann,Yu Han,0.0
+Ong Chin Ann,Zhang Hanwang,0.0
+Ong Chin Ann,Zhang Jie,0.0
+Ong Chin Ann,Zhang Tianwei,0.0
+Ong Chin Ann,Zheng Jianmin,0.0
+Owen Noel Newton Fernando,A S Madhukumar,0.33333333333333337
+Owen Noel Newton Fernando,Alexei Sourin,0.4285714285714286
+Owen Noel Newton Fernando,Anupam Chattopadhyay,0.08333333333333337
+Owen Noel Newton Fernando,Anwitaman Datta,0.1428571428571429
+Owen Noel Newton Fernando,Arvind Easwaran,0.1428571428571429
+Owen Noel Newton Fernando,Bo An,0.0
+Owen Noel Newton Fernando,Cham Tat Jen,0.5
+Owen Noel Newton Fernando,Chee Wei Tan,0.0
+Owen Noel Newton Fernando,Chen Change Loy,0.16666666666666663
+Owen Noel Newton Fernando,Chia Liang Tien,0.4285714285714286
+Owen Noel Newton Fernando,Chng Eng Siong,0.0
+Owen Noel Newton Fernando,Cong Gao,0.11111111111111116
+Owen Noel Newton Fernando,Deepu Rajan,0.4285714285714286
+Owen Noel Newton Fernando,Dmitrii Ustiugov,0.0
+Owen Noel Newton Fernando,Douglas Leslie Maskell,0.09999999999999998
+Owen Noel Newton Fernando,Dusit Niyato,0.125
+Owen Noel Newton Fernando,Erik Cambria,0.09999999999999998
+Owen Noel Newton Fernando,Goh Wooi Boon,0.25
+Owen Noel Newton Fernando,Guan Cuntai,0.0
+Owen Noel Newton Fernando,He Ying,0.16666666666666663
+Owen Noel Newton Fernando,Huang Shell Ying,0.2222222222222222
+Owen Noel Newton Fernando,Hui Siu Cheung,0.375
+Owen Noel Newton Fernando,Jagath Chandana Rajapakse,0.0
+Owen Noel Newton Fernando,Kwoh Chee Keong,0.09999999999999998
+Owen Noel Newton Fernando,Lam Kwok Yan,0.2222222222222222
+Owen Noel Newton Fernando,Lam Siew Kei,0.11111111111111116
+Owen Noel Newton Fernando,Lee Bu Sung,0.2222222222222222
+Owen Noel Newton Fernando,Li Boyang,0.16666666666666663
+Owen Noel Newton Fernando,Li Mo,0.11111111111111116
+Owen Noel Newton Fernando,Li Yi,0.16666666666666663
+Owen Noel Newton Fernando,Lin Guosheng,0.16666666666666663
+Owen Noel Newton Fernando,Lin Shang-Wei,0.1428571428571429
+Owen Noel Newton Fernando,Liu Weichen,0.125
+Owen Noel Newton Fernando,Liu Yang,0.1428571428571429
+Owen Noel Newton Fernando,Liu Ziwei,0.16666666666666663
+Owen Noel Newton Fernando,Loke Yuan Ren,0.19999999999999996
+Owen Noel Newton Fernando,Long Cheng,0.0
+Owen Noel Newton Fernando,Lu Shijian,0.09999999999999998
+Owen Noel Newton Fernando,Luo Jun,0.0
+Owen Noel Newton Fernando,Luo Siqiang,0.16666666666666663
+Owen Noel Newton Fernando,Luu Anh Tuan,0.16666666666666663
+Owen Noel Newton Fernando,Miao Chun Yan,0.375
+Owen Noel Newton Fernando,Mohamed M. Sabry,0.08333333333333337
+Owen Noel Newton Fernando,Oh Hong Lye,0.16666666666666663
+Owen Noel Newton Fernando,Ong Chin Ann,0.0
+Owen Noel Newton Fernando,Pan Xingang,0.0
+Owen Noel Newton Fernando,Qian Kemao,0.2222222222222222
+Owen Noel Newton Fernando,Seah Hock Soon,0.125
+Owen Noel Newton Fernando,Shen Zhiqi,0.09999999999999998
+Owen Noel Newton Fernando,Siyuan Liu,0.0
+Owen Noel Newton Fernando,Smitha K G,0.09999999999999998
+Owen Noel Newton Fernando,Sourav Saha Bhowmick,0.375
+Owen Noel Newton Fernando,Sun Aixin,0.0
+Owen Noel Newton Fernando,Tan Rui,0.2222222222222222
+Owen Noel Newton Fernando,Vidya Sudarshan,0.0
+Owen Noel Newton Fernando,Wai Kin Adams Kong,0.1428571428571429
+Owen Noel Newton Fernando,Wang Wenya,0.0
+Owen Noel Newton Fernando,Wee Keong NG,0.33333333333333337
+Owen Noel Newton Fernando,Wei Yang Bryan Lim,0.0
+Owen Noel Newton Fernando,Wei Ying,0.0
+Owen Noel Newton Fernando,Wen Yonggang,0.2857142857142857
+Owen Noel Newton Fernando,Wentong Cai,0.1428571428571429
+Owen Noel Newton Fernando,Yeo Chai Kiat,0.33333333333333337
+Owen Noel Newton Fernando,Yu Han,0.09999999999999998
+Owen Noel Newton Fernando,Zhang Hanwang,0.2222222222222222
+Owen Noel Newton Fernando,Zhang Jie,0.0
+Owen Noel Newton Fernando,Zhang Tianwei,0.16666666666666663
+Owen Noel Newton Fernando,Zheng Jianmin,0.5
+Pan Xingang,A S Madhukumar,0.0
+Pan Xingang,Alexei Sourin,0.0
+Pan Xingang,Anupam Chattopadhyay,0.0
+Pan Xingang,Anwitaman Datta,0.0
+Pan Xingang,Arvind Easwaran,0.0
+Pan Xingang,Bo An,0.0
+Pan Xingang,Cham Tat Jen,0.0
+Pan Xingang,Chee Wei Tan,1.0
+Pan Xingang,Chen Change Loy,0.0
+Pan Xingang,Chia Liang Tien,0.0
+Pan Xingang,Chng Eng Siong,0.0
+Pan Xingang,Cong Gao,0.0
+Pan Xingang,Deepu Rajan,0.0
+Pan Xingang,Dmitrii Ustiugov,0.0
+Pan Xingang,Douglas Leslie Maskell,0.0
+Pan Xingang,Dusit Niyato,0.0
+Pan Xingang,Erik Cambria,0.0
+Pan Xingang,Goh Wooi Boon,0.0
+Pan Xingang,Guan Cuntai,0.0
+Pan Xingang,He Ying,0.0
+Pan Xingang,Huang Shell Ying,0.0
+Pan Xingang,Hui Siu Cheung,0.0
+Pan Xingang,Jagath Chandana Rajapakse,0.0
+Pan Xingang,Kwoh Chee Keong,0.0
+Pan Xingang,Lam Kwok Yan,0.0
+Pan Xingang,Lam Siew Kei,0.0
+Pan Xingang,Lee Bu Sung,0.0
+Pan Xingang,Li Boyang,0.0
+Pan Xingang,Li Mo,0.0
+Pan Xingang,Li Yi,0.0
+Pan Xingang,Lin Guosheng,0.0
+Pan Xingang,Lin Shang-Wei,0.0
+Pan Xingang,Liu Weichen,0.0
+Pan Xingang,Liu Yang,0.0
+Pan Xingang,Liu Ziwei,0.0
+Pan Xingang,Loke Yuan Ren,0.0
+Pan Xingang,Long Cheng,0.0
+Pan Xingang,Lu Shijian,0.0
+Pan Xingang,Luo Jun,0.0
+Pan Xingang,Luo Siqiang,0.0
+Pan Xingang,Luu Anh Tuan,0.0
+Pan Xingang,Miao Chun Yan,0.0
+Pan Xingang,Mohamed M. Sabry,0.0
+Pan Xingang,Oh Hong Lye,0.0
+Pan Xingang,Ong Chin Ann,0.0
+Pan Xingang,Owen Noel Newton Fernando,0.0
+Pan Xingang,Qian Kemao,0.0
+Pan Xingang,Seah Hock Soon,0.0
+Pan Xingang,Shen Zhiqi,0.0
+Pan Xingang,Siyuan Liu,0.0
+Pan Xingang,Smitha K G,0.0
+Pan Xingang,Sourav Saha Bhowmick,0.0
+Pan Xingang,Sun Aixin,0.0
+Pan Xingang,Tan Rui,0.0
+Pan Xingang,Vidya Sudarshan,1.0
+Pan Xingang,Wai Kin Adams Kong,0.0
+Pan Xingang,Wang Wenya,1.0
+Pan Xingang,Wee Keong NG,0.0
+Pan Xingang,Wei Yang Bryan Lim,0.0
+Pan Xingang,Wei Ying,0.0
+Pan Xingang,Wen Yonggang,0.0
+Pan Xingang,Wentong Cai,0.0
+Pan Xingang,Yeo Chai Kiat,0.0
+Pan Xingang,Yu Han,0.0
+Pan Xingang,Zhang Hanwang,0.0
+Pan Xingang,Zhang Jie,0.0
+Pan Xingang,Zhang Tianwei,0.0
+Pan Xingang,Zheng Jianmin,0.0
+Qian Kemao,A S Madhukumar,0.375
+Qian Kemao,Alexei Sourin,0.2857142857142857
+Qian Kemao,Anupam Chattopadhyay,0.19999999999999996
+Qian Kemao,Anwitaman Datta,0.16666666666666663
+Qian Kemao,Arvind Easwaran,0.16666666666666663
+Qian Kemao,Bo An,0.0
+Qian Kemao,Cham Tat Jen,0.33333333333333337
+Qian Kemao,Chee Wei Tan,0.0
+Qian Kemao,Chen Change Loy,0.19999999999999996
+Qian Kemao,Chia Liang Tien,0.2857142857142857
+Qian Kemao,Chng Eng Siong,0.0
+Qian Kemao,Cong Gao,0.125
+Qian Kemao,Deepu Rajan,0.5
+Qian Kemao,Dmitrii Ustiugov,0.0
+Qian Kemao,Douglas Leslie Maskell,0.25
+Qian Kemao,Dusit Niyato,0.33333333333333337
+Qian Kemao,Erik Cambria,0.11111111111111116
+Qian Kemao,Goh Wooi Boon,0.5
+Qian Kemao,Guan Cuntai,0.0
+Qian Kemao,He Ying,0.19999999999999996
+Qian Kemao,Huang Shell Ying,0.11111111111111116
+Qian Kemao,Hui Siu Cheung,0.25
+Qian Kemao,Jagath Chandana Rajapakse,0.0
+Qian Kemao,Kwoh Chee Keong,0.11111111111111116
+Qian Kemao,Lam Kwok Yan,0.11111111111111116
+Qian Kemao,Lam Siew Kei,0.2857142857142857
+Qian Kemao,Lee Bu Sung,0.11111111111111116
+Qian Kemao,Li Boyang,0.19999999999999996
+Qian Kemao,Li Mo,0.125
+Qian Kemao,Li Yi,0.19999999999999996
+Qian Kemao,Lin Guosheng,0.19999999999999996
+Qian Kemao,Lin Shang-Wei,0.16666666666666663
+Qian Kemao,Liu Weichen,0.1428571428571429
+Qian Kemao,Liu Yang,0.16666666666666663
+Qian Kemao,Liu Ziwei,0.19999999999999996
+Qian Kemao,Loke Yuan Ren,0.375
+Qian Kemao,Long Cheng,0.0
+Qian Kemao,Lu Shijian,0.0
+Qian Kemao,Luo Jun,0.0
+Qian Kemao,Luo Siqiang,0.19999999999999996
+Qian Kemao,Luu Anh Tuan,0.19999999999999996
+Qian Kemao,Miao Chun Yan,0.25
+Qian Kemao,Mohamed M. Sabry,0.19999999999999996
+Qian Kemao,Oh Hong Lye,0.19999999999999996
+Qian Kemao,Ong Chin Ann,0.0
+Qian Kemao,Owen Noel Newton Fernando,0.2222222222222222
+Qian Kemao,Pan Xingang,0.0
+Qian Kemao,Seah Hock Soon,0.0
+Qian Kemao,Shen Zhiqi,0.0
+Qian Kemao,Siyuan Liu,0.0
+Qian Kemao,Smitha K G,0.25
+Qian Kemao,Sourav Saha Bhowmick,0.11111111111111116
+Qian Kemao,Sun Aixin,0.0
+Qian Kemao,Tan Rui,0.11111111111111116
+Qian Kemao,Vidya Sudarshan,0.0
+Qian Kemao,Wai Kin Adams Kong,0.16666666666666663
+Qian Kemao,Wang Wenya,0.0
+Qian Kemao,Wee Keong NG,0.2222222222222222
+Qian Kemao,Wei Yang Bryan Lim,0.0
+Qian Kemao,Wei Ying,0.0
+Qian Kemao,Wen Yonggang,0.1428571428571429
+Qian Kemao,Wentong Cai,0.16666666666666663
+Qian Kemao,Yeo Chai Kiat,0.375
+Qian Kemao,Yu Han,0.0
+Qian Kemao,Zhang Hanwang,0.4285714285714286
+Qian Kemao,Zhang Jie,0.0
+Qian Kemao,Zhang Tianwei,0.19999999999999996
+Qian Kemao,Zheng Jianmin,0.375
+Seah Hock Soon,A S Madhukumar,0.0
+Seah Hock Soon,Alexei Sourin,0.16666666666666663
+Seah Hock Soon,Anupam Chattopadhyay,0.0
+Seah Hock Soon,Anwitaman Datta,0.25
+Seah Hock Soon,Arvind Easwaran,0.0
+Seah Hock Soon,Bo An,0.0
+Seah Hock Soon,Cham Tat Jen,0.0
+Seah Hock Soon,Chee Wei Tan,0.0
+Seah Hock Soon,Chen Change Loy,0.0
+Seah Hock Soon,Chia Liang Tien,0.0
+Seah Hock Soon,Chng Eng Siong,0.0
+Seah Hock Soon,Cong Gao,0.0
+Seah Hock Soon,Deepu Rajan,0.0
+Seah Hock Soon,Dmitrii Ustiugov,0.25
+Seah Hock Soon,Douglas Leslie Maskell,0.0
+Seah Hock Soon,Dusit Niyato,0.0
+Seah Hock Soon,Erik Cambria,0.0
+Seah Hock Soon,Goh Wooi Boon,0.0
+Seah Hock Soon,Guan Cuntai,0.0
+Seah Hock Soon,He Ying,0.0
+Seah Hock Soon,Huang Shell Ying,0.1428571428571429
+Seah Hock Soon,Hui Siu Cheung,0.0
+Seah Hock Soon,Jagath Chandana Rajapakse,0.0
+Seah Hock Soon,Kwoh Chee Keong,0.0
+Seah Hock Soon,Lam Kwok Yan,0.0
+Seah Hock Soon,Lam Siew Kei,0.0
+Seah Hock Soon,Lee Bu Sung,0.1428571428571429
+Seah Hock Soon,Li Boyang,0.0
+Seah Hock Soon,Li Mo,0.0
+Seah Hock Soon,Li Yi,0.0
+Seah Hock Soon,Lin Guosheng,0.0
+Seah Hock Soon,Lin Shang-Wei,0.0
+Seah Hock Soon,Liu Weichen,0.0
+Seah Hock Soon,Liu Yang,0.0
+Seah Hock Soon,Liu Ziwei,0.0
+Seah Hock Soon,Loke Yuan Ren,0.0
+Seah Hock Soon,Long Cheng,0.0
+Seah Hock Soon,Lu Shijian,0.33333333333333337
+Seah Hock Soon,Luo Jun,0.16666666666666663
+Seah Hock Soon,Luo Siqiang,0.0
+Seah Hock Soon,Luu Anh Tuan,0.0
+Seah Hock Soon,Miao Chun Yan,0.0
+Seah Hock Soon,Mohamed M. Sabry,0.0
+Seah Hock Soon,Oh Hong Lye,0.0
+Seah Hock Soon,Ong Chin Ann,0.25
+Seah Hock Soon,Owen Noel Newton Fernando,0.125
+Seah Hock Soon,Pan Xingang,0.0
+Seah Hock Soon,Qian Kemao,0.0
+Seah Hock Soon,Shen Zhiqi,0.33333333333333337
+Seah Hock Soon,Siyuan Liu,0.0
+Seah Hock Soon,Smitha K G,0.0
+Seah Hock Soon,Sourav Saha Bhowmick,0.0
+Seah Hock Soon,Sun Aixin,0.0
+Seah Hock Soon,Tan Rui,0.0
+Seah Hock Soon,Vidya Sudarshan,0.0
+Seah Hock Soon,Wai Kin Adams Kong,0.0
+Seah Hock Soon,Wang Wenya,0.0
+Seah Hock Soon,Wee Keong NG,0.0
+Seah Hock Soon,Wei Yang Bryan Lim,0.16666666666666663
+Seah Hock Soon,Wei Ying,0.0
+Seah Hock Soon,Wen Yonggang,0.0
+Seah Hock Soon,Wentong Cai,0.25
+Seah Hock Soon,Yeo Chai Kiat,0.0
+Seah Hock Soon,Yu Han,0.33333333333333337
+Seah Hock Soon,Zhang Hanwang,0.0
+Seah Hock Soon,Zhang Jie,0.0
+Seah Hock Soon,Zhang Tianwei,0.0
+Seah Hock Soon,Zheng Jianmin,0.0
+Shen Zhiqi,A S Madhukumar,0.0
+Shen Zhiqi,Alexei Sourin,0.125
+Shen Zhiqi,Anupam Chattopadhyay,0.0
+Shen Zhiqi,Anwitaman Datta,0.0
+Shen Zhiqi,Arvind Easwaran,0.0
+Shen Zhiqi,Bo An,0.2222222222222222
+Shen Zhiqi,Cham Tat Jen,0.0
+Shen Zhiqi,Chee Wei Tan,0.0
+Shen Zhiqi,Chen Change Loy,0.0
+Shen Zhiqi,Chia Liang Tien,0.0
+Shen Zhiqi,Chng Eng Siong,0.33333333333333337
+Shen Zhiqi,Cong Gao,0.125
+Shen Zhiqi,Deepu Rajan,0.0
+Shen Zhiqi,Dmitrii Ustiugov,0.0
+Shen Zhiqi,Douglas Leslie Maskell,0.0
+Shen Zhiqi,Dusit Niyato,0.0
+Shen Zhiqi,Erik Cambria,0.25
+Shen Zhiqi,Goh Wooi Boon,0.0
+Shen Zhiqi,Guan Cuntai,0.2857142857142857
+Shen Zhiqi,He Ying,0.0
+Shen Zhiqi,Huang Shell Ying,0.0
+Shen Zhiqi,Hui Siu Cheung,0.0
+Shen Zhiqi,Jagath Chandana Rajapakse,0.18181818181818177
+Shen Zhiqi,Kwoh Chee Keong,0.0
+Shen Zhiqi,Lam Kwok Yan,0.0
+Shen Zhiqi,Lam Siew Kei,0.0
+Shen Zhiqi,Lee Bu Sung,0.0
+Shen Zhiqi,Li Boyang,0.0
+Shen Zhiqi,Li Mo,0.0
+Shen Zhiqi,Li Yi,0.0
+Shen Zhiqi,Lin Guosheng,0.0
+Shen Zhiqi,Lin Shang-Wei,0.0
+Shen Zhiqi,Liu Weichen,0.0
+Shen Zhiqi,Liu Yang,0.0
+Shen Zhiqi,Liu Ziwei,0.0
+Shen Zhiqi,Loke Yuan Ren,0.0
+Shen Zhiqi,Long Cheng,0.0
+Shen Zhiqi,Lu Shijian,0.25
+Shen Zhiqi,Luo Jun,0.125
+Shen Zhiqi,Luo Siqiang,0.0
+Shen Zhiqi,Luu Anh Tuan,0.0
+Shen Zhiqi,Miao Chun Yan,0.11111111111111116
+Shen Zhiqi,Mohamed M. Sabry,0.0
+Shen Zhiqi,Oh Hong Lye,0.0
+Shen Zhiqi,Ong Chin Ann,0.16666666666666663
+Shen Zhiqi,Owen Noel Newton Fernando,0.09999999999999998
+Shen Zhiqi,Pan Xingang,0.0
+Shen Zhiqi,Qian Kemao,0.0
+Shen Zhiqi,Seah Hock Soon,0.33333333333333337
+Shen Zhiqi,Siyuan Liu,0.2857142857142857
+Shen Zhiqi,Smitha K G,0.0
+Shen Zhiqi,Sourav Saha Bhowmick,0.0
+Shen Zhiqi,Sun Aixin,0.16666666666666663
+Shen Zhiqi,Tan Rui,0.0
+Shen Zhiqi,Vidya Sudarshan,0.0
+Shen Zhiqi,Wai Kin Adams Kong,0.0
+Shen Zhiqi,Wang Wenya,0.0
+Shen Zhiqi,Wee Keong NG,0.0
+Shen Zhiqi,Wei Yang Bryan Lim,0.125
+Shen Zhiqi,Wei Ying,0.16666666666666663
+Shen Zhiqi,Wen Yonggang,0.0
+Shen Zhiqi,Wentong Cai,0.0
+Shen Zhiqi,Yeo Chai Kiat,0.0
+Shen Zhiqi,Yu Han,0.4285714285714286
+Shen Zhiqi,Zhang Hanwang,0.0
+Shen Zhiqi,Zhang Jie,0.4
+Shen Zhiqi,Zhang Tianwei,0.0
+Shen Zhiqi,Zheng Jianmin,0.0
+Siyuan Liu,A S Madhukumar,0.0
+Siyuan Liu,Alexei Sourin,0.0
+Siyuan Liu,Anupam Chattopadhyay,0.0
+Siyuan Liu,Anwitaman Datta,0.0
+Siyuan Liu,Arvind Easwaran,0.0
+Siyuan Liu,Bo An,0.11111111111111116
+Siyuan Liu,Cham Tat Jen,0.0
+Siyuan Liu,Chee Wei Tan,0.0
+Siyuan Liu,Chen Change Loy,0.0
+Siyuan Liu,Chia Liang Tien,0.0
+Siyuan Liu,Chng Eng Siong,0.16666666666666663
+Siyuan Liu,Cong Gao,0.0
+Siyuan Liu,Deepu Rajan,0.0
+Siyuan Liu,Dmitrii Ustiugov,0.0
+Siyuan Liu,Douglas Leslie Maskell,0.0
+Siyuan Liu,Dusit Niyato,0.0
+Siyuan Liu,Erik Cambria,0.125
+Siyuan Liu,Goh Wooi Boon,0.0
+Siyuan Liu,Guan Cuntai,0.1428571428571429
+Siyuan Liu,He Ying,0.0
+Siyuan Liu,Huang Shell Ying,0.0
+Siyuan Liu,Hui Siu Cheung,0.0
+Siyuan Liu,Jagath Chandana Rajapakse,0.09090909090909094
+Siyuan Liu,Kwoh Chee Keong,0.0
+Siyuan Liu,Lam Kwok Yan,0.125
+Siyuan Liu,Lam Siew Kei,0.0
+Siyuan Liu,Lee Bu Sung,0.0
+Siyuan Liu,Li Boyang,0.0
+Siyuan Liu,Li Mo,0.1428571428571429
+Siyuan Liu,Li Yi,0.0
+Siyuan Liu,Lin Guosheng,0.0
+Siyuan Liu,Lin Shang-Wei,0.19999999999999996
+Siyuan Liu,Liu Weichen,0.0
+Siyuan Liu,Liu Yang,0.19999999999999996
+Siyuan Liu,Liu Ziwei,0.0
+Siyuan Liu,Loke Yuan Ren,0.0
+Siyuan Liu,Long Cheng,0.0
+Siyuan Liu,Lu Shijian,0.0
+Siyuan Liu,Luo Jun,0.1428571428571429
+Siyuan Liu,Luo Siqiang,0.0
+Siyuan Liu,Luu Anh Tuan,0.0
+Siyuan Liu,Miao Chun Yan,0.0
+Siyuan Liu,Mohamed M. Sabry,0.0
+Siyuan Liu,Oh Hong Lye,0.0
+Siyuan Liu,Ong Chin Ann,0.0
+Siyuan Liu,Owen Noel Newton Fernando,0.0
+Siyuan Liu,Pan Xingang,0.0
+Siyuan Liu,Qian Kemao,0.0
+Siyuan Liu,Seah Hock Soon,0.0
+Siyuan Liu,Shen Zhiqi,0.2857142857142857
+Siyuan Liu,Smitha K G,0.0
+Siyuan Liu,Sourav Saha Bhowmick,0.0
+Siyuan Liu,Sun Aixin,0.19999999999999996
+Siyuan Liu,Tan Rui,0.0
+Siyuan Liu,Vidya Sudarshan,0.0
+Siyuan Liu,Wai Kin Adams Kong,0.0
+Siyuan Liu,Wang Wenya,0.0
+Siyuan Liu,Wee Keong NG,0.11111111111111116
+Siyuan Liu,Wei Yang Bryan Lim,0.1428571428571429
+Siyuan Liu,Wei Ying,0.19999999999999996
+Siyuan Liu,Wen Yonggang,0.0
+Siyuan Liu,Wentong Cai,0.0
+Siyuan Liu,Yeo Chai Kiat,0.0
+Siyuan Liu,Yu Han,0.125
+Siyuan Liu,Zhang Hanwang,0.0
+Siyuan Liu,Zhang Jie,0.19999999999999996
+Siyuan Liu,Zhang Tianwei,0.0
+Siyuan Liu,Zheng Jianmin,0.0
+Smitha K G,A S Madhukumar,0.2222222222222222
+Smitha K G,Alexei Sourin,0.125
+Smitha K G,Anupam Chattopadhyay,0.33333333333333337
+Smitha K G,Anwitaman Datta,0.16666666666666663
+Smitha K G,Arvind Easwaran,0.16666666666666663
+Smitha K G,Bo An,0.0
+Smitha K G,Cham Tat Jen,0.1428571428571429
+Smitha K G,Chee Wei Tan,0.0
+Smitha K G,Chen Change Loy,0.19999999999999996
+Smitha K G,Chia Liang Tien,0.125
+Smitha K G,Chng Eng Siong,0.0
+Smitha K G,Cong Gao,0.125
+Smitha K G,Deepu Rajan,0.2857142857142857
+Smitha K G,Dmitrii Ustiugov,0.0
+Smitha K G,Douglas Leslie Maskell,0.25
+Smitha K G,Dusit Niyato,0.33333333333333337
+Smitha K G,Erik Cambria,0.11111111111111116
+Smitha K G,Goh Wooi Boon,0.5
+Smitha K G,Guan Cuntai,0.125
+Smitha K G,He Ying,0.19999999999999996
+Smitha K G,Huang Shell Ying,0.11111111111111116
+Smitha K G,Hui Siu Cheung,0.11111111111111116
+Smitha K G,Jagath Chandana Rajapakse,0.0
+Smitha K G,Kwoh Chee Keong,0.11111111111111116
+Smitha K G,Lam Kwok Yan,0.11111111111111116
+Smitha K G,Lam Siew Kei,0.2857142857142857
+Smitha K G,Lee Bu Sung,0.11111111111111116
+Smitha K G,Li Boyang,0.19999999999999996
+Smitha K G,Li Mo,0.125
+Smitha K G,Li Yi,0.19999999999999996
+Smitha K G,Lin Guosheng,0.19999999999999996
+Smitha K G,Lin Shang-Wei,0.16666666666666663
+Smitha K G,Liu Weichen,0.1428571428571429
+Smitha K G,Liu Yang,0.16666666666666663
+Smitha K G,Liu Ziwei,0.19999999999999996
+Smitha K G,Loke Yuan Ren,0.375
+Smitha K G,Long Cheng,0.0
+Smitha K G,Lu Shijian,0.0
+Smitha K G,Luo Jun,0.0
+Smitha K G,Luo Siqiang,0.19999999999999996
+Smitha K G,Luu Anh Tuan,0.19999999999999996
+Smitha K G,Miao Chun Yan,0.11111111111111116
+Smitha K G,Mohamed M. Sabry,0.33333333333333337
+Smitha K G,Oh Hong Lye,0.19999999999999996
+Smitha K G,Ong Chin Ann,0.0
+Smitha K G,Owen Noel Newton Fernando,0.09999999999999998
+Smitha K G,Pan Xingang,0.0
+Smitha K G,Qian Kemao,0.25
+Smitha K G,Seah Hock Soon,0.0
+Smitha K G,Shen Zhiqi,0.0
+Smitha K G,Siyuan Liu,0.0
+Smitha K G,Sourav Saha Bhowmick,0.11111111111111116
+Smitha K G,Sun Aixin,0.0
+Smitha K G,Tan Rui,0.11111111111111116
+Smitha K G,Vidya Sudarshan,0.0
+Smitha K G,Wai Kin Adams Kong,0.16666666666666663
+Smitha K G,Wang Wenya,0.0
+Smitha K G,Wee Keong NG,0.09999999999999998
+Smitha K G,Wei Yang Bryan Lim,0.0
+Smitha K G,Wei Ying,0.0
+Smitha K G,Wen Yonggang,0.1428571428571429
+Smitha K G,Wentong Cai,0.16666666666666663
+Smitha K G,Yeo Chai Kiat,0.2222222222222222
+Smitha K G,Yu Han,0.0
+Smitha K G,Zhang Hanwang,0.25
+Smitha K G,Zhang Jie,0.0
+Smitha K G,Zhang Tianwei,0.19999999999999996
+Smitha K G,Zheng Jianmin,0.09999999999999998
+Sourav Saha Bhowmick,A S Madhukumar,0.09999999999999998
+Sourav Saha Bhowmick,Alexei Sourin,0.125
+Sourav Saha Bhowmick,Anupam Chattopadhyay,0.09090909090909094
+Sourav Saha Bhowmick,Anwitaman Datta,0.16666666666666663
+Sourav Saha Bhowmick,Arvind Easwaran,0.16666666666666663
+Sourav Saha Bhowmick,Bo An,0.0
+Sourav Saha Bhowmick,Cham Tat Jen,0.1428571428571429
+Sourav Saha Bhowmick,Chee Wei Tan,0.0
+Sourav Saha Bhowmick,Chen Change Loy,0.19999999999999996
+Sourav Saha Bhowmick,Chia Liang Tien,0.125
+Sourav Saha Bhowmick,Chng Eng Siong,0.0
+Sourav Saha Bhowmick,Cong Gao,0.2857142857142857
+Sourav Saha Bhowmick,Deepu Rajan,0.125
+Sourav Saha Bhowmick,Dmitrii Ustiugov,0.0
+Sourav Saha Bhowmick,Douglas Leslie Maskell,0.11111111111111116
+Sourav Saha Bhowmick,Dusit Niyato,0.1428571428571429
+Sourav Saha Bhowmick,Erik Cambria,0.11111111111111116
+Sourav Saha Bhowmick,Goh Wooi Boon,0.125
+Sourav Saha Bhowmick,Guan Cuntai,0.0
+Sourav Saha Bhowmick,He Ying,0.19999999999999996
+Sourav Saha Bhowmick,Huang Shell Ying,0.11111111111111116
+Sourav Saha Bhowmick,Hui Siu Cheung,0.11111111111111116
+Sourav Saha Bhowmick,Jagath Chandana Rajapakse,0.0
+Sourav Saha Bhowmick,Kwoh Chee Keong,0.25
+Sourav Saha Bhowmick,Lam Kwok Yan,0.11111111111111116
+Sourav Saha Bhowmick,Lam Siew Kei,0.125
+Sourav Saha Bhowmick,Lee Bu Sung,0.11111111111111116
+Sourav Saha Bhowmick,Li Boyang,0.19999999999999996
+Sourav Saha Bhowmick,Li Mo,0.125
+Sourav Saha Bhowmick,Li Yi,0.19999999999999996
+Sourav Saha Bhowmick,Lin Guosheng,0.19999999999999996
+Sourav Saha Bhowmick,Lin Shang-Wei,0.16666666666666663
+Sourav Saha Bhowmick,Liu Weichen,0.1428571428571429
+Sourav Saha Bhowmick,Liu Yang,0.16666666666666663
+Sourav Saha Bhowmick,Liu Ziwei,0.19999999999999996
+Sourav Saha Bhowmick,Loke Yuan Ren,0.09999999999999998
+Sourav Saha Bhowmick,Long Cheng,0.0
+Sourav Saha Bhowmick,Lu Shijian,0.0
+Sourav Saha Bhowmick,Luo Jun,0.0
+Sourav Saha Bhowmick,Luo Siqiang,0.19999999999999996
+Sourav Saha Bhowmick,Luu Anh Tuan,0.19999999999999996
+Sourav Saha Bhowmick,Miao Chun Yan,0.11111111111111116
+Sourav Saha Bhowmick,Mohamed M. Sabry,0.09090909090909094
+Sourav Saha Bhowmick,Oh Hong Lye,0.19999999999999996
+Sourav Saha Bhowmick,Ong Chin Ann,0.0
+Sourav Saha Bhowmick,Owen Noel Newton Fernando,0.375
+Sourav Saha Bhowmick,Pan Xingang,0.0
+Sourav Saha Bhowmick,Qian Kemao,0.11111111111111116
+Sourav Saha Bhowmick,Seah Hock Soon,0.0
+Sourav Saha Bhowmick,Shen Zhiqi,0.0
+Sourav Saha Bhowmick,Siyuan Liu,0.0
+Sourav Saha Bhowmick,Smitha K G,0.11111111111111116
+Sourav Saha Bhowmick,Sun Aixin,0.0
+Sourav Saha Bhowmick,Tan Rui,0.11111111111111116
+Sourav Saha Bhowmick,Vidya Sudarshan,0.0
+Sourav Saha Bhowmick,Wai Kin Adams Kong,0.16666666666666663
+Sourav Saha Bhowmick,Wang Wenya,0.0
+Sourav Saha Bhowmick,Wee Keong NG,0.09999999999999998
+Sourav Saha Bhowmick,Wei Yang Bryan Lim,0.0
+Sourav Saha Bhowmick,Wei Ying,0.0
+Sourav Saha Bhowmick,Wen Yonggang,0.1428571428571429
+Sourav Saha Bhowmick,Wentong Cai,0.16666666666666663
+Sourav Saha Bhowmick,Yeo Chai Kiat,0.09999999999999998
+Sourav Saha Bhowmick,Yu Han,0.0
+Sourav Saha Bhowmick,Zhang Hanwang,0.11111111111111116
+Sourav Saha Bhowmick,Zhang Jie,0.0
+Sourav Saha Bhowmick,Zhang Tianwei,0.19999999999999996
+Sourav Saha Bhowmick,Zheng Jianmin,0.375
+Sun Aixin,A S Madhukumar,0.0
+Sun Aixin,Alexei Sourin,0.0
+Sun Aixin,Anupam Chattopadhyay,0.0
+Sun Aixin,Anwitaman Datta,0.0
+Sun Aixin,Arvind Easwaran,0.0
+Sun Aixin,Bo An,0.33333333333333337
+Sun Aixin,Cham Tat Jen,0.0
+Sun Aixin,Chee Wei Tan,0.0
+Sun Aixin,Chen Change Loy,0.0
+Sun Aixin,Chia Liang Tien,0.0
+Sun Aixin,Chng Eng Siong,0.25
+Sun Aixin,Cong Gao,0.0
+Sun Aixin,Deepu Rajan,0.0
+Sun Aixin,Dmitrii Ustiugov,0.0
+Sun Aixin,Douglas Leslie Maskell,0.0
+Sun Aixin,Dusit Niyato,0.0
+Sun Aixin,Erik Cambria,0.4
+Sun Aixin,Goh Wooi Boon,0.0
+Sun Aixin,Guan Cuntai,0.19999999999999996
+Sun Aixin,He Ying,0.0
+Sun Aixin,Huang Shell Ying,0.0
+Sun Aixin,Hui Siu Cheung,0.0
+Sun Aixin,Jagath Chandana Rajapakse,0.25
+Sun Aixin,Kwoh Chee Keong,0.0
+Sun Aixin,Lam Kwok Yan,0.0
+Sun Aixin,Lam Siew Kei,0.0
+Sun Aixin,Lee Bu Sung,0.0
+Sun Aixin,Li Boyang,0.0
+Sun Aixin,Li Mo,0.0
+Sun Aixin,Li Yi,0.0
+Sun Aixin,Lin Guosheng,0.0
+Sun Aixin,Lin Shang-Wei,0.0
+Sun Aixin,Liu Weichen,0.0
+Sun Aixin,Liu Yang,0.0
+Sun Aixin,Liu Ziwei,0.0
+Sun Aixin,Loke Yuan Ren,0.0
+Sun Aixin,Long Cheng,0.5
+Sun Aixin,Lu Shijian,0.0
+Sun Aixin,Luo Jun,0.0
+Sun Aixin,Luo Siqiang,0.0
+Sun Aixin,Luu Anh Tuan,0.0
+Sun Aixin,Miao Chun Yan,0.0
+Sun Aixin,Mohamed M. Sabry,0.0
+Sun Aixin,Oh Hong Lye,0.0
+Sun Aixin,Ong Chin Ann,0.0
+Sun Aixin,Owen Noel Newton Fernando,0.0
+Sun Aixin,Pan Xingang,0.0
+Sun Aixin,Qian Kemao,0.0
+Sun Aixin,Seah Hock Soon,0.0
+Sun Aixin,Shen Zhiqi,0.16666666666666663
+Sun Aixin,Siyuan Liu,0.19999999999999996
+Sun Aixin,Smitha K G,0.0
+Sun Aixin,Sourav Saha Bhowmick,0.0
+Sun Aixin,Tan Rui,0.0
+Sun Aixin,Vidya Sudarshan,0.0
+Sun Aixin,Wai Kin Adams Kong,0.0
+Sun Aixin,Wang Wenya,0.0
+Sun Aixin,Wee Keong NG,0.0
+Sun Aixin,Wei Yang Bryan Lim,0.0
+Sun Aixin,Wei Ying,0.33333333333333337
+Sun Aixin,Wen Yonggang,0.0
+Sun Aixin,Wentong Cai,0.0
+Sun Aixin,Yeo Chai Kiat,0.0
+Sun Aixin,Yu Han,0.4
+Sun Aixin,Zhang Hanwang,0.0
+Sun Aixin,Zhang Jie,0.33333333333333337
+Sun Aixin,Zhang Tianwei,0.0
+Sun Aixin,Zheng Jianmin,0.0
+Tan Rui,A S Madhukumar,0.5714285714285714
+Tan Rui,Alexei Sourin,0.125
+Tan Rui,Anupam Chattopadhyay,0.09090909090909094
+Tan Rui,Anwitaman Datta,0.16666666666666663
+Tan Rui,Arvind Easwaran,0.16666666666666663
+Tan Rui,Bo An,0.0
+Tan Rui,Cham Tat Jen,0.33333333333333337
+Tan Rui,Chee Wei Tan,0.0
+Tan Rui,Chen Change Loy,0.19999999999999996
+Tan Rui,Chia Liang Tien,0.5
+Tan Rui,Chng Eng Siong,0.0
+Tan Rui,Cong Gao,0.125
+Tan Rui,Deepu Rajan,0.2857142857142857
+Tan Rui,Dmitrii Ustiugov,0.0
+Tan Rui,Douglas Leslie Maskell,0.25
+Tan Rui,Dusit Niyato,0.33333333333333337
+Tan Rui,Erik Cambria,0.11111111111111116
+Tan Rui,Goh Wooi Boon,0.125
+Tan Rui,Guan Cuntai,0.0
+Tan Rui,He Ying,0.19999999999999996
+Tan Rui,Huang Shell Ying,0.25
+Tan Rui,Hui Siu Cheung,0.4285714285714286
+Tan Rui,Jagath Chandana Rajapakse,0.0
+Tan Rui,Kwoh Chee Keong,0.11111111111111116
+Tan Rui,Lam Kwok Yan,0.25
+Tan Rui,Lam Siew Kei,0.125
+Tan Rui,Lee Bu Sung,0.6666666666666667
+Tan Rui,Li Boyang,0.19999999999999996
+Tan Rui,Li Mo,0.5
+Tan Rui,Li Yi,0.19999999999999996
+Tan Rui,Lin Guosheng,0.19999999999999996
+Tan Rui,Lin Shang-Wei,0.16666666666666663
+Tan Rui,Liu Weichen,0.1428571428571429
+Tan Rui,Liu Yang,0.16666666666666663
+Tan Rui,Liu Ziwei,0.19999999999999996
+Tan Rui,Loke Yuan Ren,0.09999999999999998
+Tan Rui,Long Cheng,0.0
+Tan Rui,Lu Shijian,0.0
+Tan Rui,Luo Jun,0.125
+Tan Rui,Luo Siqiang,0.19999999999999996
+Tan Rui,Luu Anh Tuan,0.19999999999999996
+Tan Rui,Miao Chun Yan,0.4285714285714286
+Tan Rui,Mohamed M. Sabry,0.09090909090909094
+Tan Rui,Oh Hong Lye,0.19999999999999996
+Tan Rui,Ong Chin Ann,0.16666666666666663
+Tan Rui,Owen Noel Newton Fernando,0.2222222222222222
+Tan Rui,Pan Xingang,0.0
+Tan Rui,Qian Kemao,0.11111111111111116
+Tan Rui,Seah Hock Soon,0.0
+Tan Rui,Shen Zhiqi,0.0
+Tan Rui,Siyuan Liu,0.0
+Tan Rui,Smitha K G,0.11111111111111116
+Tan Rui,Sourav Saha Bhowmick,0.11111111111111116
+Tan Rui,Sun Aixin,0.0
+Tan Rui,Vidya Sudarshan,0.0
+Tan Rui,Wai Kin Adams Kong,0.16666666666666663
+Tan Rui,Wang Wenya,0.0
+Tan Rui,Wee Keong NG,0.375
+Tan Rui,Wei Yang Bryan Lim,0.0
+Tan Rui,Wei Ying,0.0
+Tan Rui,Wen Yonggang,0.6
+Tan Rui,Wentong Cai,0.16666666666666663
+Tan Rui,Yeo Chai Kiat,0.5714285714285714
+Tan Rui,Yu Han,0.0
+Tan Rui,Zhang Hanwang,0.11111111111111116
+Tan Rui,Zhang Jie,0.0
+Tan Rui,Zhang Tianwei,0.19999999999999996
+Tan Rui,Zheng Jianmin,0.09999999999999998
+Vidya Sudarshan,A S Madhukumar,0.0
+Vidya Sudarshan,Alexei Sourin,0.0
+Vidya Sudarshan,Anupam Chattopadhyay,0.0
+Vidya Sudarshan,Anwitaman Datta,0.0
+Vidya Sudarshan,Arvind Easwaran,0.0
+Vidya Sudarshan,Bo An,0.0
+Vidya Sudarshan,Cham Tat Jen,0.0
+Vidya Sudarshan,Chee Wei Tan,1.0
+Vidya Sudarshan,Chen Change Loy,0.0
+Vidya Sudarshan,Chia Liang Tien,0.0
+Vidya Sudarshan,Chng Eng Siong,0.0
+Vidya Sudarshan,Cong Gao,0.0
+Vidya Sudarshan,Deepu Rajan,0.0
+Vidya Sudarshan,Dmitrii Ustiugov,0.0
+Vidya Sudarshan,Douglas Leslie Maskell,0.0
+Vidya Sudarshan,Dusit Niyato,0.0
+Vidya Sudarshan,Erik Cambria,0.0
+Vidya Sudarshan,Goh Wooi Boon,0.0
+Vidya Sudarshan,Guan Cuntai,0.0
+Vidya Sudarshan,He Ying,0.0
+Vidya Sudarshan,Huang Shell Ying,0.0
+Vidya Sudarshan,Hui Siu Cheung,0.0
+Vidya Sudarshan,Jagath Chandana Rajapakse,0.0
+Vidya Sudarshan,Kwoh Chee Keong,0.0
+Vidya Sudarshan,Lam Kwok Yan,0.0
+Vidya Sudarshan,Lam Siew Kei,0.0
+Vidya Sudarshan,Lee Bu Sung,0.0
+Vidya Sudarshan,Li Boyang,0.0
+Vidya Sudarshan,Li Mo,0.0
+Vidya Sudarshan,Li Yi,0.0
+Vidya Sudarshan,Lin Guosheng,0.0
+Vidya Sudarshan,Lin Shang-Wei,0.0
+Vidya Sudarshan,Liu Weichen,0.0
+Vidya Sudarshan,Liu Yang,0.0
+Vidya Sudarshan,Liu Ziwei,0.0
+Vidya Sudarshan,Loke Yuan Ren,0.0
+Vidya Sudarshan,Long Cheng,0.0
+Vidya Sudarshan,Lu Shijian,0.0
+Vidya Sudarshan,Luo Jun,0.0
+Vidya Sudarshan,Luo Siqiang,0.0
+Vidya Sudarshan,Luu Anh Tuan,0.0
+Vidya Sudarshan,Miao Chun Yan,0.0
+Vidya Sudarshan,Mohamed M. Sabry,0.0
+Vidya Sudarshan,Oh Hong Lye,0.0
+Vidya Sudarshan,Ong Chin Ann,0.0
+Vidya Sudarshan,Owen Noel Newton Fernando,0.0
+Vidya Sudarshan,Pan Xingang,1.0
+Vidya Sudarshan,Qian Kemao,0.0
+Vidya Sudarshan,Seah Hock Soon,0.0
+Vidya Sudarshan,Shen Zhiqi,0.0
+Vidya Sudarshan,Siyuan Liu,0.0
+Vidya Sudarshan,Smitha K G,0.0
+Vidya Sudarshan,Sourav Saha Bhowmick,0.0
+Vidya Sudarshan,Sun Aixin,0.0
+Vidya Sudarshan,Tan Rui,0.0
+Vidya Sudarshan,Wai Kin Adams Kong,0.0
+Vidya Sudarshan,Wang Wenya,1.0
+Vidya Sudarshan,Wee Keong NG,0.0
+Vidya Sudarshan,Wei Yang Bryan Lim,0.0
+Vidya Sudarshan,Wei Ying,0.0
+Vidya Sudarshan,Wen Yonggang,0.0
+Vidya Sudarshan,Wentong Cai,0.0
+Vidya Sudarshan,Yeo Chai Kiat,0.0
+Vidya Sudarshan,Yu Han,0.0
+Vidya Sudarshan,Zhang Hanwang,0.0
+Vidya Sudarshan,Zhang Jie,0.0
+Vidya Sudarshan,Zhang Tianwei,0.0
+Vidya Sudarshan,Zheng Jianmin,0.0
+Wai Kin Adams Kong,A S Madhukumar,0.1428571428571429
+Wai Kin Adams Kong,Alexei Sourin,0.5
+Wai Kin Adams Kong,Anupam Chattopadhyay,0.125
+Wai Kin Adams Kong,Anwitaman Datta,0.33333333333333337
+Wai Kin Adams Kong,Arvind Easwaran,0.33333333333333337
+Wai Kin Adams Kong,Bo An,0.1428571428571429
+Wai Kin Adams Kong,Cham Tat Jen,0.25
+Wai Kin Adams Kong,Chee Wei Tan,0.0
+Wai Kin Adams Kong,Chen Change Loy,0.5
+Wai Kin Adams Kong,Chia Liang Tien,0.19999999999999996
+Wai Kin Adams Kong,Chng Eng Siong,0.25
+Wai Kin Adams Kong,Cong Gao,0.5
+Wai Kin Adams Kong,Deepu Rajan,0.19999999999999996
+Wai Kin Adams Kong,Dmitrii Ustiugov,0.0
+Wai Kin Adams Kong,Douglas Leslie Maskell,0.16666666666666663
+Wai Kin Adams Kong,Dusit Niyato,0.25
+Wai Kin Adams Kong,Erik Cambria,0.16666666666666663
+Wai Kin Adams Kong,Goh Wooi Boon,0.19999999999999996
+Wai Kin Adams Kong,Guan Cuntai,0.0
+Wai Kin Adams Kong,He Ying,0.5
+Wai Kin Adams Kong,Huang Shell Ying,0.16666666666666663
+Wai Kin Adams Kong,Hui Siu Cheung,0.16666666666666663
+Wai Kin Adams Kong,Jagath Chandana Rajapakse,0.0
+Wai Kin Adams Kong,Kwoh Chee Keong,0.16666666666666663
+Wai Kin Adams Kong,Lam Kwok Yan,0.4
+Wai Kin Adams Kong,Lam Siew Kei,0.19999999999999996
+Wai Kin Adams Kong,Lee Bu Sung,0.16666666666666663
+Wai Kin Adams Kong,Li Boyang,0.5
+Wai Kin Adams Kong,Li Mo,0.19999999999999996
+Wai Kin Adams Kong,Li Yi,0.5
+Wai Kin Adams Kong,Lin Guosheng,0.5
+Wai Kin Adams Kong,Lin Shang-Wei,0.33333333333333337
+Wai Kin Adams Kong,Liu Weichen,0.25
+Wai Kin Adams Kong,Liu Yang,0.33333333333333337
+Wai Kin Adams Kong,Liu Ziwei,0.5
+Wai Kin Adams Kong,Loke Yuan Ren,0.1428571428571429
+Wai Kin Adams Kong,Long Cheng,0.0
+Wai Kin Adams Kong,Lu Shijian,0.16666666666666663
+Wai Kin Adams Kong,Luo Jun,0.0
+Wai Kin Adams Kong,Luo Siqiang,0.5
+Wai Kin Adams Kong,Luu Anh Tuan,0.5
+Wai Kin Adams Kong,Miao Chun Yan,0.16666666666666663
+Wai Kin Adams Kong,Mohamed M. Sabry,0.125
+Wai Kin Adams Kong,Oh Hong Lye,0.5
+Wai Kin Adams Kong,Ong Chin Ann,0.0
+Wai Kin Adams Kong,Owen Noel Newton Fernando,0.1428571428571429
+Wai Kin Adams Kong,Pan Xingang,0.0
+Wai Kin Adams Kong,Qian Kemao,0.16666666666666663
+Wai Kin Adams Kong,Seah Hock Soon,0.0
+Wai Kin Adams Kong,Shen Zhiqi,0.0
+Wai Kin Adams Kong,Siyuan Liu,0.0
+Wai Kin Adams Kong,Smitha K G,0.16666666666666663
+Wai Kin Adams Kong,Sourav Saha Bhowmick,0.16666666666666663
+Wai Kin Adams Kong,Sun Aixin,0.0
+Wai Kin Adams Kong,Tan Rui,0.16666666666666663
+Wai Kin Adams Kong,Vidya Sudarshan,0.0
+Wai Kin Adams Kong,Wang Wenya,0.0
+Wai Kin Adams Kong,Wee Keong NG,0.1428571428571429
+Wai Kin Adams Kong,Wei Yang Bryan Lim,0.19999999999999996
+Wai Kin Adams Kong,Wei Ying,0.0
+Wai Kin Adams Kong,Wen Yonggang,0.25
+Wai Kin Adams Kong,Wentong Cai,0.33333333333333337
+Wai Kin Adams Kong,Yeo Chai Kiat,0.1428571428571429
+Wai Kin Adams Kong,Yu Han,0.0
+Wai Kin Adams Kong,Zhang Hanwang,0.16666666666666663
+Wai Kin Adams Kong,Zhang Jie,0.0
+Wai Kin Adams Kong,Zhang Tianwei,0.5
+Wai Kin Adams Kong,Zheng Jianmin,0.1428571428571429
+Wang Wenya,A S Madhukumar,0.0
+Wang Wenya,Alexei Sourin,0.0
+Wang Wenya,Anupam Chattopadhyay,0.0
+Wang Wenya,Anwitaman Datta,0.0
+Wang Wenya,Arvind Easwaran,0.0
+Wang Wenya,Bo An,0.0
+Wang Wenya,Cham Tat Jen,0.0
+Wang Wenya,Chee Wei Tan,1.0
+Wang Wenya,Chen Change Loy,0.0
+Wang Wenya,Chia Liang Tien,0.0
+Wang Wenya,Chng Eng Siong,0.0
+Wang Wenya,Cong Gao,0.0
+Wang Wenya,Deepu Rajan,0.0
+Wang Wenya,Dmitrii Ustiugov,0.0
+Wang Wenya,Douglas Leslie Maskell,0.0
+Wang Wenya,Dusit Niyato,0.0
+Wang Wenya,Erik Cambria,0.0
+Wang Wenya,Goh Wooi Boon,0.0
+Wang Wenya,Guan Cuntai,0.0
+Wang Wenya,He Ying,0.0
+Wang Wenya,Huang Shell Ying,0.0
+Wang Wenya,Hui Siu Cheung,0.0
+Wang Wenya,Jagath Chandana Rajapakse,0.0
+Wang Wenya,Kwoh Chee Keong,0.0
+Wang Wenya,Lam Kwok Yan,0.0
+Wang Wenya,Lam Siew Kei,0.0
+Wang Wenya,Lee Bu Sung,0.0
+Wang Wenya,Li Boyang,0.0
+Wang Wenya,Li Mo,0.0
+Wang Wenya,Li Yi,0.0
+Wang Wenya,Lin Guosheng,0.0
+Wang Wenya,Lin Shang-Wei,0.0
+Wang Wenya,Liu Weichen,0.0
+Wang Wenya,Liu Yang,0.0
+Wang Wenya,Liu Ziwei,0.0
+Wang Wenya,Loke Yuan Ren,0.0
+Wang Wenya,Long Cheng,0.0
+Wang Wenya,Lu Shijian,0.0
+Wang Wenya,Luo Jun,0.0
+Wang Wenya,Luo Siqiang,0.0
+Wang Wenya,Luu Anh Tuan,0.0
+Wang Wenya,Miao Chun Yan,0.0
+Wang Wenya,Mohamed M. Sabry,0.0
+Wang Wenya,Oh Hong Lye,0.0
+Wang Wenya,Ong Chin Ann,0.0
+Wang Wenya,Owen Noel Newton Fernando,0.0
+Wang Wenya,Pan Xingang,1.0
+Wang Wenya,Qian Kemao,0.0
+Wang Wenya,Seah Hock Soon,0.0
+Wang Wenya,Shen Zhiqi,0.0
+Wang Wenya,Siyuan Liu,0.0
+Wang Wenya,Smitha K G,0.0
+Wang Wenya,Sourav Saha Bhowmick,0.0
+Wang Wenya,Sun Aixin,0.0
+Wang Wenya,Tan Rui,0.0
+Wang Wenya,Vidya Sudarshan,1.0
+Wang Wenya,Wai Kin Adams Kong,0.0
+Wang Wenya,Wee Keong NG,0.0
+Wang Wenya,Wei Yang Bryan Lim,0.0
+Wang Wenya,Wei Ying,0.0
+Wang Wenya,Wen Yonggang,0.0
+Wang Wenya,Wentong Cai,0.0
+Wang Wenya,Yeo Chai Kiat,0.0
+Wang Wenya,Yu Han,0.0
+Wang Wenya,Zhang Hanwang,0.0
+Wang Wenya,Zhang Jie,0.0
+Wang Wenya,Zhang Tianwei,0.0
+Wang Wenya,Zheng Jianmin,0.0
+Wee Keong NG,A S Madhukumar,0.5
+Wee Keong NG,Alexei Sourin,0.25
+Wee Keong NG,Anupam Chattopadhyay,0.18181818181818177
+Wee Keong NG,Anwitaman Datta,0.1428571428571429
+Wee Keong NG,Arvind Easwaran,0.1428571428571429
+Wee Keong NG,Bo An,0.0
+Wee Keong NG,Cham Tat Jen,0.5
+Wee Keong NG,Chee Wei Tan,0.0
+Wee Keong NG,Chen Change Loy,0.16666666666666663
+Wee Keong NG,Chia Liang Tien,0.6666666666666667
+Wee Keong NG,Chng Eng Siong,0.0
+Wee Keong NG,Cong Gao,0.11111111111111116
+Wee Keong NG,Deepu Rajan,0.4285714285714286
+Wee Keong NG,Dmitrii Ustiugov,0.0
+Wee Keong NG,Douglas Leslie Maskell,0.09999999999999998
+Wee Keong NG,Dusit Niyato,0.125
+Wee Keong NG,Erik Cambria,0.09999999999999998
+Wee Keong NG,Goh Wooi Boon,0.25
+Wee Keong NG,Guan Cuntai,0.0
+Wee Keong NG,He Ying,0.16666666666666663
+Wee Keong NG,Huang Shell Ying,0.2222222222222222
+Wee Keong NG,Hui Siu Cheung,0.5714285714285714
+Wee Keong NG,Jagath Chandana Rajapakse,0.0
+Wee Keong NG,Kwoh Chee Keong,0.09999999999999998
+Wee Keong NG,Lam Kwok Yan,0.5714285714285714
+Wee Keong NG,Lam Siew Kei,0.11111111111111116
+Wee Keong NG,Lee Bu Sung,0.375
+Wee Keong NG,Li Boyang,0.16666666666666663
+Wee Keong NG,Li Mo,0.25
+Wee Keong NG,Li Yi,0.16666666666666663
+Wee Keong NG,Lin Guosheng,0.16666666666666663
+Wee Keong NG,Lin Shang-Wei,0.33333333333333337
+Wee Keong NG,Liu Weichen,0.125
+Wee Keong NG,Liu Yang,0.33333333333333337
+Wee Keong NG,Liu Ziwei,0.16666666666666663
+Wee Keong NG,Loke Yuan Ren,0.19999999999999996
+Wee Keong NG,Long Cheng,0.0
+Wee Keong NG,Lu Shijian,0.0
+Wee Keong NG,Luo Jun,0.0
+Wee Keong NG,Luo Siqiang,0.16666666666666663
+Wee Keong NG,Luu Anh Tuan,0.16666666666666663
+Wee Keong NG,Miao Chun Yan,0.5714285714285714
+Wee Keong NG,Mohamed M. Sabry,0.08333333333333337
+Wee Keong NG,Oh Hong Lye,0.16666666666666663
+Wee Keong NG,Ong Chin Ann,0.0
+Wee Keong NG,Owen Noel Newton Fernando,0.33333333333333337
+Wee Keong NG,Pan Xingang,0.0
+Wee Keong NG,Qian Kemao,0.2222222222222222
+Wee Keong NG,Seah Hock Soon,0.0
+Wee Keong NG,Shen Zhiqi,0.0
+Wee Keong NG,Siyuan Liu,0.11111111111111116
+Wee Keong NG,Smitha K G,0.09999999999999998
+Wee Keong NG,Sourav Saha Bhowmick,0.09999999999999998
+Wee Keong NG,Sun Aixin,0.0
+Wee Keong NG,Tan Rui,0.375
+Wee Keong NG,Vidya Sudarshan,0.0
+Wee Keong NG,Wai Kin Adams Kong,0.1428571428571429
+Wee Keong NG,Wang Wenya,0.0
+Wee Keong NG,Wei Yang Bryan Lim,0.0
+Wee Keong NG,Wei Ying,0.0
+Wee Keong NG,Wen Yonggang,0.5
+Wee Keong NG,Wentong Cai,0.1428571428571429
+Wee Keong NG,Yeo Chai Kiat,0.5
+Wee Keong NG,Yu Han,0.0
+Wee Keong NG,Zhang Hanwang,0.2222222222222222
+Wee Keong NG,Zhang Jie,0.0
+Wee Keong NG,Zhang Tianwei,0.16666666666666663
+Wee Keong NG,Zheng Jianmin,0.19999999999999996
+Wei Yang Bryan Lim,A S Madhukumar,0.0
+Wei Yang Bryan Lim,Alexei Sourin,0.1428571428571429
+Wei Yang Bryan Lim,Anupam Chattopadhyay,0.0
+Wei Yang Bryan Lim,Anwitaman Datta,0.19999999999999996
+Wei Yang Bryan Lim,Arvind Easwaran,0.0
+Wei Yang Bryan Lim,Bo An,0.25
+Wei Yang Bryan Lim,Cham Tat Jen,0.0
+Wei Yang Bryan Lim,Chee Wei Tan,0.0
+Wei Yang Bryan Lim,Chen Change Loy,0.0
+Wei Yang Bryan Lim,Chia Liang Tien,0.0
+Wei Yang Bryan Lim,Chng Eng Siong,0.4
+Wei Yang Bryan Lim,Cong Gao,0.33333333333333337
+Wei Yang Bryan Lim,Deepu Rajan,0.0
+Wei Yang Bryan Lim,Dmitrii Ustiugov,0.19999999999999996
+Wei Yang Bryan Lim,Douglas Leslie Maskell,0.0
+Wei Yang Bryan Lim,Dusit Niyato,0.0
+Wei Yang Bryan Lim,Erik Cambria,0.125
+Wei Yang Bryan Lim,Goh Wooi Boon,0.0
+Wei Yang Bryan Lim,Guan Cuntai,0.1428571428571429
+Wei Yang Bryan Lim,He Ying,0.0
+Wei Yang Bryan Lim,Huang Shell Ying,0.125
+Wei Yang Bryan Lim,Hui Siu Cheung,0.0
+Wei Yang Bryan Lim,Jagath Chandana Rajapakse,0.09090909090909094
+Wei Yang Bryan Lim,Kwoh Chee Keong,0.0
+Wei Yang Bryan Lim,Lam Kwok Yan,0.125
+Wei Yang Bryan Lim,Lam Siew Kei,0.0
+Wei Yang Bryan Lim,Lee Bu Sung,0.125
+Wei Yang Bryan Lim,Li Boyang,0.0
+Wei Yang Bryan Lim,Li Mo,0.1428571428571429
+Wei Yang Bryan Lim,Li Yi,0.0
+Wei Yang Bryan Lim,Lin Guosheng,0.0
+Wei Yang Bryan Lim,Lin Shang-Wei,0.0
+Wei Yang Bryan Lim,Liu Weichen,0.0
+Wei Yang Bryan Lim,Liu Yang,0.0
+Wei Yang Bryan Lim,Liu Ziwei,0.0
+Wei Yang Bryan Lim,Loke Yuan Ren,0.0
+Wei Yang Bryan Lim,Long Cheng,0.0
+Wei Yang Bryan Lim,Lu Shijian,0.125
+Wei Yang Bryan Lim,Luo Jun,0.1428571428571429
+Wei Yang Bryan Lim,Luo Siqiang,0.0
+Wei Yang Bryan Lim,Luu Anh Tuan,0.0
+Wei Yang Bryan Lim,Miao Chun Yan,0.125
+Wei Yang Bryan Lim,Mohamed M. Sabry,0.0
+Wei Yang Bryan Lim,Oh Hong Lye,0.0
+Wei Yang Bryan Lim,Ong Chin Ann,0.0
+Wei Yang Bryan Lim,Owen Noel Newton Fernando,0.0
+Wei Yang Bryan Lim,Pan Xingang,0.0
+Wei Yang Bryan Lim,Qian Kemao,0.0
+Wei Yang Bryan Lim,Seah Hock Soon,0.16666666666666663
+Wei Yang Bryan Lim,Shen Zhiqi,0.125
+Wei Yang Bryan Lim,Siyuan Liu,0.1428571428571429
+Wei Yang Bryan Lim,Smitha K G,0.0
+Wei Yang Bryan Lim,Sourav Saha Bhowmick,0.0
+Wei Yang Bryan Lim,Sun Aixin,0.0
+Wei Yang Bryan Lim,Tan Rui,0.0
+Wei Yang Bryan Lim,Vidya Sudarshan,0.0
+Wei Yang Bryan Lim,Wai Kin Adams Kong,0.19999999999999996
+Wei Yang Bryan Lim,Wang Wenya,0.0
+Wei Yang Bryan Lim,Wee Keong NG,0.0
+Wei Yang Bryan Lim,Wei Ying,0.0
+Wei Yang Bryan Lim,Wen Yonggang,0.0
+Wei Yang Bryan Lim,Wentong Cai,0.19999999999999996
+Wei Yang Bryan Lim,Yeo Chai Kiat,0.0
+Wei Yang Bryan Lim,Yu Han,0.2857142857142857
+Wei Yang Bryan Lim,Zhang Hanwang,0.0
+Wei Yang Bryan Lim,Zhang Jie,0.19999999999999996
+Wei Yang Bryan Lim,Zhang Tianwei,0.0
+Wei Yang Bryan Lim,Zheng Jianmin,0.0
+Wei Ying,A S Madhukumar,0.0
+Wei Ying,Alexei Sourin,0.0
+Wei Ying,Anupam Chattopadhyay,0.0
+Wei Ying,Anwitaman Datta,0.0
+Wei Ying,Arvind Easwaran,0.0
+Wei Ying,Bo An,0.1428571428571429
+Wei Ying,Cham Tat Jen,0.0
+Wei Ying,Chee Wei Tan,0.0
+Wei Ying,Chen Change Loy,0.0
+Wei Ying,Chia Liang Tien,0.0
+Wei Ying,Chng Eng Siong,0.25
+Wei Ying,Cong Gao,0.0
+Wei Ying,Deepu Rajan,0.0
+Wei Ying,Dmitrii Ustiugov,0.0
+Wei Ying,Douglas Leslie Maskell,0.0
+Wei Ying,Dusit Niyato,0.0
+Wei Ying,Erik Cambria,0.16666666666666663
+Wei Ying,Goh Wooi Boon,0.0
+Wei Ying,Guan Cuntai,0.5
+Wei Ying,He Ying,0.0
+Wei Ying,Huang Shell Ying,0.0
+Wei Ying,Hui Siu Cheung,0.0
+Wei Ying,Jagath Chandana Rajapakse,0.25
+Wei Ying,Kwoh Chee Keong,0.0
+Wei Ying,Lam Kwok Yan,0.0
+Wei Ying,Lam Siew Kei,0.0
+Wei Ying,Lee Bu Sung,0.0
+Wei Ying,Li Boyang,0.0
+Wei Ying,Li Mo,0.0
+Wei Ying,Li Yi,0.0
+Wei Ying,Lin Guosheng,0.0
+Wei Ying,Lin Shang-Wei,0.0
+Wei Ying,Liu Weichen,0.0
+Wei Ying,Liu Yang,0.0
+Wei Ying,Liu Ziwei,0.0
+Wei Ying,Loke Yuan Ren,0.0
+Wei Ying,Long Cheng,0.0
+Wei Ying,Lu Shijian,0.0
+Wei Ying,Luo Jun,0.0
+Wei Ying,Luo Siqiang,0.0
+Wei Ying,Luu Anh Tuan,0.0
+Wei Ying,Miao Chun Yan,0.0
+Wei Ying,Mohamed M. Sabry,0.0
+Wei Ying,Oh Hong Lye,0.0
+Wei Ying,Ong Chin Ann,0.0
+Wei Ying,Owen Noel Newton Fernando,0.0
+Wei Ying,Pan Xingang,0.0
+Wei Ying,Qian Kemao,0.0
+Wei Ying,Seah Hock Soon,0.0
+Wei Ying,Shen Zhiqi,0.16666666666666663
+Wei Ying,Siyuan Liu,0.19999999999999996
+Wei Ying,Smitha K G,0.0
+Wei Ying,Sourav Saha Bhowmick,0.0
+Wei Ying,Sun Aixin,0.33333333333333337
+Wei Ying,Tan Rui,0.0
+Wei Ying,Vidya Sudarshan,0.0
+Wei Ying,Wai Kin Adams Kong,0.0
+Wei Ying,Wang Wenya,0.0
+Wei Ying,Wee Keong NG,0.0
+Wei Ying,Wei Yang Bryan Lim,0.0
+Wei Ying,Wen Yonggang,0.0
+Wei Ying,Wentong Cai,0.0
+Wei Ying,Yeo Chai Kiat,0.0
+Wei Ying,Yu Han,0.16666666666666663
+Wei Ying,Zhang Hanwang,0.0
+Wei Ying,Zhang Jie,0.33333333333333337
+Wei Ying,Zhang Tianwei,0.0
+Wei Ying,Zheng Jianmin,0.0
+Wen Yonggang,A S Madhukumar,0.5
+Wen Yonggang,Alexei Sourin,0.16666666666666663
+Wen Yonggang,Anupam Chattopadhyay,0.11111111111111116
+Wen Yonggang,Anwitaman Datta,0.25
+Wen Yonggang,Arvind Easwaran,0.25
+Wen Yonggang,Bo An,0.0
+Wen Yonggang,Cham Tat Jen,0.5
+Wen Yonggang,Chee Wei Tan,0.0
+Wen Yonggang,Chen Change Loy,0.33333333333333337
+Wen Yonggang,Chia Liang Tien,0.75
+Wen Yonggang,Chng Eng Siong,0.0
+Wen Yonggang,Cong Gao,0.16666666666666663
+Wen Yonggang,Deepu Rajan,0.4
+Wen Yonggang,Dmitrii Ustiugov,0.0
+Wen Yonggang,Douglas Leslie Maskell,0.1428571428571429
+Wen Yonggang,Dusit Niyato,0.19999999999999996
+Wen Yonggang,Erik Cambria,0.1428571428571429
+Wen Yonggang,Goh Wooi Boon,0.16666666666666663
+Wen Yonggang,Guan Cuntai,0.0
+Wen Yonggang,He Ying,0.33333333333333337
+Wen Yonggang,Huang Shell Ying,0.33333333333333337
+Wen Yonggang,Hui Siu Cheung,0.6
+Wen Yonggang,Jagath Chandana Rajapakse,0.0
+Wen Yonggang,Kwoh Chee Keong,0.1428571428571429
+Wen Yonggang,Lam Kwok Yan,0.33333333333333337
+Wen Yonggang,Lam Siew Kei,0.16666666666666663
+Wen Yonggang,Lee Bu Sung,0.6
+Wen Yonggang,Li Boyang,0.33333333333333337
+Wen Yonggang,Li Mo,0.4
+Wen Yonggang,Li Yi,0.33333333333333337
+Wen Yonggang,Lin Guosheng,0.33333333333333337
+Wen Yonggang,Lin Shang-Wei,0.25
+Wen Yonggang,Liu Weichen,0.19999999999999996
+Wen Yonggang,Liu Yang,0.25
+Wen Yonggang,Liu Ziwei,0.33333333333333337
+Wen Yonggang,Loke Yuan Ren,0.125
+Wen Yonggang,Long Cheng,0.0
+Wen Yonggang,Lu Shijian,0.0
+Wen Yonggang,Luo Jun,0.0
+Wen Yonggang,Luo Siqiang,0.33333333333333337
+Wen Yonggang,Luu Anh Tuan,0.33333333333333337
+Wen Yonggang,Miao Chun Yan,0.6
+Wen Yonggang,Mohamed M. Sabry,0.11111111111111116
+Wen Yonggang,Oh Hong Lye,0.33333333333333337
+Wen Yonggang,Ong Chin Ann,0.0
+Wen Yonggang,Owen Noel Newton Fernando,0.2857142857142857
+Wen Yonggang,Pan Xingang,0.0
+Wen Yonggang,Qian Kemao,0.1428571428571429
+Wen Yonggang,Seah Hock Soon,0.0
+Wen Yonggang,Shen Zhiqi,0.0
+Wen Yonggang,Siyuan Liu,0.0
+Wen Yonggang,Smitha K G,0.1428571428571429
+Wen Yonggang,Sourav Saha Bhowmick,0.1428571428571429
+Wen Yonggang,Sun Aixin,0.0
+Wen Yonggang,Tan Rui,0.6
+Wen Yonggang,Vidya Sudarshan,0.0
+Wen Yonggang,Wai Kin Adams Kong,0.25
+Wen Yonggang,Wang Wenya,0.0
+Wen Yonggang,Wee Keong NG,0.5
+Wen Yonggang,Wei Yang Bryan Lim,0.0
+Wen Yonggang,Wei Ying,0.0
+Wen Yonggang,Wentong Cai,0.25
+Wen Yonggang,Yeo Chai Kiat,0.5
+Wen Yonggang,Yu Han,0.0
+Wen Yonggang,Zhang Hanwang,0.1428571428571429
+Wen Yonggang,Zhang Jie,0.0
+Wen Yonggang,Zhang Tianwei,0.33333333333333337
+Wen Yonggang,Zheng Jianmin,0.125
+Wentong Cai,A S Madhukumar,0.1428571428571429
+Wentong Cai,Alexei Sourin,0.19999999999999996
+Wentong Cai,Anupam Chattopadhyay,0.125
+Wentong Cai,Anwitaman Datta,1.0
+Wentong Cai,Arvind Easwaran,0.33333333333333337
+Wentong Cai,Bo An,0.0
+Wentong Cai,Cham Tat Jen,0.25
+Wentong Cai,Chee Wei Tan,0.0
+Wentong Cai,Chen Change Loy,0.5
+Wentong Cai,Chia Liang Tien,0.19999999999999996
+Wentong Cai,Chng Eng Siong,0.0
+Wentong Cai,Cong Gao,0.19999999999999996
+Wentong Cai,Deepu Rajan,0.19999999999999996
+Wentong Cai,Dmitrii Ustiugov,0.33333333333333337
+Wentong Cai,Douglas Leslie Maskell,0.16666666666666663
+Wentong Cai,Dusit Niyato,0.25
+Wentong Cai,Erik Cambria,0.16666666666666663
+Wentong Cai,Goh Wooi Boon,0.19999999999999996
+Wentong Cai,Guan Cuntai,0.0
+Wentong Cai,He Ying,0.5
+Wentong Cai,Huang Shell Ying,0.4
+Wentong Cai,Hui Siu Cheung,0.16666666666666663
+Wentong Cai,Jagath Chandana Rajapakse,0.0
+Wentong Cai,Kwoh Chee Keong,0.16666666666666663
+Wentong Cai,Lam Kwok Yan,0.16666666666666663
+Wentong Cai,Lam Siew Kei,0.19999999999999996
+Wentong Cai,Lee Bu Sung,0.4
+Wentong Cai,Li Boyang,0.5
+Wentong Cai,Li Mo,0.19999999999999996
+Wentong Cai,Li Yi,0.5
+Wentong Cai,Lin Guosheng,0.5
+Wentong Cai,Lin Shang-Wei,0.33333333333333337
+Wentong Cai,Liu Weichen,0.25
+Wentong Cai,Liu Yang,0.33333333333333337
+Wentong Cai,Liu Ziwei,0.5
+Wentong Cai,Loke Yuan Ren,0.1428571428571429
+Wentong Cai,Long Cheng,0.0
+Wentong Cai,Lu Shijian,0.0
+Wentong Cai,Luo Jun,0.0
+Wentong Cai,Luo Siqiang,0.5
+Wentong Cai,Luu Anh Tuan,0.5
+Wentong Cai,Miao Chun Yan,0.16666666666666663
+Wentong Cai,Mohamed M. Sabry,0.125
+Wentong Cai,Oh Hong Lye,0.5
+Wentong Cai,Ong Chin Ann,0.0
+Wentong Cai,Owen Noel Newton Fernando,0.1428571428571429
+Wentong Cai,Pan Xingang,0.0
+Wentong Cai,Qian Kemao,0.16666666666666663
+Wentong Cai,Seah Hock Soon,0.25
+Wentong Cai,Shen Zhiqi,0.0
+Wentong Cai,Siyuan Liu,0.0
+Wentong Cai,Smitha K G,0.16666666666666663
+Wentong Cai,Sourav Saha Bhowmick,0.16666666666666663
+Wentong Cai,Sun Aixin,0.0
+Wentong Cai,Tan Rui,0.16666666666666663
+Wentong Cai,Vidya Sudarshan,0.0
+Wentong Cai,Wai Kin Adams Kong,0.33333333333333337
+Wentong Cai,Wang Wenya,0.0
+Wentong Cai,Wee Keong NG,0.1428571428571429
+Wentong Cai,Wei Yang Bryan Lim,0.19999999999999996
+Wentong Cai,Wei Ying,0.0
+Wentong Cai,Wen Yonggang,0.25
+Wentong Cai,Yeo Chai Kiat,0.1428571428571429
+Wentong Cai,Yu Han,0.16666666666666663
+Wentong Cai,Zhang Hanwang,0.16666666666666663
+Wentong Cai,Zhang Jie,0.0
+Wentong Cai,Zhang Tianwei,0.5
+Wentong Cai,Zheng Jianmin,0.1428571428571429
+Yeo Chai Kiat,A S Madhukumar,1.0
+Yeo Chai Kiat,Alexei Sourin,0.25
+Yeo Chai Kiat,Anupam Chattopadhyay,0.18181818181818177
+Yeo Chai Kiat,Anwitaman Datta,0.1428571428571429
+Yeo Chai Kiat,Arvind Easwaran,0.1428571428571429
+Yeo Chai Kiat,Bo An,0.0
+Yeo Chai Kiat,Cham Tat Jen,0.5
+Yeo Chai Kiat,Chee Wei Tan,0.0
+Yeo Chai Kiat,Chen Change Loy,0.16666666666666663
+Yeo Chai Kiat,Chia Liang Tien,0.6666666666666667
+Yeo Chai Kiat,Chng Eng Siong,0.0
+Yeo Chai Kiat,Cong Gao,0.11111111111111116
+Yeo Chai Kiat,Deepu Rajan,0.6666666666666667
+Yeo Chai Kiat,Dmitrii Ustiugov,0.0
+Yeo Chai Kiat,Douglas Leslie Maskell,0.2222222222222222
+Yeo Chai Kiat,Dusit Niyato,0.5
+Yeo Chai Kiat,Erik Cambria,0.09999999999999998
+Yeo Chai Kiat,Goh Wooi Boon,0.4285714285714286
+Yeo Chai Kiat,Guan Cuntai,0.0
+Yeo Chai Kiat,He Ying,0.16666666666666663
+Yeo Chai Kiat,Huang Shell Ying,0.2222222222222222
+Yeo Chai Kiat,Hui Siu Cheung,0.5714285714285714
+Yeo Chai Kiat,Jagath Chandana Rajapakse,0.0
+Yeo Chai Kiat,Kwoh Chee Keong,0.09999999999999998
+Yeo Chai Kiat,Lam Kwok Yan,0.2222222222222222
+Yeo Chai Kiat,Lam Siew Kei,0.25
+Yeo Chai Kiat,Lee Bu Sung,0.5714285714285714
+Yeo Chai Kiat,Li Boyang,0.16666666666666663
+Yeo Chai Kiat,Li Mo,0.4285714285714286
+Yeo Chai Kiat,Li Yi,0.16666666666666663
+Yeo Chai Kiat,Lin Guosheng,0.16666666666666663
+Yeo Chai Kiat,Lin Shang-Wei,0.1428571428571429
+Yeo Chai Kiat,Liu Weichen,0.125
+Yeo Chai Kiat,Liu Yang,0.1428571428571429
+Yeo Chai Kiat,Liu Ziwei,0.16666666666666663
+Yeo Chai Kiat,Loke Yuan Ren,0.33333333333333337
+Yeo Chai Kiat,Long Cheng,0.0
+Yeo Chai Kiat,Lu Shijian,0.0
+Yeo Chai Kiat,Luo Jun,0.11111111111111116
+Yeo Chai Kiat,Luo Siqiang,0.16666666666666663
+Yeo Chai Kiat,Luu Anh Tuan,0.16666666666666663
+Yeo Chai Kiat,Miao Chun Yan,0.5714285714285714
+Yeo Chai Kiat,Mohamed M. Sabry,0.18181818181818177
+Yeo Chai Kiat,Oh Hong Lye,0.16666666666666663
+Yeo Chai Kiat,Ong Chin Ann,0.1428571428571429
+Yeo Chai Kiat,Owen Noel Newton Fernando,0.33333333333333337
+Yeo Chai Kiat,Pan Xingang,0.0
+Yeo Chai Kiat,Qian Kemao,0.375
+Yeo Chai Kiat,Seah Hock Soon,0.0
+Yeo Chai Kiat,Shen Zhiqi,0.0
+Yeo Chai Kiat,Siyuan Liu,0.0
+Yeo Chai Kiat,Smitha K G,0.2222222222222222
+Yeo Chai Kiat,Sourav Saha Bhowmick,0.09999999999999998
+Yeo Chai Kiat,Sun Aixin,0.0
+Yeo Chai Kiat,Tan Rui,0.5714285714285714
+Yeo Chai Kiat,Vidya Sudarshan,0.0
+Yeo Chai Kiat,Wai Kin Adams Kong,0.1428571428571429
+Yeo Chai Kiat,Wang Wenya,0.0
+Yeo Chai Kiat,Wee Keong NG,0.5
+Yeo Chai Kiat,Wei Yang Bryan Lim,0.0
+Yeo Chai Kiat,Wei Ying,0.0
+Yeo Chai Kiat,Wen Yonggang,0.5
+Yeo Chai Kiat,Wentong Cai,0.1428571428571429
+Yeo Chai Kiat,Yu Han,0.0
+Yeo Chai Kiat,Zhang Hanwang,0.375
+Yeo Chai Kiat,Zhang Jie,0.0
+Yeo Chai Kiat,Zhang Tianwei,0.16666666666666663
+Yeo Chai Kiat,Zheng Jianmin,0.19999999999999996
+Yu Han,A S Madhukumar,0.0
+Yu Han,Alexei Sourin,0.125
+Yu Han,Anupam Chattopadhyay,0.0
+Yu Han,Anwitaman Datta,0.16666666666666663
+Yu Han,Arvind Easwaran,0.0
+Yu Han,Bo An,0.375
+Yu Han,Cham Tat Jen,0.0
+Yu Han,Chee Wei Tan,0.0
+Yu Han,Chen Change Loy,0.0
+Yu Han,Chia Liang Tien,0.0
+Yu Han,Chng Eng Siong,0.33333333333333337
+Yu Han,Cong Gao,0.125
+Yu Han,Deepu Rajan,0.0
+Yu Han,Dmitrii Ustiugov,0.16666666666666663
+Yu Han,Douglas Leslie Maskell,0.0
+Yu Han,Dusit Niyato,0.0
+Yu Han,Erik Cambria,0.4285714285714286
+Yu Han,Goh Wooi Boon,0.0
+Yu Han,Guan Cuntai,0.2857142857142857
+Yu Han,He Ying,0.0
+Yu Han,Huang Shell Ying,0.11111111111111116
+Yu Han,Hui Siu Cheung,0.0
+Yu Han,Jagath Chandana Rajapakse,0.30000000000000004
+Yu Han,Kwoh Chee Keong,0.0
+Yu Han,Lam Kwok Yan,0.0
+Yu Han,Lam Siew Kei,0.0
+Yu Han,Lee Bu Sung,0.11111111111111116
+Yu Han,Li Boyang,0.0
+Yu Han,Li Mo,0.0
+Yu Han,Li Yi,0.0
+Yu Han,Lin Guosheng,0.0
+Yu Han,Lin Shang-Wei,0.0
+Yu Han,Liu Weichen,0.0
+Yu Han,Liu Yang,0.0
+Yu Han,Liu Ziwei,0.0
+Yu Han,Loke Yuan Ren,0.0
+Yu Han,Long Cheng,0.19999999999999996
+Yu Han,Lu Shijian,0.11111111111111116
+Yu Han,Luo Jun,0.0
+Yu Han,Luo Siqiang,0.0
+Yu Han,Luu Anh Tuan,0.0
+Yu Han,Miao Chun Yan,0.11111111111111116
+Yu Han,Mohamed M. Sabry,0.0
+Yu Han,Oh Hong Lye,0.0
+Yu Han,Ong Chin Ann,0.0
+Yu Han,Owen Noel Newton Fernando,0.09999999999999998
+Yu Han,Pan Xingang,0.0
+Yu Han,Qian Kemao,0.0
+Yu Han,Seah Hock Soon,0.33333333333333337
+Yu Han,Shen Zhiqi,0.4285714285714286
+Yu Han,Siyuan Liu,0.125
+Yu Han,Smitha K G,0.0
+Yu Han,Sourav Saha Bhowmick,0.0
+Yu Han,Sun Aixin,0.4
+Yu Han,Tan Rui,0.0
+Yu Han,Vidya Sudarshan,0.0
+Yu Han,Wai Kin Adams Kong,0.0
+Yu Han,Wang Wenya,0.0
+Yu Han,Wee Keong NG,0.0
+Yu Han,Wei Yang Bryan Lim,0.2857142857142857
+Yu Han,Wei Ying,0.16666666666666663
+Yu Han,Wen Yonggang,0.0
+Yu Han,Wentong Cai,0.16666666666666663
+Yu Han,Yeo Chai Kiat,0.0
+Yu Han,Zhang Hanwang,0.0
+Yu Han,Zhang Jie,0.4
+Yu Han,Zhang Tianwei,0.0
+Yu Han,Zheng Jianmin,0.0
+Zhang Hanwang,A S Madhukumar,0.375
+Zhang Hanwang,Alexei Sourin,0.2857142857142857
+Zhang Hanwang,Anupam Chattopadhyay,0.19999999999999996
+Zhang Hanwang,Anwitaman Datta,0.16666666666666663
+Zhang Hanwang,Arvind Easwaran,0.16666666666666663
+Zhang Hanwang,Bo An,0.0
+Zhang Hanwang,Cham Tat Jen,0.33333333333333337
+Zhang Hanwang,Chee Wei Tan,0.0
+Zhang Hanwang,Chen Change Loy,0.19999999999999996
+Zhang Hanwang,Chia Liang Tien,0.2857142857142857
+Zhang Hanwang,Chng Eng Siong,0.0
+Zhang Hanwang,Cong Gao,0.125
+Zhang Hanwang,Deepu Rajan,0.5
+Zhang Hanwang,Dmitrii Ustiugov,0.0
+Zhang Hanwang,Douglas Leslie Maskell,0.25
+Zhang Hanwang,Dusit Niyato,0.33333333333333337
+Zhang Hanwang,Erik Cambria,0.11111111111111116
+Zhang Hanwang,Goh Wooi Boon,0.5
+Zhang Hanwang,Guan Cuntai,0.0
+Zhang Hanwang,He Ying,0.19999999999999996
+Zhang Hanwang,Huang Shell Ying,0.11111111111111116
+Zhang Hanwang,Hui Siu Cheung,0.4285714285714286
+Zhang Hanwang,Jagath Chandana Rajapakse,0.0
+Zhang Hanwang,Kwoh Chee Keong,0.25
+Zhang Hanwang,Lam Kwok Yan,0.11111111111111116
+Zhang Hanwang,Lam Siew Kei,0.2857142857142857
+Zhang Hanwang,Lee Bu Sung,0.11111111111111116
+Zhang Hanwang,Li Boyang,0.19999999999999996
+Zhang Hanwang,Li Mo,0.125
+Zhang Hanwang,Li Yi,0.19999999999999996
+Zhang Hanwang,Lin Guosheng,0.19999999999999996
+Zhang Hanwang,Lin Shang-Wei,0.16666666666666663
+Zhang Hanwang,Liu Weichen,0.1428571428571429
+Zhang Hanwang,Liu Yang,0.16666666666666663
+Zhang Hanwang,Liu Ziwei,0.19999999999999996
+Zhang Hanwang,Loke Yuan Ren,0.5714285714285714
+Zhang Hanwang,Long Cheng,0.0
+Zhang Hanwang,Lu Shijian,0.0
+Zhang Hanwang,Luo Jun,0.0
+Zhang Hanwang,Luo Siqiang,0.19999999999999996
+Zhang Hanwang,Luu Anh Tuan,0.19999999999999996
+Zhang Hanwang,Miao Chun Yan,0.25
+Zhang Hanwang,Mohamed M. Sabry,0.19999999999999996
+Zhang Hanwang,Oh Hong Lye,0.19999999999999996
+Zhang Hanwang,Ong Chin Ann,0.0
+Zhang Hanwang,Owen Noel Newton Fernando,0.2222222222222222
+Zhang Hanwang,Pan Xingang,0.0
+Zhang Hanwang,Qian Kemao,0.4285714285714286
+Zhang Hanwang,Seah Hock Soon,0.0
+Zhang Hanwang,Shen Zhiqi,0.0
+Zhang Hanwang,Siyuan Liu,0.0
+Zhang Hanwang,Smitha K G,0.25
+Zhang Hanwang,Sourav Saha Bhowmick,0.11111111111111116
+Zhang Hanwang,Sun Aixin,0.0
+Zhang Hanwang,Tan Rui,0.11111111111111116
+Zhang Hanwang,Vidya Sudarshan,0.0
+Zhang Hanwang,Wai Kin Adams Kong,0.16666666666666663
+Zhang Hanwang,Wang Wenya,0.0
+Zhang Hanwang,Wee Keong NG,0.2222222222222222
+Zhang Hanwang,Wei Yang Bryan Lim,0.0
+Zhang Hanwang,Wei Ying,0.0
+Zhang Hanwang,Wen Yonggang,0.1428571428571429
+Zhang Hanwang,Wentong Cai,0.16666666666666663
+Zhang Hanwang,Yeo Chai Kiat,0.375
+Zhang Hanwang,Yu Han,0.0
+Zhang Hanwang,Zhang Jie,0.0
+Zhang Hanwang,Zhang Tianwei,0.19999999999999996
+Zhang Hanwang,Zheng Jianmin,0.375
+Zhang Jie,A S Madhukumar,0.0
+Zhang Jie,Alexei Sourin,0.0
+Zhang Jie,Anupam Chattopadhyay,0.0
+Zhang Jie,Anwitaman Datta,0.0
+Zhang Jie,Arvind Easwaran,0.0
+Zhang Jie,Bo An,0.33333333333333337
+Zhang Jie,Cham Tat Jen,0.0
+Zhang Jie,Chee Wei Tan,0.0
+Zhang Jie,Chen Change Loy,0.0
+Zhang Jie,Chia Liang Tien,0.0
+Zhang Jie,Chng Eng Siong,0.6666666666666667
+Zhang Jie,Cong Gao,0.19999999999999996
+Zhang Jie,Deepu Rajan,0.0
+Zhang Jie,Dmitrii Ustiugov,0.0
+Zhang Jie,Douglas Leslie Maskell,0.0
+Zhang Jie,Dusit Niyato,0.0
+Zhang Jie,Erik Cambria,0.4
+Zhang Jie,Goh Wooi Boon,0.0
+Zhang Jie,Guan Cuntai,0.5
+Zhang Jie,He Ying,0.0
+Zhang Jie,Huang Shell Ying,0.0
+Zhang Jie,Hui Siu Cheung,0.0
+Zhang Jie,Jagath Chandana Rajapakse,0.25
+Zhang Jie,Kwoh Chee Keong,0.0
+Zhang Jie,Lam Kwok Yan,0.0
+Zhang Jie,Lam Siew Kei,0.0
+Zhang Jie,Lee Bu Sung,0.0
+Zhang Jie,Li Boyang,0.0
+Zhang Jie,Li Mo,0.0
+Zhang Jie,Li Yi,0.0
+Zhang Jie,Lin Guosheng,0.0
+Zhang Jie,Lin Shang-Wei,0.0
+Zhang Jie,Liu Weichen,0.0
+Zhang Jie,Liu Yang,0.0
+Zhang Jie,Liu Ziwei,0.0
+Zhang Jie,Loke Yuan Ren,0.0
+Zhang Jie,Long Cheng,0.0
+Zhang Jie,Lu Shijian,0.0
+Zhang Jie,Luo Jun,0.0
+Zhang Jie,Luo Siqiang,0.0
+Zhang Jie,Luu Anh Tuan,0.0
+Zhang Jie,Miao Chun Yan,0.16666666666666663
+Zhang Jie,Mohamed M. Sabry,0.0
+Zhang Jie,Oh Hong Lye,0.0
+Zhang Jie,Ong Chin Ann,0.0
+Zhang Jie,Owen Noel Newton Fernando,0.0
+Zhang Jie,Pan Xingang,0.0
+Zhang Jie,Qian Kemao,0.0
+Zhang Jie,Seah Hock Soon,0.0
+Zhang Jie,Shen Zhiqi,0.4
+Zhang Jie,Siyuan Liu,0.19999999999999996
+Zhang Jie,Smitha K G,0.0
+Zhang Jie,Sourav Saha Bhowmick,0.0
+Zhang Jie,Sun Aixin,0.33333333333333337
+Zhang Jie,Tan Rui,0.0
+Zhang Jie,Vidya Sudarshan,0.0
+Zhang Jie,Wai Kin Adams Kong,0.0
+Zhang Jie,Wang Wenya,0.0
+Zhang Jie,Wee Keong NG,0.0
+Zhang Jie,Wei Yang Bryan Lim,0.19999999999999996
+Zhang Jie,Wei Ying,0.33333333333333337
+Zhang Jie,Wen Yonggang,0.0
+Zhang Jie,Wentong Cai,0.0
+Zhang Jie,Yeo Chai Kiat,0.0
+Zhang Jie,Yu Han,0.4
+Zhang Jie,Zhang Hanwang,0.0
+Zhang Jie,Zhang Tianwei,0.0
+Zhang Jie,Zheng Jianmin,0.0
+Zhang Tianwei,A S Madhukumar,0.16666666666666663
+Zhang Tianwei,Alexei Sourin,0.25
+Zhang Tianwei,Anupam Chattopadhyay,0.1428571428571429
+Zhang Tianwei,Anwitaman Datta,0.5
+Zhang Tianwei,Arvind Easwaran,0.5
+Zhang Tianwei,Bo An,0.0
+Zhang Tianwei,Cham Tat Jen,0.33333333333333337
+Zhang Tianwei,Chee Wei Tan,0.0
+Zhang Tianwei,Chen Change Loy,1.0
+Zhang Tianwei,Chia Liang Tien,0.25
+Zhang Tianwei,Chng Eng Siong,0.0
+Zhang Tianwei,Cong Gao,0.25
+Zhang Tianwei,Deepu Rajan,0.25
+Zhang Tianwei,Dmitrii Ustiugov,0.0
+Zhang Tianwei,Douglas Leslie Maskell,0.19999999999999996
+Zhang Tianwei,Dusit Niyato,0.33333333333333337
+Zhang Tianwei,Erik Cambria,0.19999999999999996
+Zhang Tianwei,Goh Wooi Boon,0.25
+Zhang Tianwei,Guan Cuntai,0.0
+Zhang Tianwei,He Ying,1.0
+Zhang Tianwei,Huang Shell Ying,0.19999999999999996
+Zhang Tianwei,Hui Siu Cheung,0.19999999999999996
+Zhang Tianwei,Jagath Chandana Rajapakse,0.0
+Zhang Tianwei,Kwoh Chee Keong,0.19999999999999996
+Zhang Tianwei,Lam Kwok Yan,0.19999999999999996
+Zhang Tianwei,Lam Siew Kei,0.25
+Zhang Tianwei,Lee Bu Sung,0.19999999999999996
+Zhang Tianwei,Li Boyang,1.0
+Zhang Tianwei,Li Mo,0.25
+Zhang Tianwei,Li Yi,1.0
+Zhang Tianwei,Lin Guosheng,1.0
+Zhang Tianwei,Lin Shang-Wei,0.5
+Zhang Tianwei,Liu Weichen,0.33333333333333337
+Zhang Tianwei,Liu Yang,0.5
+Zhang Tianwei,Liu Ziwei,1.0
+Zhang Tianwei,Loke Yuan Ren,0.16666666666666663
+Zhang Tianwei,Long Cheng,0.0
+Zhang Tianwei,Lu Shijian,0.0
+Zhang Tianwei,Luo Jun,0.0
+Zhang Tianwei,Luo Siqiang,1.0
+Zhang Tianwei,Luu Anh Tuan,1.0
+Zhang Tianwei,Miao Chun Yan,0.19999999999999996
+Zhang Tianwei,Mohamed M. Sabry,0.1428571428571429
+Zhang Tianwei,Oh Hong Lye,1.0
+Zhang Tianwei,Ong Chin Ann,0.0
+Zhang Tianwei,Owen Noel Newton Fernando,0.16666666666666663
+Zhang Tianwei,Pan Xingang,0.0
+Zhang Tianwei,Qian Kemao,0.19999999999999996
+Zhang Tianwei,Seah Hock Soon,0.0
+Zhang Tianwei,Shen Zhiqi,0.0
+Zhang Tianwei,Siyuan Liu,0.0
+Zhang Tianwei,Smitha K G,0.19999999999999996
+Zhang Tianwei,Sourav Saha Bhowmick,0.19999999999999996
+Zhang Tianwei,Sun Aixin,0.0
+Zhang Tianwei,Tan Rui,0.19999999999999996
+Zhang Tianwei,Vidya Sudarshan,0.0
+Zhang Tianwei,Wai Kin Adams Kong,0.5
+Zhang Tianwei,Wang Wenya,0.0
+Zhang Tianwei,Wee Keong NG,0.16666666666666663
+Zhang Tianwei,Wei Yang Bryan Lim,0.0
+Zhang Tianwei,Wei Ying,0.0
+Zhang Tianwei,Wen Yonggang,0.33333333333333337
+Zhang Tianwei,Wentong Cai,0.5
+Zhang Tianwei,Yeo Chai Kiat,0.16666666666666663
+Zhang Tianwei,Yu Han,0.0
+Zhang Tianwei,Zhang Hanwang,0.19999999999999996
+Zhang Tianwei,Zhang Jie,0.0
+Zhang Tianwei,Zheng Jianmin,0.16666666666666663
+Zheng Jianmin,A S Madhukumar,0.19999999999999996
+Zheng Jianmin,Alexei Sourin,0.25
+Zheng Jianmin,Anupam Chattopadhyay,0.08333333333333337
+Zheng Jianmin,Anwitaman Datta,0.1428571428571429
+Zheng Jianmin,Arvind Easwaran,0.1428571428571429
+Zheng Jianmin,Bo An,0.0
+Zheng Jianmin,Cham Tat Jen,0.2857142857142857
+Zheng Jianmin,Chee Wei Tan,0.0
+Zheng Jianmin,Chen Change Loy,0.16666666666666663
+Zheng Jianmin,Chia Liang Tien,0.25
+Zheng Jianmin,Chng Eng Siong,0.0
+Zheng Jianmin,Cong Gao,0.11111111111111116
+Zheng Jianmin,Deepu Rajan,0.25
+Zheng Jianmin,Dmitrii Ustiugov,0.0
+Zheng Jianmin,Douglas Leslie Maskell,0.09999999999999998
+Zheng Jianmin,Dusit Niyato,0.125
+Zheng Jianmin,Erik Cambria,0.09999999999999998
+Zheng Jianmin,Goh Wooi Boon,0.25
+Zheng Jianmin,Guan Cuntai,0.0
+Zheng Jianmin,He Ying,0.16666666666666663
+Zheng Jianmin,Huang Shell Ying,0.09999999999999998
+Zheng Jianmin,Hui Siu Cheung,0.375
+Zheng Jianmin,Jagath Chandana Rajapakse,0.0
+Zheng Jianmin,Kwoh Chee Keong,0.2222222222222222
+Zheng Jianmin,Lam Kwok Yan,0.09999999999999998
+Zheng Jianmin,Lam Siew Kei,0.11111111111111116
+Zheng Jianmin,Lee Bu Sung,0.09999999999999998
+Zheng Jianmin,Li Boyang,0.16666666666666663
+Zheng Jianmin,Li Mo,0.11111111111111116
+Zheng Jianmin,Li Yi,0.16666666666666663
+Zheng Jianmin,Lin Guosheng,0.16666666666666663
+Zheng Jianmin,Lin Shang-Wei,0.1428571428571429
+Zheng Jianmin,Liu Weichen,0.125
+Zheng Jianmin,Liu Yang,0.1428571428571429
+Zheng Jianmin,Liu Ziwei,0.16666666666666663
+Zheng Jianmin,Loke Yuan Ren,0.33333333333333337
+Zheng Jianmin,Long Cheng,0.0
+Zheng Jianmin,Lu Shijian,0.0
+Zheng Jianmin,Luo Jun,0.0
+Zheng Jianmin,Luo Siqiang,0.16666666666666663
+Zheng Jianmin,Luu Anh Tuan,0.16666666666666663
+Zheng Jianmin,Miao Chun Yan,0.2222222222222222
+Zheng Jianmin,Mohamed M. Sabry,0.08333333333333337
+Zheng Jianmin,Oh Hong Lye,0.16666666666666663
+Zheng Jianmin,Ong Chin Ann,0.0
+Zheng Jianmin,Owen Noel Newton Fernando,0.5
+Zheng Jianmin,Pan Xingang,0.0
+Zheng Jianmin,Qian Kemao,0.375
+Zheng Jianmin,Seah Hock Soon,0.0
+Zheng Jianmin,Shen Zhiqi,0.0
+Zheng Jianmin,Siyuan Liu,0.0
+Zheng Jianmin,Smitha K G,0.09999999999999998
+Zheng Jianmin,Sourav Saha Bhowmick,0.375
+Zheng Jianmin,Sun Aixin,0.0
+Zheng Jianmin,Tan Rui,0.09999999999999998
+Zheng Jianmin,Vidya Sudarshan,0.0
+Zheng Jianmin,Wai Kin Adams Kong,0.1428571428571429
+Zheng Jianmin,Wang Wenya,0.0
+Zheng Jianmin,Wee Keong NG,0.19999999999999996
+Zheng Jianmin,Wei Yang Bryan Lim,0.0
+Zheng Jianmin,Wei Ying,0.0
+Zheng Jianmin,Wen Yonggang,0.125
+Zheng Jianmin,Wentong Cai,0.1428571428571429
+Zheng Jianmin,Yeo Chai Kiat,0.19999999999999996
+Zheng Jianmin,Yu Han,0.0
+Zheng Jianmin,Zhang Hanwang,0.375
+Zheng Jianmin,Zhang Jie,0.0
+Zheng Jianmin,Zhang Tianwei,0.16666666666666663
